@@ -1,0 +1,1367 @@
+{
+  "query": "flex vacuum hose 4m",
+  "fetched_at": 1778264707.082198,
+  "count": 10,
+  "products": [
+    {
+      "id": "gid://shopify/p/5IPErz9eN819bQTfjvPTWN",
+      "title": "Vac-U-Flex Vinyl Wire Reinforced Vacuum Hose",
+      "image_url": "https://cdn.shopify.com/s/files/1/0709/2469/7763/files/4d0d8e77e577ba49585996c78cc9fdecbd9e2009_52278_1_H.png",
+      "seller_name": "Hartville Hardware",
+      "seller_url": "https://hartvillehardware.com",
+      "price_min": 3.78,
+      "price_max": 3.78,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://hartvillehardware.com/cart/46631226540195:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/3hbaj5IxWErImyBxKErGCW",
+      "title": "Flexaust, Vacuum Hose, Blue, 1.5\" X 25'",
+      "image_url": "https://cdn.shopify.com/s/files/1/1065/3536/products/blue-vacuum-hose.png",
+      "seller_name": "TMF Store",
+      "seller_url": "https://shop.truckmountforums.com",
+      "price_min": 80.0,
+      "price_max": 80.0,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://shop.truckmountforums.com/cart/32512612892718:1",
+      "rating": 5.0,
+      "rating_count": 6
+    },
+    {
+      "id": "gid://shopify/p/4JCmMbHvqOHR2OHonNFZCT",
+      "title": "Vacuum Hose, Flexible, 1-1/4 \" x 4 ft.",
+      "image_url": "https://cdn.shopify.com/s/files/1/0611/6609/2465/files/Z2oBDxqcpIx.jpg",
+      "seller_name": "The Tools Man",
+      "seller_url": "https://www.thetoolsman.com",
+      "price_min": 17.69,
+      "price_max": 17.69,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://www.thetoolsman.com/cart/43656180039857:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/5p85HaO0c8um4GQw7j74uJ",
+      "title": "Flex-Tube PE",
+      "image_url": "https://cdn.shopify.com/s/files/1/0720/6227/1721/files/Flex-Tube-PE.png",
+      "seller_name": "Wholesale Hoses",
+      "seller_url": "https://www.wholesalehoses.com",
+      "price_min": 186.0,
+      "price_max": 250.6,
+      "available": true,
+      "variant_count": 4,
+      "url": "https://www.wholesalehoses.com/cart/48300516704489:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/7bASBazCUbZa8uVMv2F6MY",
+      "title": "4-Flex-Tube-PV-12 by Flexaust | #3504040012 | Flex-Tube PV | Air, Fume, and Dust Duct Hose | 4 inch | 12ft",
+      "image_url": "https://cdn.shopify.com/s/files/1/0093/3806/0836/files/FlexaustFlex-TubePV_695x632_624c4378-d0bc-4cf7-ad29-e1c7759a7a74.jpg",
+      "seller_name": "HoseWarehouse",
+      "seller_url": "https://hosewarehouse.com",
+      "price_min": 62.28,
+      "price_max": 258.57,
+      "available": true,
+      "variant_count": 4,
+      "url": "https://hosewarehouse.com/cart/11771360575524:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/6ve8SQV6fL5INWFp6mAMP3",
+      "title": "FLEXAUST Vacuum Duct Hose:  4ft, 6ft & 13ft (3 sections of 4\u2033 ID)",
+      "image_url": "https://cdn.shopify.com/s/files/1/0741/2239/5869/files/57_27796b45-7d8f-4ade-9747-8c38a7f22b23.jpg",
+      "seller_name": "Industryrecycles",
+      "seller_url": "https://industryrecycles.com",
+      "price_min": 84.91,
+      "price_max": 84.91,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://industryrecycles.com/cart/46870431367389:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/1M2JKBdeBzn3yWkTgHXmPO",
+      "title": "Beam Super Flex 35 ft. Low Voltage Hose",
+      "image_url": "https://cdn.shopify.com/s/files/1/0642/2711/5050/files/BEAM-HO7-BLP.jpg",
+      "seller_name": "eVacuumStore",
+      "seller_url": "https://evacuumstore.com",
+      "price_min": 173.0,
+      "price_max": 173.0,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://evacuumstore.com/cart/44162361425962:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/2JPYfaQqp2ZralhgN4eqbD",
+      "title": "Beam Super Flex 30 ft. Low Voltage Hose",
+      "image_url": "https://cdn.shopify.com/s/files/1/0642/2711/5050/files/BEAM-HO7-BLP_39003889-e5a3-4303-8a43-24477a325e32.jpg",
+      "seller_name": "eVacuumStore",
+      "seller_url": "https://evacuumstore.com",
+      "price_min": 158.0,
+      "price_max": 158.0,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://evacuumstore.com/cart/44162427224106:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/4EBdLvVcuxHuqSU3WNVJbI",
+      "title": "Flex-Hose 4X9SMP Hose Ss Flex 4 x 9 Inch Cs 150# Flg",
+      "image_url": "",
+      "seller_name": "",
+      "seller_url": "",
+      "price_min": null,
+      "price_max": null,
+      "available": false,
+      "variant_count": 0,
+      "url": "",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/1btssjUcO9E5nsQv4h0rcB",
+      "title": "Vac-U-Flex Hose - 1-1/4 Inch x 50 Foot - Black",
+      "image_url": "https://cdn.shopify.com/s/files/1/0684/3934/3354/files/035401250429_1_cd8f053a-8781-4e42-aa65-c385c54639d1.jpg",
+      "seller_name": "Vacuums and More",
+      "seller_url": "https://evacuumsandmore.com",
+      "price_min": 102.99,
+      "price_max": 102.99,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://evacuumsandmore.com/cart/48456280178938:1",
+      "rating": null,
+      "rating_count": null
+    }
+  ],
+  "raw": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "result": {
+      "structuredContent": {
+        "ucp": {
+          "version": "2026-04-08",
+          "capabilities": {
+            "dev.ucp.shopping.catalog.search": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://ucp.dev/2026-04-08/specification/catalog",
+                "schema": "https://ucp.dev/2026-04-08/schemas/shopping/catalog_search.json"
+              }
+            ],
+            "dev.ucp.shopping.catalog.lookup": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://ucp.dev/2026-04-08/specification/catalog",
+                "schema": "https://ucp.dev/2026-04-08/schemas/shopping/catalog_lookup.json"
+              }
+            ],
+            "dev.shopify.catalog.global": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://shopify.dev/docs/agents/catalog/global-catalog",
+                "schema": "https://shopify.dev/ucp/schemas/2026-04-08/shopify_catalog_global.json",
+                "extends": [
+                  "dev.ucp.shopping.catalog.search",
+                  "dev.ucp.shopping.catalog.lookup"
+                ],
+                "requires": {
+                  "protocol": {
+                    "min": "2026-04-08"
+                  }
+                }
+              }
+            ]
+          },
+          "status": "success"
+        },
+        "products": [
+          {
+            "id": "gid://shopify/p/5IPErz9eN819bQTfjvPTWN",
+            "title": "Vac-U-Flex Vinyl Wire Reinforced Vacuum Hose",
+            "description": {
+              "plain": ""
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0709/2469/7763/files/4d0d8e77e577ba49585996c78cc9fdecbd9e2009_52278_1_H.png",
+                "alt_text": "Coiled vinyl vacuum hose with wire reinforcement, designed for durability in home improvement and cleaning tasks"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/46631226540195?shop=70924697763",
+                "title": "Vac-U-Flex Vinyl Wire Reinforced Vacuum Hose",
+                "description": {
+                  "plain": "Vac-U-Flex Vinyl Wire Reinforced Vacuum Hose is designed to be compatible with most central vacuum systems, making it a versatile choice for your cleaning needs. This durable hose features a 1.25-inch diameter and comes in a convenient 50-foot length, sold by the foot to fit your specific requirements. Please note that the hose does not include end fittings, allowing you to customize it as needed for your setup. Its reinforced vinyl construction ensures flexibility and strength, providing reliable performance during use. Model Number: 32-1247-67"
+                },
+                "url": "https://hartvillehardware.com/products/vac-u-flex-vinyl-wire-reinforced-vacuum-hose?variant=46631226540195",
+                "price": {
+                  "amount": 378,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0709/2469/7763/files/4d0d8e77e577ba49585996c78cc9fdecbd9e2009_52278_1_H.png",
+                    "alt_text": "Coiled vinyl vacuum hose with wire reinforcement, designed for durability in home improvement and cleaning tasks"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/70924697763",
+                  "name": "Hartville Hardware",
+                  "url": "https://hartvillehardware.com",
+                  "domain": "an10r4-yu.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/70924697763/policies/34629222563.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/70924697763/policies/39841988771.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/70924697763/policies/36845191331.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/70924697763/policies/36845224099.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hartvillehardware.com/cart/46631226540195:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 378,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 378,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/3hbaj5IxWErImyBxKErGCW",
+            "title": "Flexaust, Vacuum Hose, Blue, 1.5\" X 25'",
+            "description": {
+              "plain": "Durable, flexible vacuum hose designed for professional cleaning applications."
+            },
+            "rating": {
+              "value": 5.0,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 6
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Smooth, free-flowing bore and high flexibility for efficient vacuum performance in both truckmount and portable use."
+              ],
+              "top_features": "Smooth, free-flowing bore enables high air movement for efficient vacuuming\nStrong yet highly flexible construction allows easy maneuverability in tight spaces\nDurable plastic material withstands heavy professional use\nCompatible with both truckmount and portable vacuum systems\nReusable design supports long-term, cost-effective operation",
+              "tech_specs": "Diameter: 1.5 inches\nLengths Available: 25 feet, 50 feet\nColor Options: Blue, Orange\nMaterial: Plastic\nPattern: Striped (Blue), Solid (Orange)\nUsage Type: Reusable"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/1065/3536/products/blue-vacuum-hose.png",
+                "alt_text": "Flexaust, Vacuum Hose, Blue, 1.5\" X 25' TMF Store"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/32512612892718?shop=10653536",
+                "title": "Flexaust, Vacuum Hose, Blue, 1.5\" X 25'",
+                "description": {
+                  "plain": "Built to take abuse that everyday professional-use dishes out. With smooth, free-flowing bore inside, it allows high air movement and efficient vacuum. Strong and yet highly flexible this hose is the perfect choice for both truckmount and portable use."
+                },
+                "url": "https://shop.truckmountforums.com/products/flexaust-vacuum-hose-blue-1-5-x-25?variant=32512612892718",
+                "price": {
+                  "amount": 8000,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/1065/3536/products/blue-vacuum-hose.png",
+                    "alt_text": "Flexaust, Vacuum Hose, Blue, 1.5\" X 25' TMF Store"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/10653536",
+                  "name": "TMF Store",
+                  "url": "https://shop.truckmountforums.com",
+                  "domain": "truck-mount-forums.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/10653536/policies/12292165.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/10653536/policies/12292229.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/10653536/policies/12292101.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/10653536/policies/13070860334.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://shop.truckmountforums.com/cart/32512612892718:1",
+                "rating": {
+                  "value": 5.0,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 6
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 8000,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 8000,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/4JCmMbHvqOHR2OHonNFZCT",
+            "title": "Vacuum Hose, Flexible, 1-1/4 \" x 4 ft.",
+            "description": {
+              "plain": "A durable, flexible vacuum hose designed for efficient cleaning in tight spaces."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Flexible 1 1 4 inch hose provides reliable performance for crevice and hard-to-reach areas."
+              ],
+              "top_features": "Flexible construction allows easy maneuvering in narrow spaces for thorough cleaning\n1 1 4 inch diameter ensures compatibility with standard vacuum systems\n4 foot length offers extended reach for deep or wide areas\nDurable material resists kinking and wear for long-lasting use",
+              "tech_specs": "Diameter: 1 1 4 in\nLength: 4 ft\nMaterial: Flexible hose\nIntended Use: Crevice and hard-to-reach areas"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0611/6609/2465/files/Z2oBDxqcpIx.jpg",
+                "alt_text": "Z2oBDxqcpIx_.JPG"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/43656180039857?shop=61166092465",
+                "title": "Vacuum Hose, Flexible, 1-1/4 \" x 4 ft.",
+                "description": {
+                  "plain": "Vacuum Hose,Flexible,1-1/4 In. x 4 ft. graingerSKU: , mscSKU: , zoro_no: G5752540, mongo_id: 65bbe5a03aaddbd5a9fd74e1"
+                },
+                "url": "https://www.thetoolsman.com/products/stanley-vacuum-hose-flexible-1-14-x-4-ft-20-1300?variant=43656180039857",
+                "price": {
+                  "amount": 1769,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0611/6609/2465/files/Z2oBDxqcpIx.jpg",
+                    "alt_text": "Z2oBDxqcpIx_.JPG"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/61166092465",
+                  "name": "The Tools Man",
+                  "url": "https://www.thetoolsman.com",
+                  "domain": "thetoolsman2022.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/61166092465/policies/26315096241.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/61166092465/policies/26315129009.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/61166092465/policies/26315063473.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/61166092465/policies/26315161777.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.thetoolsman.com/cart/43656180039857:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 1769,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 1769,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/5p85HaO0c8um4GQw7j74uJ",
+            "title": "Flex-Tube PE",
+            "description": {
+              "plain": "Lightweight, UV-stabilized polyethylene hose with a rigid helix for efficient airflow and durability in vacuum applications."
+            },
+            "options": [
+              {
+                "name": "Hose diameter",
+                "values": [
+                  {
+                    "label": "1.25 in"
+                  },
+                  {
+                    "label": "2 in"
+                  },
+                  {
+                    "label": "2.5 in"
+                  },
+                  {
+                    "label": "3 in"
+                  }
+                ]
+              },
+              {
+                "name": "Hose length",
+                "values": [
+                  {
+                    "label": "50 ft"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Combines flexibility, crush resistance, and a rigid helix for efficient airflow in lightweight vacuum systems."
+              ],
+              "top_features": "UV-stabilized polyethylene construction: Ensures long-lasting durability in outdoor or industrial environments\nRigid external polyethylene helix: Maintains hose shape and resists wear for extended service life\nSmooth interior wall: Promotes efficient airflow and reduces friction\nCrush resistant design: Withstands pressure and prevents accidental damage\nLightweight build: Easy to handle and install in various applications",
+              "tech_specs": "Material: Black polyethylene copolymer\nWall Thickness: 0.012 in\nColor: Black\nHose Material: Plastic\nPattern: Solid"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0720/6227/1721/files/Flex-Tube-PE.png",
+                "alt_text": "Flex-Tube PE Hose \u2013 hose product image from Wholesale Hoses"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/48300516704489?shop=72062271721",
+                "title": "Flex-Tube PE",
+                "description": {
+                  "plain": "Ultra-Light Polyethylene Hose for Lightweight Vacuum Applications The Flex-Tube PE is a UV-stabilized black polyethylene copolymer hose with a rigid external polyethylene helix that doubles as a wearstrip. At .012\" wall thickness, it is one of the lightest hoses in our lineup \u2014 built for lightweight vacuum applications where minimizing hose weight matters more than heavy-wall durability. The smooth interior wall delivers efficient airflow with minimal friction loss. The external helix protects the hose wall during drag-along use. Where the Flex-Tube PE Fits This hose is well-suited for industrial vacuum cleaning, textile fiber collection, paper and textile process air, fume ventilation, and general lightweight air handling. The polyethylene construction and UV stabilization make it a good fit for indoor or outdoor use. Sizing & Install Best Practices Match inside diameter to your vacuum system or air handler inlet. The .012\" wall makes this hose very light but also thinner than polyurethane alternatives \u2014 avoid applications with heavy abrasive material or sharp debris that could puncture the wall. For heavier-duty vacuum and dust collection, the Flex-Tube PV or Flex-Tube PU offer thicker polyurethane construction. Light weight UV stabilized black polyethylene copolymer hose with a black rigid external polyethylene helix. \u2022 Smooth interior wall assures efficient airflow \u2022 Very flexible & crush resistant \u2022 Ideal for lightweight vacuum applications \u2022 Helix acts as a wearstrip \u2022 Wall Thickness = .012\" Hose Specifications: View, Print, or Download Applications The Flex-Tube PE is part of our selection for these applications: Air Handling Fume Ventilation Industrial Vacuum Cleaners Paper & Textile Polyethylene Hoses Textile Fiber Collection Vacuum Cleaning"
+                },
+                "url": "https://www.wholesalehoses.com/products/flex-tube-pe-hose?variant=48300516704489",
+                "price": {
+                  "amount": 18600,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Hose diameter",
+                    "label": "1.25 in"
+                  },
+                  {
+                    "name": "Hose length",
+                    "label": "50 ft"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0720/6227/1721/files/Flex-Tube-PE.png",
+                    "alt_text": "Flex-Tube PE Hose \u2013 hose product image from Wholesale Hoses"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/72062271721",
+                  "name": "Wholesale Hoses",
+                  "url": "https://www.wholesalehoses.com",
+                  "domain": "caaeex-97.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/72062271721/policies/32022954217.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/72062271721/policies/33180877033.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/72062271721/policies/33181040873.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/72062271721/policies/33181073641.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.wholesalehoses.com/cart/48300516704489:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/48300516737257?shop=72062271721",
+                "title": "Flex-Tube PE",
+                "description": {
+                  "plain": "Ultra-Light Polyethylene Hose for Lightweight Vacuum Applications The Flex-Tube PE is a UV-stabilized black polyethylene copolymer hose with a rigid external polyethylene helix that doubles as a wearstrip. At .012\" wall thickness, it is one of the lightest hoses in our lineup \u2014 built for lightweight vacuum applications where minimizing hose weight matters more than heavy-wall durability. The smooth interior wall delivers efficient airflow with minimal friction loss. The external helix protects the hose wall during drag-along use. Where the Flex-Tube PE Fits This hose is well-suited for industrial vacuum cleaning, textile fiber collection, paper and textile process air, fume ventilation, and general lightweight air handling. The polyethylene construction and UV stabilization make it a good fit for indoor or outdoor use. Sizing & Install Best Practices Match inside diameter to your vacuum system or air handler inlet. The .012\" wall makes this hose very light but also thinner than polyurethane alternatives \u2014 avoid applications with heavy abrasive material or sharp debris that could puncture the wall. For heavier-duty vacuum and dust collection, the Flex-Tube PV or Flex-Tube PU offer thicker polyurethane construction. Light weight UV stabilized black polyethylene copolymer hose with a black rigid external polyethylene helix. \u2022 Smooth interior wall assures efficient airflow \u2022 Very flexible & crush resistant \u2022 Ideal for lightweight vacuum applications \u2022 Helix acts as a wearstrip \u2022 Wall Thickness = .012\" Hose Specifications: View, Print, or Download Applications The Flex-Tube PE is part of our selection for these applications: Air Handling Fume Ventilation Industrial Vacuum Cleaners Paper & Textile Polyethylene Hoses Textile Fiber Collection Vacuum Cleaning"
+                },
+                "url": "https://www.wholesalehoses.com/products/flex-tube-pe-hose?variant=48300516737257",
+                "price": {
+                  "amount": 20640,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Hose diameter",
+                    "label": "2 in"
+                  },
+                  {
+                    "name": "Hose length",
+                    "label": "50 ft"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0720/6227/1721/files/Flex-Tube-PE.png",
+                    "alt_text": "Flex-Tube PE Hose \u2013 hose product image from Wholesale Hoses"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/72062271721",
+                  "name": "Wholesale Hoses",
+                  "url": "https://www.wholesalehoses.com",
+                  "domain": "caaeex-97.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/72062271721/policies/32022954217.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/72062271721/policies/33180877033.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/72062271721/policies/33181040873.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/72062271721/policies/33181073641.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.wholesalehoses.com/cart/48300516737257:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/48300516770025?shop=72062271721",
+                "title": "Flex-Tube PE",
+                "description": {
+                  "plain": "Ultra-Light Polyethylene Hose for Lightweight Vacuum Applications The Flex-Tube PE is a UV-stabilized black polyethylene copolymer hose with a rigid external polyethylene helix that doubles as a wearstrip. At .012\" wall thickness, it is one of the lightest hoses in our lineup \u2014 built for lightweight vacuum applications where minimizing hose weight matters more than heavy-wall durability. The smooth interior wall delivers efficient airflow with minimal friction loss. The external helix protects the hose wall during drag-along use. Where the Flex-Tube PE Fits This hose is well-suited for industrial vacuum cleaning, textile fiber collection, paper and textile process air, fume ventilation, and general lightweight air handling. The polyethylene construction and UV stabilization make it a good fit for indoor or outdoor use. Sizing & Install Best Practices Match inside diameter to your vacuum system or air handler inlet. The .012\" wall makes this hose very light but also thinner than polyurethane alternatives \u2014 avoid applications with heavy abrasive material or sharp debris that could puncture the wall. For heavier-duty vacuum and dust collection, the Flex-Tube PV or Flex-Tube PU offer thicker polyurethane construction. Light weight UV stabilized black polyethylene copolymer hose with a black rigid external polyethylene helix. \u2022 Smooth interior wall assures efficient airflow \u2022 Very flexible & crush resistant \u2022 Ideal for lightweight vacuum applications \u2022 Helix acts as a wearstrip \u2022 Wall Thickness = .012\" Hose Specifications: View, Print, or Download Applications The Flex-Tube PE is part of our selection for these applications: Air Handling Fume Ventilation Industrial Vacuum Cleaners Paper & Textile Polyethylene Hoses Textile Fiber Collection Vacuum Cleaning"
+                },
+                "url": "https://www.wholesalehoses.com/products/flex-tube-pe-hose?variant=48300516770025",
+                "price": {
+                  "amount": 23942,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Hose diameter",
+                    "label": "2.5 in"
+                  },
+                  {
+                    "name": "Hose length",
+                    "label": "50 ft"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0720/6227/1721/files/Flex-Tube-PE.png",
+                    "alt_text": "Flex-Tube PE Hose \u2013 hose product image from Wholesale Hoses"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/72062271721",
+                  "name": "Wholesale Hoses",
+                  "url": "https://www.wholesalehoses.com",
+                  "domain": "caaeex-97.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/72062271721/policies/32022954217.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/72062271721/policies/33180877033.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/72062271721/policies/33181040873.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/72062271721/policies/33181073641.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.wholesalehoses.com/cart/48300516770025:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/48300516802793?shop=72062271721",
+                "title": "Flex-Tube PE",
+                "description": {
+                  "plain": "Ultra-Light Polyethylene Hose for Lightweight Vacuum Applications The Flex-Tube PE is a UV-stabilized black polyethylene copolymer hose with a rigid external polyethylene helix that doubles as a wearstrip. At .012\" wall thickness, it is one of the lightest hoses in our lineup \u2014 built for lightweight vacuum applications where minimizing hose weight matters more than heavy-wall durability. The smooth interior wall delivers efficient airflow with minimal friction loss. The external helix protects the hose wall during drag-along use. Where the Flex-Tube PE Fits This hose is well-suited for industrial vacuum cleaning, textile fiber collection, paper and textile process air, fume ventilation, and general lightweight air handling. The polyethylene construction and UV stabilization make it a good fit for indoor or outdoor use. Sizing & Install Best Practices Match inside diameter to your vacuum system or air handler inlet. The .012\" wall makes this hose very light but also thinner than polyurethane alternatives \u2014 avoid applications with heavy abrasive material or sharp debris that could puncture the wall. For heavier-duty vacuum and dust collection, the Flex-Tube PV or Flex-Tube PU offer thicker polyurethane construction. Light weight UV stabilized black polyethylene copolymer hose with a black rigid external polyethylene helix. \u2022 Smooth interior wall assures efficient airflow \u2022 Very flexible & crush resistant \u2022 Ideal for lightweight vacuum applications \u2022 Helix acts as a wearstrip \u2022 Wall Thickness = .012\" Hose Specifications: View, Print, or Download Applications The Flex-Tube PE is part of our selection for these applications: Air Handling Fume Ventilation Industrial Vacuum Cleaners Paper & Textile Polyethylene Hoses Textile Fiber Collection Vacuum Cleaning"
+                },
+                "url": "https://www.wholesalehoses.com/products/flex-tube-pe-hose?variant=48300516802793",
+                "price": {
+                  "amount": 25060,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Hose diameter",
+                    "label": "3 in"
+                  },
+                  {
+                    "name": "Hose length",
+                    "label": "50 ft"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0720/6227/1721/files/Flex-Tube-PE.png",
+                    "alt_text": "Flex-Tube PE Hose \u2013 hose product image from Wholesale Hoses"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/72062271721",
+                  "name": "Wholesale Hoses",
+                  "url": "https://www.wholesalehoses.com",
+                  "domain": "caaeex-97.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/72062271721/policies/32022954217.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/72062271721/policies/33180877033.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/72062271721/policies/33181040873.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/72062271721/policies/33181073641.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.wholesalehoses.com/cart/48300516802793:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 18600,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 25060,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/7bASBazCUbZa8uVMv2F6MY",
+            "title": "4-Flex-Tube-PV-12 by Flexaust | #3504040012 | Flex-Tube PV | Air, Fume, and Dust Duct Hose | 4 inch | 12ft",
+            "description": {
+              "plain": "Flexible, crush-resistant 4 inch PVC duct hose designed for efficient airflow in industrial and commercial applications."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Ultra-smooth interior wall and spiral co-extruded construction ensure efficient airflow and durability in demanding environments."
+              ],
+              "top_features": "Ultra-smooth interior wall: Ensures efficient airflow and reduces resistance\nSpiral co-extruded engineered construction: Provides enhanced durability and crush resistance\nFlexible design: Allows easy routing in tight spaces\nClear helix cover: Enhances visibility and acts as a wearstrip\nReusable crimp fittings: Supports long-term, repeated use",
+              "tech_specs": "Length: 25 ft\nDiameter: 4 in\nMaterial: Clear co-extruded polyvinyl chloride (PVC)\nTemperature Range: 20\u00b0F to 160\u00b0F\nWorking Pressure: PSI (not specified)\nWeight: 18 lbs (25 ft hose)"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0093/3806/0836/files/FlexaustFlex-TubePV_695x632_624c4378-d0bc-4cf7-ad29-e1c7759a7a74.jpg",
+                "alt_text": "4-Flex-Tube-PV-12 Flexaust #3504040012 Flex-Tube PV 4 inch Air, Fume, and Dust Duct Hose - 12ft"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/11771360575524?shop=9338060836",
+                "title": "4-Flex-Tube-PV-12 by Flexaust | #3504040012 | Flex-Tube PV | Air, Fume, and Dust Duct Hose | 4 inch | 12ft",
+                "description": {
+                  "plain": "SPECIFICATIONS Applications: Industrial Vacuum Cleaners, Lawn & Leaf Collection, Pharmaceutical, Woodworking/Furniture Industry SAE Rating: N/A Other Ratings: N/A Tube: Medium weight clear co-extruded PVC Reinforcement: Rigid black external PVC helix Cover: N/A Temperature Range: 20 deg. F to 160 deg. F Crimp Fittings: N/A Reusable Fittings: N/A Other Features: Ultra smooth interior wall assures efficient airflow. Very flexible & crush resistant. Spiral co-extruded engineered construction. Helix acts as a wearstrip. Part Number 12 ft Reels Part Number 25 ft Reels Inside Diameter Wall Thickness (In) Centerline Bend Radius (In) Compression Ratio Negative Pressure (In/Hg) Working Pressure (PSI) Weight - 12ft (Lbs/Ft) Weight - 25ft (Lbs/Ft) Flx-Tube PV 2in Flx-Tube PV 2in 2\" .030\" 2.2\" 2:1 27 28 3.84 lbs 8 lbs Flx-Tube PV 2.5in Flx-Tube PV 2.5in 2.5\" .030\" 3.1\" 2:1 26 25 4.8 lbs 10 lbs Flx-Tube PV 3in Flx-Tube PV 3in 3\" .030\" 3.7\" 2:1 22 18 6 lbs 12.5 lbs Flx-Tube PV 4in Flx-Tube PV 4in 4\" .032\" 4\" 2:1 14 16 8.64 lbs 18 lbs Flx-Tube PV 5in Flx-Tube PV 5in 5\" .035\" 5.25\" 2:1 12 17 11.04 lbs 23 lbs Flx-Tube PV 6in Flx-Tube PV 6in 6\" .035\" 6.25\" 2:1 10 12 13.32 lbs 27.75 lbs Flx-Tube PV 7in Flx-Tube PV 7in 7\" .035\" 7\" 2:1 10 11 15.84 lbs 33 lbs Flx-Tube PV 8in Flx-Tube PV 8in 8\" .035\" 8\" 2:1 6 10 18 lbs 37.5 lbs Flx-Tube PV 9in Flx-Tube PV 9in 9\" .040\" 9.25\" 2:1 5 9 19.8 lbs 41.25 lbs Flx-Tube PV 10in Flx-Tube PV 10in 10\" .040\" 9.5\" 2:1 4 7 22.2 lbs 46.25 lbs Technical data based on 2 ft. straight lengths of hose @ 72 deg."
+                },
+                "url": "https://hosewarehouse.com/products/flexaust-flex-tube-pv-4-inch-air-fume-and-dust-duct-hose-12ft?variant=11771360575524",
+                "price": {
+                  "amount": 6228,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0093/3806/0836/files/FlexaustFlex-TubePV_695x632_624c4378-d0bc-4cf7-ad29-e1c7759a7a74.jpg",
+                    "alt_text": "4-Flex-Tube-PV-12 Flexaust #3504040012 Flex-Tube PV 4 inch Air, Fume, and Dust Duct Hose - 12ft"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/9338060836",
+                  "name": "HoseWarehouse",
+                  "url": "https://hosewarehouse.com",
+                  "domain": "murdockind.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/9338060836/policies/5062557732.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/9338060836/policies/5062590500.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/9338060836/policies/5062524964.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/9338060836/policies/5062623268.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hosewarehouse.com/cart/11771360575524:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/45360004890786?shop=26328957003",
+                "title": "4-Flex-Tube-PV-25 by Flexaust | #3504040025 | Flex-Tube PV | Air, Fume, and Dust Duct Hose | 4 inch | 25ft",
+                "description": {
+                  "plain": "SPECIFICATIONS Applications: Industrial Vacuum Cleaners, Lawn & Leaf Collection, Pharmaceutical, Woodworking/Furniture Industry SAE Rating: N/A Other Ratings: N/A Tube: Medium weight clear co-extruded PVC Reinforcement: Rigid black external PVC helix Cover: N/A Temperature Range: 20 deg. F to 160 deg. F Crimp Fittings: N/A Reusable Fittings: N/A Other Features: Ultra smooth interior wall assures efficient airflow. Very flexible & crush resistant. Spiral co-extruded engineered construction. Helix acts as a wearstrip. Part Number 12 ft Reels Part Number 25 ft Reels Inside Diameter Wall Thickness (In) Centerline Bend Radius (In) Compression Ratio Negative Pressure (In/Hg) Working Pressure (PSI) Weight - 12ft (Lbs/Ft) Weight - 25ft (Lbs/Ft) Flx-Tube PV 2in Flx-Tube PV 2in 2\" .030\" 2.2\" 2:1 27 28 3.84 lbs 8 lbs Flx-Tube PV 2.5in Flx-Tube PV 2.5in 2.5\" .030\" 3.1\" 2:1 26 25 4.8 lbs 10 lbs Flx-Tube PV 3in Flx-Tube PV 3in 3\" .030\" 3.7\" 2:1 22 18 6 lbs 12.5 lbs Flx-Tube PV 4in Flx-Tube PV 4in 4\" .032\" 4\" 2:1 14 16 8.64 lbs 18 lbs Flx-Tube PV 5in Flx-Tube PV 5in 5\" .035\" 5.25\" 2:1 12 17 11.04 lbs 23 lbs Flx-Tube PV 6in Flx-Tube PV 6in 6\" .035\" 6.25\" 2:1 10 12 13.32 lbs 27.75 lbs Flx-Tube PV 7in Flx-Tube PV 7in 7\" .035\" 7\" 2:1 10 11 15.84 lbs 33 lbs Flx-Tube PV 8in Flx-Tube PV 8in 8\" .035\" 8\" 2:1 6 10 18 lbs 37.5 lbs Flx-Tube PV 9in Flx-Tube PV 9in 9\" .040\" 9.25\" 2:1 5 9 19.8 lbs 41.25 lbs Flx-Tube PV 10in Flx-Tube PV 10in 10\" .040\" 9.5\" 2:1 4 7 22.2 lbs 46.25 lbs Technical data based on 2 ft. straight lengths of hose @ 72 deg."
+                },
+                "url": "https://murdockindustrial.com/products/flexaust-flex-tube-pv-4-inch-air-fume-and-dust-duct-hose-25ft?variant=45360004890786",
+                "price": {
+                  "amount": 25857,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0263/2895/7003/files/FlexaustFlex-TubePV_695x632_1cec2838-9d14-49af-a628-334c037824c9.jpg",
+                    "alt_text": "4-Flex-Tube-PV-25 by Flexaust | #3504040025 | Flex-Tube PV | Air, Fume, and Dust Duct Hose | 4 inch | 25ft"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/26328957003",
+                  "name": "Murdock Industrial",
+                  "url": "https://murdockindustrial.com",
+                  "domain": "beltsmart.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/26328957003/policies/12840763527.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/26328957003/policies/12840796295.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/26328957003/policies/12840730759.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/26328957003/policies/12840829063.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://murdockindustrial.com/cart/45360004890786:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/11771361493028?shop=9338060836",
+                "title": "4-Flex-Tube-PV-25 by Flexaust | #3504040025 | Flex-Tube PV | Air, Fume, and Dust Duct Hose | 4 inch | 25ft",
+                "description": {
+                  "plain": "SPECIFICATIONS Applications: Industrial Vacuum Cleaners, Lawn & Leaf Collection, Pharmaceutical, Woodworking/Furniture Industry SAE Rating: N/A Other Ratings: N/A Tube: Medium weight clear co-extruded PVC Reinforcement: Rigid black external PVC helix Cover: N/A Temperature Range: 20 deg. F to 160 deg. F Crimp Fittings: N/A Reusable Fittings: N/A Other Features: Ultra smooth interior wall assures efficient airflow. Very flexible & crush resistant. Spiral co-extruded engineered construction. Helix acts as a wearstrip. Part Number 12 ft Reels Part Number 25 ft Reels Inside Diameter Wall Thickness (In) Centerline Bend Radius (In) Compression Ratio Negative Pressure (In/Hg) Working Pressure (PSI) Weight - 12ft (Lbs/Ft) Weight - 25ft (Lbs/Ft) Flx-Tube PV 2in Flx-Tube PV 2in 2\" .030\" 2.2\" 2:1 27 28 3.84 lbs 8 lbs Flx-Tube PV 2.5in Flx-Tube PV 2.5in 2.5\" .030\" 3.1\" 2:1 26 25 4.8 lbs 10 lbs Flx-Tube PV 3in Flx-Tube PV 3in 3\" .030\" 3.7\" 2:1 22 18 6 lbs 12.5 lbs Flx-Tube PV 4in Flx-Tube PV 4in 4\" .032\" 4\" 2:1 14 16 8.64 lbs 18 lbs Flx-Tube PV 5in Flx-Tube PV 5in 5\" .035\" 5.25\" 2:1 12 17 11.04 lbs 23 lbs Flx-Tube PV 6in Flx-Tube PV 6in 6\" .035\" 6.25\" 2:1 10 12 13.32 lbs 27.75 lbs Flx-Tube PV 7in Flx-Tube PV 7in 7\" .035\" 7\" 2:1 10 11 15.84 lbs 33 lbs Flx-Tube PV 8in Flx-Tube PV 8in 8\" .035\" 8\" 2:1 6 10 18 lbs 37.5 lbs Flx-Tube PV 9in Flx-Tube PV 9in 9\" .040\" 9.25\" 2:1 5 9 19.8 lbs 41.25 lbs Flx-Tube PV 10in Flx-Tube PV 10in 10\" .040\" 9.5\" 2:1 4 7 22.2 lbs 46.25 lbs Technical data based on 2 ft. straight lengths of hose @ 72 deg."
+                },
+                "url": "https://hosewarehouse.com/products/flexaust-flex-tube-pv-4-inch-air-fume-and-dust-duct-hose-25ft?variant=11771361493028",
+                "price": {
+                  "amount": 12975,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0093/3806/0836/files/FlexaustFlex-TubePV_695x632_1cec2838-9d14-49af-a628-334c037824c9.jpg",
+                    "alt_text": "4-Flex-Tube-PV-25 Flexaust #3504040025 Flex-Tube PV 4 inch Air, Fume, and Dust Duct Hose - 25ft"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/9338060836",
+                  "name": "HoseWarehouse",
+                  "url": "https://hosewarehouse.com",
+                  "domain": "murdockind.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/9338060836/policies/5062557732.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/9338060836/policies/5062590500.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/9338060836/policies/5062524964.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/9338060836/policies/5062623268.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hosewarehouse.com/cart/11771361493028:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/45360006889634?shop=26328957003",
+                "title": "4-Flex-Tube-PV-12 by Flexaust | #3504040012 | Flex-Tube PV | Air, Fume, and Dust Duct Hose | 4 inch | 12ft",
+                "description": {
+                  "plain": "SPECIFICATIONS Applications: Industrial Vacuum Cleaners, Lawn & Leaf Collection, Pharmaceutical, Woodworking/Furniture Industry SAE Rating: N/A Other Ratings: N/A Tube: Medium weight clear co-extruded PVC Reinforcement: Rigid black external PVC helix Cover: N/A Temperature Range: 20 deg. F to 160 deg. F Crimp Fittings: N/A Reusable Fittings: N/A Other Features: Ultra smooth interior wall assures efficient airflow. Very flexible & crush resistant. Spiral co-extruded engineered construction. Helix acts as a wearstrip. Part Number 12 ft Reels Part Number 25 ft Reels Inside Diameter Wall Thickness (In) Centerline Bend Radius (In) Compression Ratio Negative Pressure (In/Hg) Working Pressure (PSI) Weight - 12ft (Lbs/Ft) Weight - 25ft (Lbs/Ft) Flx-Tube PV 2in Flx-Tube PV 2in 2\" .030\" 2.2\" 2:1 27 28 3.84 lbs 8 lbs Flx-Tube PV 2.5in Flx-Tube PV 2.5in 2.5\" .030\" 3.1\" 2:1 26 25 4.8 lbs 10 lbs Flx-Tube PV 3in Flx-Tube PV 3in 3\" .030\" 3.7\" 2:1 22 18 6 lbs 12.5 lbs Flx-Tube PV 4in Flx-Tube PV 4in 4\" .032\" 4\" 2:1 14 16 8.64 lbs 18 lbs Flx-Tube PV 5in Flx-Tube PV 5in 5\" .035\" 5.25\" 2:1 12 17 11.04 lbs 23 lbs Flx-Tube PV 6in Flx-Tube PV 6in 6\" .035\" 6.25\" 2:1 10 12 13.32 lbs 27.75 lbs Flx-Tube PV 7in Flx-Tube PV 7in 7\" .035\" 7\" 2:1 10 11 15.84 lbs 33 lbs Flx-Tube PV 8in Flx-Tube PV 8in 8\" .035\" 8\" 2:1 6 10 18 lbs 37.5 lbs Flx-Tube PV 9in Flx-Tube PV 9in 9\" .040\" 9.25\" 2:1 5 9 19.8 lbs 41.25 lbs Flx-Tube PV 10in Flx-Tube PV 10in 10\" .040\" 9.5\" 2:1 4 7 22.2 lbs 46.25 lbs Technical data based on 2 ft. straight lengths of hose @ 72 deg."
+                },
+                "url": "https://murdockindustrial.com/products/flexaust-flex-tube-pv-4-inch-air-fume-and-dust-duct-hose-12ft?variant=45360006889634",
+                "price": {
+                  "amount": 11318,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0263/2895/7003/files/FlexaustFlex-TubePV_695x632_624c4378-d0bc-4cf7-ad29-e1c7759a7a74.jpg",
+                    "alt_text": "4-Flex-Tube-PV-12 by Flexaust | #3504040012 | Flex-Tube PV | Air, Fume, and Dust Duct Hose | 4 inch | 12ft"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/26328957003",
+                  "name": "Murdock Industrial",
+                  "url": "https://murdockindustrial.com",
+                  "domain": "beltsmart.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/26328957003/policies/12840763527.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/26328957003/policies/12840796295.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/26328957003/policies/12840730759.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/26328957003/policies/12840829063.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://murdockindustrial.com/cart/45360006889634:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 6228,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 25857,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/6ve8SQV6fL5INWFp6mAMP3",
+            "title": "FLEXAUST Vacuum Duct Hose:  4ft, 6ft & 13ft (3 sections of 4\u2033 ID)",
+            "description": {
+              "plain": "Durable PVC vacuum duct hose designed for reliable airflow in industrial and maintenance applications."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Crush-resistant PVC hose with 14 vacuum rating and multiple length options for versatile use."
+              ],
+              "top_features": "Crush-resistant PVC construction ensures long-lasting performance in demanding environments\n14 vacuum rating supports efficient vacuum operation for various industrial tasks\nAvailable in multiple lengths (4ft, 6ft, 13ft) to suit different installation needs\nCrush-resistant design maintains airflow integrity even under heavy loads\nSuitable for dust, fume, and air applications in maintenance and manufacturing",
+              "tech_specs": "Hose Type: Vacuum duct hose\nInside Diameter: 4 in (3 sections of 4 in ID)\nMaterial: Polyvinyl chloride (PVC)\nMinimum Working Temperature: 20\u00b0F\nMaximum Working Temperature: 160\u00b0F\nMaximum Working Pressure: 16 psi (3 decimals)\nBend Radius: 4 in\nVacuum Rating: 14"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0741/2239/5869/files/57_27796b45-7d8f-4ade-9747-8c38a7f22b23.jpg",
+                "alt_text": "FLEXAUST Vacuum Duct Hose:  4ft, 6ft & 13ft (3 sections of 4\u2033 ID)"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/46870431367389?shop=74122395869",
+                "title": "FLEXAUST Vacuum Duct Hose:  4ft, 6ft & 13ft (3 sections of 4\u2033 ID)",
+                "description": {
+                  "plain": "FLEXAUST Vacuum Duct Hose: 4ft, 6ft & 13ft (3 sections of 4\u2033 ID) MSRP: 180 Hose Type Vacuum Duct Hose Inside Diameter (Inch) 4 Minimum Working Temperature (Deg F) 20 Maximum Working Temperature (F) 160 Maximum Working Pressure (Psi - 3 Decimals) 16.00 Material PVC Bend Radius (Decimal Inch) 4.0000 Vacuum Rating 14 Hose Color Black Resistance Features Crush-Resistant For Use With Dust; Fume; Air Wall Thickness (Decimal Inch) 0.0320 NEW IN OPEN BOX. Original packaging was damaged resulting in minor blemishes including, but not limited to scratches that do not appear to affect its function. SEE PHOTOS. SOLD AS IS. Please review photos, comes as shown. Fast shipping, straight from our warehouse in sunny Florida! **PLEASE NOTE: Items weighing over 75 lbs will have an additional $15 surcharge on shipping cost, imposed by the shipping carrier** Industry Recycles 155 Center Ct, Venice, FL 34285 sep132023 jr242 p3c"
+                },
+                "url": "https://industryrecycles.com/products/flexaust-vacuum-duct-hose-4ft-6ft-13ft-3-sections-of-4-id?variant=46870431367389",
+                "price": {
+                  "amount": 8491,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0741/2239/5869/files/57_27796b45-7d8f-4ade-9747-8c38a7f22b23.jpg",
+                    "alt_text": "FLEXAUST Vacuum Duct Hose:  4ft, 6ft & 13ft (3 sections of 4\u2033 ID)"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/74122395869",
+                  "name": "Industryrecycles",
+                  "url": "https://industryrecycles.com",
+                  "domain": "7h7usf-1m.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/74122395869/policies/33967374557.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/74122395869/policies/40479097053.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/74122395869/policies/40478998749.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/74122395869/policies/40479129821.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://industryrecycles.com/cart/46870431367389:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 8491,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 8491,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/1M2JKBdeBzn3yWkTgHXmPO",
+            "title": "Beam Super Flex 35 ft. Low Voltage Hose",
+            "description": {
+              "plain": "A durable, comfortable low voltage vacuum hose with a full swivel handle for easy, controlled suction cleaning."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Full swivel soft touch grip handle reduces wrist strain and enhances maneuverability during vacuuming."
+              ],
+              "top_features": "Full swivel handle design: Improves maneuverability and reduces wrist strain during use\nSoft touch grip: Provides added comfort for extended cleaning sessions\nTwo-way on/off switch: Allows easy control of vacuum operation without walking back to the inlet\nQuick button release: Enables fast and secure attachment or removal of the hose\nSuction-only compatibility: Ensures reliable performance for standard vacuum systems",
+              "tech_specs": "Hose Length: 30 ft or 35 ft\nConnection Size: 1 3/8 inch\nHose Type: Low voltage (suction only, not compatible with power nozzles)\nHandle: Full swivel, soft touch grip\nSwitch: Two-way on/off switch on handle\nColor: Black"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0642/2711/5050/files/BEAM-HO7-BLP.jpg",
+                "alt_text": "Beam Super Flex 35 ft. Low Voltage Hose"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/44162361425962?shop=64227115050",
+                "title": "Beam Super Flex 35 ft. Low Voltage Hose",
+                "description": {
+                  "plain": "1 3/8\" x 35 ft. Peppercorn low-voltage on/off vacuum hose with a full swivel, soft-touch grip handle for comfortable use. Features a convenient two-way switch and button release for easy connection. This hose is designed for suction-only use and is not compatible with power nozzles. Made to work with the following brands: ACV, Aerus, Aggresor, Air King, Airstream, AirVac, Astrovac, Allegro, Aqua Air, Beam, Black & Decker, Broan, Brute, Budd, Cana-Vac, Cen-Tec, Centralux, Cirrus, CV International, Dirt Devil, DrainVac, DuoVac, DustCare, DynaVac, Easy-Flo, Electrolux, Eureka, Fasco, Filtex, Filter Queen, Frigidaire, Galaxie, Hayden, Honeywell, Hoover, Husky, Imperium, Kenmore, M & S, MD, Nadair, NuTone, OVO, Patton, Phoenix, Prolux, Powerlux, PowerStar, Pullman-Holt, Purvac, Riccar, Royal, SEBO, Sequoia, Signature, Simplicity, Smart Vac, Titan, Vacuflo, Vacumaid, Valet, Vent-A-Vac, Walvac, Wessel-Werk, Whirlpool, Zenex"
+                },
+                "url": "https://evacuumstore.com/products/beam-super-flex-35-ft-low-voltage-hose?variant=44162361425962",
+                "price": {
+                  "amount": 17300,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0642/2711/5050/files/BEAM-HO7-BLP.jpg",
+                    "alt_text": "Beam Super Flex 35 ft. Low Voltage Hose"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/64227115050",
+                  "name": "eVacuumStore",
+                  "url": "https://evacuumstore.com",
+                  "domain": "evacuumstorecom.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/64227115050/policies/29665198122.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/64227115050/policies/31344066602.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/64227115050/policies/31275712554.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/64227115050/policies/31514787882.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://evacuumstore.com/cart/44162361425962:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 17300,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 17300,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/2JPYfaQqp2ZralhgN4eqbD",
+            "title": "Beam Super Flex 30 ft. Low Voltage Hose",
+            "description": {
+              "plain": "A durable, maneuverable 30 ft low voltage vacuum hose with ergonomic grip and easy on-off switch for efficient central vacuum cleaning."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Features a soft touch grip handle with full swivel design for reduced wrist strain and easy on-off control at the handle."
+              ],
+              "top_features": "Soft touch grip handle reduces wrist strain for comfortable extended use\nFull swivel design enhances maneuverability in tight spaces\nTwo-way on/off switch allows easy system control without walking back\nQuick button release enables fast and secure hose attachment and removal\nDurable construction ensures dependable performance for everyday cleaning",
+              "tech_specs": "Length: 30 ft\nDiameter: 1 3/8 in\nVoltage: Low voltage\nColor: Black\nPattern: Solid\nCompatible with major central vacuum brands"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0642/2711/5050/files/BEAM-HO7-BLP_39003889-e5a3-4303-8a43-24477a325e32.jpg",
+                "alt_text": "Beam Super Flex 30 ft. Low Voltage Hose"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/44162427224106?shop=64227115050",
+                "title": "Beam Super Flex 30 ft. Low Voltage Hose",
+                "description": {
+                  "plain": "The Beam Super Flex 1 3/8\" x 30 ft. low-voltage vacuum hose is designed to deliver reliable suction and easy operation for central vacuum systems. Featuring a comfortable soft-touch grip handle with a full swivel design, this hose provides excellent maneuverability while reducing wrist strain during cleaning. The convenient two-way on/off switch located on the handle allows you to easily control your central vacuum system without needing to walk back to the inlet valve. A quick button release makes attaching and removing the hose simple and secure. Ideal for suction-only cleaning tasks such as floors, upholstery, and above-floor surfaces, the Beam Super Flex hose offers durable construction and dependable performance for everyday household cleaning. Made to work with the following brands: ACV, Aerus, Aggresor, Air King, Airstream, AirVac, Astrovac, Allegro, Aqua Air, Beam, Black & Decker, Broan, Brute, Budd, Cana-Vac, Cen-Tec, Centralux, Cirrus, CV International, Dirt Devil, DrainVac, DuoVac, DustCare, DynaVac, Easy-Flo, Electrolux, Eureka, Fasco, Filtex, Filter Queen, Frigidaire, Galaxie, Hayden, Honeywell, Hoover, Husky, Imperium, Kenmore, M & S, MD, Nadair, NuTone, OVO, Patton, Phoenix, Prolux, Powerlux, PowerStar, Pullman-Holt, Purvac, Riccar, Royal, SEBO, Sequoia, Signature, Simplicity, Smart Vac, Titan, Vacuflo, Vacumaid, Valet, Vent-A-Vac, Walvac, Wessel-Werk, Whirlpool, Zenex"
+                },
+                "url": "https://evacuumstore.com/products/beam-super-flex-30-ft-low-voltage-hose?variant=44162427224106",
+                "price": {
+                  "amount": 15800,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0642/2711/5050/files/BEAM-HO7-BLP_39003889-e5a3-4303-8a43-24477a325e32.jpg",
+                    "alt_text": "Beam Super Flex 30 ft. Low Voltage Hose"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/64227115050",
+                  "name": "eVacuumStore",
+                  "url": "https://evacuumstore.com",
+                  "domain": "evacuumstorecom.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/64227115050/policies/29665198122.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/64227115050/policies/31344066602.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/64227115050/policies/31275712554.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/64227115050/policies/31514787882.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://evacuumstore.com/cart/44162427224106:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 15800,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 15800,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/4EBdLvVcuxHuqSU3WNVJbI",
+            "title": "Flex-Hose 4X9SMP Hose Ss Flex 4 x 9 Inch Cs 150# Flg",
+            "description": {
+              "plain": ""
+            },
+            "variants": [],
+            "price_range": {}
+          },
+          {
+            "id": "gid://shopify/p/1btssjUcO9E5nsQv4h0rcB",
+            "title": "Vac-U-Flex Hose - 1-1/4 Inch x 50 Foot - Black",
+            "description": {
+              "plain": "A durable replacement hose that restores full vacuum suction by replacing cracked or collapsed hoses."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Restores full cleaning power by replacing even minor hose damage that reduces suction."
+              ],
+              "top_features": "Fits standard 1-1/4 inch vacuum hoses for universal compatibility\n50 foot length provides extended reach for hard-to-access areas\nSolid black color for a discreet, professional look\nDetects and repairs minor cracks to prevent air leaks and maintain suction",
+              "tech_specs": "Hose Size: 1-1/4 inch\nLength: 50 feet\nColor: Black\nPattern: Solid\nCompatible Vacuum Type: Universal"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0684/3934/3354/files/035401250429_1_cd8f053a-8781-4e42-aa65-c385c54639d1.jpg",
+                "alt_text": "Vac-U-Flex Hose - 1-1/4 Inch x 50 Foot - Black - Vacuums and More"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/48456280178938?shop=68439343354",
+                "title": "Vac-U-Flex Hose - 1-1/4 Inch x 50 Foot - Black",
+                "description": {
+                  "plain": "Cracked or collapsed hoses kill suction. This replacement hose fits your vacuum and restores full cleaning power. Even small cracks can cause significant air leaks. Inspect your hose regularly for cracks, blockages, or collapsed sections. Even small damage can significantly reduce suction at the cleaning head. Replace promptly to restore full cleaning effectiveness."
+                },
+                "url": "https://evacuumsandmore.com/products/vac-u-flex-hose-1-14-inch-x-50-foot-black-035401250429?variant=48456280178938",
+                "price": {
+                  "amount": 10299,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0684/3934/3354/files/035401250429_1_cd8f053a-8781-4e42-aa65-c385c54639d1.jpg",
+                    "alt_text": "Vac-U-Flex Hose - 1-1/4 Inch x 50 Foot - Black - Vacuums and More"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/68439343354",
+                  "name": "Vacuums and More",
+                  "url": "https://evacuumsandmore.com",
+                  "domain": "1bb2a2-2.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/68439343354/policies/43952439546.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/68439343354/policies/43951522042.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/68439343354/policies/43950539002.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/68439343354/policies/43951096058.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://evacuumsandmore.com/cart/48456280178938:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 10299,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 10299,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "messages": []
+      }
+    }
+  }
+}

@@ -1,0 +1,3448 @@
+{
+  "query": "smartwatch",
+  "fetched_at": 1778264704.185795,
+  "count": 10,
+  "products": [
+    {
+      "id": "gid://shopify/p/755ZnKMJBhNBpStc2GQqjQ",
+      "title": "Apple Watch Series - WBF1",
+      "image_url": "https://cdn.shopify.com/s/files/1/0808/0067/files/detail_apple_watch_49_44_WBF1_black_08.jpg",
+      "seller_name": "Spigen Inc",
+      "seller_url": "https://www.spigen.com",
+      "price_min": 24.99,
+      "price_max": 24.99,
+      "available": true,
+      "variant_count": 10,
+      "url": "https://www.spigen.com/cart/44365511655471:1",
+      "rating": 4.9,
+      "rating_count": 8
+    },
+    {
+      "id": "gid://shopify/p/3LzXmi6c3iwa3WTCjtbtz3",
+      "title": "Hard Hat Smartwatch",
+      "image_url": "https://cdn.shopify.com/s/files/1/0840/1141/7899/files/display_2_orange_angle.png",
+      "seller_name": "Hard Hat Australia ",
+      "seller_url": "https://hardhatwatches.com.au",
+      "price_min": 89.95,
+      "price_max": 89.95,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://hardhatwatches.com.au/cart/47155353518379:1",
+      "rating": 4.9,
+      "rating_count": 4441
+    },
+    {
+      "id": "gid://shopify/p/5YYn8Y4Om1oihNSbWFpsEz",
+      "title": "Luxium Shield - Durable Smart Watch",
+      "image_url": "https://cdn.shopify.com/s/files/1/0600/8730/4244/files/shield_001_1.jpg",
+      "seller_name": "Luxium",
+      "seller_url": "https://shopluxium.com",
+      "price_min": 128.0,
+      "price_max": 128.0,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://shopluxium.com/cart/41147210760244:1",
+      "rating": 4.8,
+      "rating_count": 1839
+    },
+    {
+      "id": "gid://shopify/p/6Zfa84oLZ5kt6Cu3L4nTtb",
+      "title": "Gard Pro Ultra 3",
+      "image_url": "https://cdn.shopify.com/s/files/1/0733/7908/6636/files/1_c669317a-ebac-4efa-9fcd-23df22bf00f6.png",
+      "seller_name": "GARD PRO",
+      "seller_url": "https://www.gardpro.com",
+      "price_min": 119.99,
+      "price_max": 119.99,
+      "available": true,
+      "variant_count": 4,
+      "url": "https://www.gardpro.com/cart/56038221349246:1",
+      "rating": 4.8,
+      "rating_count": 1175
+    },
+    {
+      "id": "gid://shopify/p/16JhiX7gETGaF9R38RiLrE",
+      "title": "Hard Hat Sport",
+      "image_url": "https://cdn.shopify.com/s/files/1/0840/1141/7899/files/SportOrgangeBackground2.png",
+      "seller_name": "Hard Hat Australia ",
+      "seller_url": "https://hardhatwatches.com.au",
+      "price_min": 99.95,
+      "price_max": 199.95,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://hardhatwatches.com.au/cart/48135781286187:1",
+      "rating": 4.8,
+      "rating_count": 1171
+    },
+    {
+      "id": "gid://shopify/p/3Fky1OfQDimx9xeQyE8edu",
+      "title": "Bip 6",
+      "image_url": "https://cdn.shopify.com/s/files/1/0406/4500/1379/files/Pamir_45_b21d2a6c-d7bf-4d0f-9cd8-99fdd5de9731.png",
+      "seller_name": "Amazfit",
+      "seller_url": "https://us.amazfit.com",
+      "price_min": 79.99,
+      "price_max": 7999.0,
+      "available": true,
+      "variant_count": 7,
+      "url": "https://us.amazfit.com/cart/47009947877628:1",
+      "rating": 4.9,
+      "rating_count": 9
+    },
+    {
+      "id": "gid://shopify/p/41beoKjFj3WdbkVE6vj97A",
+      "title": "DATEOY Watch 8 Classic Smartwatch \u2013 AMOLED Display, Rotating Bezel, GPS Sports & Advanced Health Tracking",
+      "image_url": "",
+      "seller_name": "",
+      "seller_url": "",
+      "price_min": null,
+      "price_max": null,
+      "available": false,
+      "variant_count": 0,
+      "url": "",
+      "rating": 4.7,
+      "rating_count": 6
+    },
+    {
+      "id": "gid://shopify/p/4efOynmELM0wNhdVINvqha",
+      "title": "Apple Watch Series - Lite Fit",
+      "image_url": "https://cdn.shopify.com/s/files/1/0808/0067/products/title_web_aw7_45mm_khaki_01.jpg",
+      "seller_name": "Spigen Inc",
+      "seller_url": "https://www.spigen.com",
+      "price_min": 19.99,
+      "price_max": 19.99,
+      "available": true,
+      "variant_count": 10,
+      "url": "https://www.spigen.com/cart/43247406317615:1",
+      "rating": 4.1,
+      "rating_count": 11
+    },
+    {
+      "id": "gid://shopify/p/1f8IIPK5naTmJwxxkS4UWN",
+      "title": "Hard Hat Foreman",
+      "image_url": "https://cdn.shopify.com/s/files/1/0840/1141/7899/files/82.png",
+      "seller_name": "Hard Hat Australia ",
+      "seller_url": "https://hardhatwatches.com.au",
+      "price_min": 119.95,
+      "price_max": 119.95,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://hardhatwatches.com.au/cart/48136309211435:1",
+      "rating": 4.8,
+      "rating_count": 1811
+    },
+    {
+      "id": "gid://shopify/p/2XpQQQW20VwHjIDgvXKWkk",
+      "title": "Gard Pro Ultra",
+      "image_url": "https://cdn.shopify.com/s/files/1/0733/7908/6636/files/55_19931e2f-81da-4060-b645-381df89e84ad.png",
+      "seller_name": "GARD PRO",
+      "seller_url": "https://www.gardpro.com",
+      "price_min": 89.99,
+      "price_max": 89.99,
+      "available": true,
+      "variant_count": 3,
+      "url": "https://www.gardpro.com/cart/46701739213129:1",
+      "rating": 4.8,
+      "rating_count": 1236
+    }
+  ],
+  "raw": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "result": {
+      "structuredContent": {
+        "ucp": {
+          "version": "2026-04-08",
+          "capabilities": {
+            "dev.ucp.shopping.catalog.search": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://ucp.dev/2026-04-08/specification/catalog",
+                "schema": "https://ucp.dev/2026-04-08/schemas/shopping/catalog_search.json"
+              }
+            ],
+            "dev.ucp.shopping.catalog.lookup": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://ucp.dev/2026-04-08/specification/catalog",
+                "schema": "https://ucp.dev/2026-04-08/schemas/shopping/catalog_lookup.json"
+              }
+            ],
+            "dev.shopify.catalog.global": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://shopify.dev/docs/agents/catalog/global-catalog",
+                "schema": "https://shopify.dev/ucp/schemas/2026-04-08/shopify_catalog_global.json",
+                "extends": [
+                  "dev.ucp.shopping.catalog.search",
+                  "dev.ucp.shopping.catalog.lookup"
+                ],
+                "requires": {
+                  "protocol": {
+                    "min": "2026-04-08"
+                  }
+                }
+              }
+            ]
+          },
+          "status": "success"
+        },
+        "products": [
+          {
+            "id": "gid://shopify/p/755ZnKMJBhNBpStc2GQqjQ",
+            "title": "Apple Watch Series - WBF1",
+            "description": {
+              "plain": "A versatile smartwatch offering fitness tracking, health monitoring, and customizable features for adults."
+            },
+            "rating": {
+              "value": 4.9,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 8
+            },
+            "options": [
+              {
+                "name": "Color",
+                "values": [
+                  {
+                    "label": "Black"
+                  },
+                  {
+                    "label": "Black Green"
+                  },
+                  {
+                    "label": "Black Orange"
+                  }
+                ]
+              },
+              {
+                "name": "Device",
+                "values": [
+                  {
+                    "label": "Apple Watch (44mm)"
+                  },
+                  {
+                    "label": "Apple Watch (45mm)"
+                  },
+                  {
+                    "label": "Apple Watch 10/11 (46mm)"
+                  },
+                  {
+                    "label": "Apple Watch Ultra (49mm)"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Combines advanced health tracking with customizable watch faces and multi-technology connectivity."
+              ],
+              "top_features": "Fitness tracker for comprehensive health monitoring\nHeart rate monitor to track vital signs in real time\nStep counter and sleep tracker for daily activity and rest analysis\nCustomizable watch faces for personalized style\nTouchscreen and voice control for intuitive operation",
+              "tech_specs": "Display: Digital\nConnectivity: Bluetooth, Wi-Fi, GPS\nCase Colors: Gray, Silver, Black, Orange\nBand Colors: Black, Orange\nMaterial: Metal, Rubber, Stainless steel\nWater Resistance: Waterproof"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0808/0067/files/detail_apple_watch_49_44_WBF1_black_08.jpg",
+                "alt_text": "AMP10144\u00a0- Apple Watch Ultra (49mm) WBF1 in Black showing the front"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/44365511655471?shop=8080067",
+                "title": "Apple Watch Series - WBF1",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-wbf1?variant=44365511655471",
+                "price": {
+                  "amount": 2499,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch Ultra (49mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/files/detail_apple_watch_49_44_WBF1_black_08.jpg",
+                    "alt_text": "AMP10144\u00a0- Apple Watch Ultra (49mm) WBF1 in Black showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/44365511655471:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 8
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/44365511753775?shop=8080067",
+                "title": "Apple Watch Series - WBF1",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-wbf1?variant=44365511753775",
+                "price": {
+                  "amount": 2499,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch (44mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/files/detail_apple_watch_49_44_WBF1_black_08.jpg",
+                    "alt_text": "AMP10144\u00a0- Apple Watch Ultra (49mm) WBF1 in Black showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/44365511753775:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 8
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/44365632929839?shop=8080067",
+                "title": "Apple Watch Series - WBF1",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-wbf1?variant=44365632929839",
+                "price": {
+                  "amount": 2499,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black Orange"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch Ultra (49mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/files/detail_apple_watch_49_44_WBF1_orange_08.jpg",
+                    "alt_text": "AMP10145\u00a0- Apple Watch Ultra (49mm) WBF1 in Black Orange showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/44365632929839:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 8
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/44365632962607?shop=8080067",
+                "title": "Apple Watch Series - WBF1",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-wbf1?variant=44365632962607",
+                "price": {
+                  "amount": 2499,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black Orange"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch (44mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/files/detail_apple_watch_49_44_WBF1_orange_08.jpg",
+                    "alt_text": "AMP10145\u00a0- Apple Watch Ultra (49mm) WBF1 in Black Orange showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/44365632962607:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 8
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/44365708787759?shop=8080067",
+                "title": "Apple Watch Series - WBF1",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-wbf1?variant=44365708787759",
+                "price": {
+                  "amount": 2499,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black Green"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch Ultra (49mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/files/detail_apple_watch_49_44_WBF1_green_08.jpg",
+                    "alt_text": "AMP10223\u00a0- Apple Watch Ultra (49mm) WBF1 in Black Green showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/44365708787759:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 8
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/44365708820527?shop=8080067",
+                "title": "Apple Watch Series - WBF1",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-wbf1?variant=44365708820527",
+                "price": {
+                  "amount": 2499,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black Green"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch (44mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/files/detail_apple_watch_49_44_WBF1_green_08.jpg",
+                    "alt_text": "AMP10223\u00a0- Apple Watch Ultra (49mm) WBF1 in Black Green showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/44365708820527:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 8
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/44465144299567?shop=8080067",
+                "title": "Apple Watch Series - WBF1",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-wbf1?variant=44465144299567",
+                "price": {
+                  "amount": 2499,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch 10/11 (46mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/files/detail_apple_watch_49_44_WBF1_black_08.jpg",
+                    "alt_text": "AMP10144\u00a0- Apple Watch Ultra (49mm) WBF1 in Black showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/44465144299567:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 8
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/44465144823855?shop=8080067",
+                "title": "Apple Watch Series - WBF1",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-wbf1?variant=44465144823855",
+                "price": {
+                  "amount": 2499,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black Orange"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch 10/11 (46mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/files/detail_apple_watch_49_44_WBF1_orange_08.jpg",
+                    "alt_text": "AMP10145\u00a0- Apple Watch Ultra (49mm) WBF1 in Black Orange showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/44465144823855:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 8
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/44465149968431?shop=8080067",
+                "title": "Apple Watch Series - WBF1",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-wbf1?variant=44465149968431",
+                "price": {
+                  "amount": 2499,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black Green"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch 10/11 (46mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/files/detail_apple_watch_49_44_WBF1_green_08.jpg",
+                    "alt_text": "AMP10223\u00a0- Apple Watch Ultra (49mm) WBF1 in Black Green showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/44465149968431:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 8
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/44465150066735?shop=8080067",
+                "title": "Apple Watch Series - WBF1",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-wbf1?variant=44465150066735",
+                "price": {
+                  "amount": 2499,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch (45mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/files/detail_apple_watch_49_44_WBF1_black_08.jpg",
+                    "alt_text": "AMP10144\u00a0- Apple Watch Ultra (49mm) WBF1 in Black showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/44465150066735:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 8
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 2499,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 2499,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/3LzXmi6c3iwa3WTCjtbtz3",
+            "title": "Hard Hat Smartwatch",
+            "description": {
+              "plain": "A rugged smartwatch designed for hardworking adults, offering reliable connectivity and durability for on and off the job use."
+            },
+            "rating": {
+              "value": 4.9,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 4441
+            },
+            "options": [
+              {
+                "name": "Color",
+                "values": [
+                  {
+                    "label": "Black"
+                  },
+                  {
+                    "label": "Orange"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Engineered for durability and long battery life, ideal for demanding work environments."
+              ],
+              "top_features": "Rugged construction ensures reliable performance in tough work conditions\nLong battery life allows extended use without frequent charging\nBluetooth connectivity enables seamless pairing with devices and apps\nCustomizable watch faces provide personalization for user preference\nFitness tracking features support health and wellness monitoring",
+              "tech_specs": "Display: Digital\nConnectivity: Bluetooth\nMaterial: Plastic, Silicone\nBand Color: Black\nCase Colors: Black, Orange, Gray, Gray\nWater Resistance: Not specified\nTarget Gender: Unisex\nAge Group: Adults"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0840/1141/7899/files/display_2_orange_angle.png",
+                "alt_text": "Hard Hat Smartwatch"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/47155353518379?shop=84011417899",
+                "title": "Hard Hat Smartwatch",
+                "description": {
+                  "plain": "90 Day Money Back Guarantee Customer Satisfaction is what's most important to us here at Hard Hat! Try our Watch out and if for ANY reason you don't like it within 90 Days, we will refund you! It's as easy as that... No Questions Asked! Why Hard Hat? Crafted for hardworking men and women, the Hard Hat keeps you connected on and off the job with its impressive battery life - delivering top-notch performance that's built to last. Join our community of hardworking Aussies and experience a watch that works as hard as you do. \u231a\ud83d\udc77\u2642\ufe0f\ud83d\udd0b\ud83d\udcaa Don't Miss Out! Due to high demand, we often sell out. If you have any further questions please email us at support@hardhatwatches.com.au What Our Customers Have to Say? Features include: Whether you're on the construction site or tackling a home improvement project, stay connected and in control without compromising on durability. It's not just a watch; it's a lifestyle statement for the man who demands reliability, toughness, and practicality in every aspect of life."
+                },
+                "url": "https://hardhatwatches.com.au/products/hard-hat-smart-watch-3-0?variant=47155353518379",
+                "price": {
+                  "amount": 8995,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Orange"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0840/1141/7899/files/display_2_orange_angle.png",
+                    "alt_text": "Hard Hat Smartwatch"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/84011417899",
+                  "name": "Hard Hat Australia ",
+                  "url": "https://hardhatwatches.com.au",
+                  "domain": "3c0bf7-3.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346462507.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346495275.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346429739.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346528043.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hardhatwatches.com.au/cart/47155353518379:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 4441
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/47155353649451?shop=84011417899",
+                "title": "Hard Hat Smartwatch",
+                "description": {
+                  "plain": "90 Day Money Back Guarantee Customer Satisfaction is what's most important to us here at Hard Hat! Try our Watch out and if for ANY reason you don't like it within 90 Days, we will refund you! It's as easy as that... No Questions Asked! Why Hard Hat? Crafted for hardworking men and women, the Hard Hat keeps you connected on and off the job with its impressive battery life - delivering top-notch performance that's built to last. Join our community of hardworking Aussies and experience a watch that works as hard as you do. \u231a\ud83d\udc77\u2642\ufe0f\ud83d\udd0b\ud83d\udcaa Don't Miss Out! Due to high demand, we often sell out. If you have any further questions please email us at support@hardhatwatches.com.au What Our Customers Have to Say? Features include: Whether you're on the construction site or tackling a home improvement project, stay connected and in control without compromising on durability. It's not just a watch; it's a lifestyle statement for the man who demands reliability, toughness, and practicality in every aspect of life."
+                },
+                "url": "https://hardhatwatches.com.au/products/hard-hat-smart-watch-3-0?variant=47155353649451",
+                "price": {
+                  "amount": 8995,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0840/1141/7899/files/display_1_black_angle.png",
+                    "alt_text": "Hard Hat Smartwatch"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/84011417899",
+                  "name": "Hard Hat Australia ",
+                  "url": "https://hardhatwatches.com.au",
+                  "domain": "3c0bf7-3.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346462507.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346495275.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346429739.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346528043.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hardhatwatches.com.au/cart/47155353649451:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 4441
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 8995,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 8995,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/5YYn8Y4Om1oihNSbWFpsEz",
+            "title": "Luxium Shield - Durable Smart Watch",
+            "description": {
+              "plain": "A rugged smartwatch with a shatter-resistant display, long battery life, and limitless customization for everyday use."
+            },
+            "rating": {
+              "value": 4.8,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 1839
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Combines a 30-day battery life with a shatter-resistant HD IPS display and customizable watch faces in a durable titanium and zinc alloy frame."
+              ],
+              "top_features": "Shatter-resistant HD IPS display ensures durability in harsh environments\n30-day battery life reduces the need for frequent charging\nCustomizable watch faces allow users to personalize their experience\nWater, shock, dust, and freeze proof for reliable everyday use\nWorkout and GPS mapping support for fitness and navigation",
+              "tech_specs": "Frame Material: Titanium and zinc alloy\nDisplay: Shatter-resistant HD IPS, digital\nBattery Life: Up to 30 days per charging cycle\nConnectivity: Bluetooth, GPS\nCompatibility: iOS and Android smartphones\nWater Resistance: Yes"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0600/8730/4244/files/shield_001_1.jpg",
+                "alt_text": "Luxium Shield - Durable Smart Watch"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/41147210760244?shop=60087304244",
+                "title": "Luxium Shield - Durable Smart Watch",
+                "description": {
+                  "plain": "\ud83d\udd25 Newest Release\u2063\u2063 \u2063 \ud83d\ude80 Titanium and Zinc Alloy Frame\u2063 \u2063 \u26ab Carbon Black Bezel\u2063 \u2063 \ud83d\udca7 Water, Shock, Dust & Freeze Proof\u2063\u2063\u2063 \u2063 \ud83d\udc8e Shatter Resistant HD IPS Display\u2063\u2063 \u2063 \ud83d\udd0b Upgraded 30 Day Battery Life\u2063\u2063\u2063 \u2063 \ud83d\udccd Workout GPS Mapping\u2063\u2063 \u2063 \ud83d\udcf2 Make & Answer Phone Calls\u2063\u2063\u2063 \u2063 \ud83d\udcac Receive Text Messages\u2063\u2063\u2063 \u2063 \ud83d\udcf1 Compatible With All Smartphones\u2063 \u2063 \u2b50\ufe0f 85+ Fitness, Weather & Other Useful Apps\u2063\u2063\u2063 \u2063 \ud83c\uddfa\ud83c\uddf8 Ships Same Day From Las Vegas, NV"
+                },
+                "url": "https://shopluxium.com/products/luxium-shield-durable-smart-watch?variant=41147210760244",
+                "price": {
+                  "amount": 12800,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0600/8730/4244/files/shield_001_1.jpg",
+                    "alt_text": "Luxium Shield - Durable Smart Watch"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/60087304244",
+                  "name": "Luxium",
+                  "url": "https://shopluxium.com",
+                  "domain": "shopluxium.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/60087304244/policies/25118343220.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/60087304244/policies/25118375988.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/60087304244/policies/25118310452.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/60087304244/policies/25118408756.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://shopluxium.com/cart/41147210760244:1",
+                "rating": {
+                  "value": 4.79,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 1839
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 12800,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 12800,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/6Zfa84oLZ5kt6Cu3L4nTtb",
+            "title": "Gard Pro Ultra 3",
+            "description": {
+              "plain": "A rugged, durable smartwatch designed for demanding work and sports, offering advanced health and fitness tracking at an accessible price."
+            },
+            "rating": {
+              "value": 4.8,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 1175
+            },
+            "options": [
+              {
+                "name": "Color",
+                "values": [
+                  {
+                    "label": "Army Green"
+                  },
+                  {
+                    "label": "Black"
+                  },
+                  {
+                    "label": "Grey"
+                  },
+                  {
+                    "label": "Orange"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Unsurpassed in toughness for work and sports while providing premium health and fitness features at half the price of competitors."
+              ],
+              "top_features": "Rugged build for demanding environments ensures long-lasting durability\nAdvanced health tracking monitors heart rate, ECG, and sleep for comprehensive wellness\nBluetooth, GPS, and Wi-Fi connectivity enable seamless device integration and location tracking\nCustomizable watch faces and interchangeable strap offer personalized style\nOffline music storage and touchscreen support provide a rich user experience",
+              "tech_specs": "Display: Digital\nMaterial: Stainless steel, Rubber\nConnectivity: Bluetooth, GPS, Wi-Fi\nHealth Features: Heart rate monitor, ECG monitoring, sleep tracker\nMusic: Offline storage, music control\nWater Resistance: Not specified"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0733/7908/6636/files/1_c669317a-ebac-4efa-9fcd-23df22bf00f6.png",
+                "alt_text": "Gard Pro Ultra 3"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/56038221349246?shop=73379086636",
+                "title": "Gard Pro Ultra 3",
+                "description": {
+                  "plain": "Unsurpassed in toughness, ready for the toughest work and sports challenges. Sturdier than all competitors and for only half the price. Building on the Ultra 2+ but better in every way."
+                },
+                "url": "https://www.gardpro.com/products/gard-pro-ultra-3?variant=56038221349246",
+                "price": {
+                  "amount": 11999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0733/7908/6636/files/1_c669317a-ebac-4efa-9fcd-23df22bf00f6.png",
+                    "alt_text": "Gard Pro Ultra 3"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/73379086636",
+                  "name": "GARD PRO",
+                  "url": "https://www.gardpro.com",
+                  "domain": "gardpro-us.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282200876.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282233644.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282168108.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282266412.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.gardpro.com/cart/56038221349246:1",
+                "rating": {
+                  "value": 4.8,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 1175
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/56038221382014?shop=73379086636",
+                "title": "Gard Pro Ultra 3",
+                "description": {
+                  "plain": "Unsurpassed in toughness, ready for the toughest work and sports challenges. Sturdier than all competitors and for only half the price. Building on the Ultra 2+ but better in every way."
+                },
+                "url": "https://www.gardpro.com/products/gard-pro-ultra-3?variant=56038221382014",
+                "price": {
+                  "amount": 11999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Grey"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0733/7908/6636/files/4_f8cf219f-ff1d-41af-b02d-583865503a19.png",
+                    "alt_text": "Gard Pro Ultra 3"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/73379086636",
+                  "name": "GARD PRO",
+                  "url": "https://www.gardpro.com",
+                  "domain": "gardpro-us.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282200876.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282233644.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282168108.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282266412.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.gardpro.com/cart/56038221382014:1",
+                "rating": {
+                  "value": 4.8,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 1175
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/56038221414782?shop=73379086636",
+                "title": "Gard Pro Ultra 3",
+                "description": {
+                  "plain": "Unsurpassed in toughness, ready for the toughest work and sports challenges. Sturdier than all competitors and for only half the price. Building on the Ultra 2+ but better in every way."
+                },
+                "url": "https://www.gardpro.com/products/gard-pro-ultra-3?variant=56038221414782",
+                "price": {
+                  "amount": 11999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Army Green"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0733/7908/6636/files/2_88032be5-193c-4c00-92a1-8706df4066bc.png",
+                    "alt_text": "Gard Pro Ultra 3"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/73379086636",
+                  "name": "GARD PRO",
+                  "url": "https://www.gardpro.com",
+                  "domain": "gardpro-us.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282200876.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282233644.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282168108.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282266412.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.gardpro.com/cart/56038221414782:1",
+                "rating": {
+                  "value": 4.8,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 1175
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/56038221447550?shop=73379086636",
+                "title": "Gard Pro Ultra 3",
+                "description": {
+                  "plain": "Unsurpassed in toughness, ready for the toughest work and sports challenges. Sturdier than all competitors and for only half the price. Building on the Ultra 2+ but better in every way."
+                },
+                "url": "https://www.gardpro.com/products/gard-pro-ultra-3?variant=56038221447550",
+                "price": {
+                  "amount": 11999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Orange"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0733/7908/6636/files/3_05edb8a9-7702-4f58-8834-9d2831e01bca.png",
+                    "alt_text": "Gard Pro Ultra 3"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/73379086636",
+                  "name": "GARD PRO",
+                  "url": "https://www.gardpro.com",
+                  "domain": "gardpro-us.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282200876.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282233644.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282168108.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282266412.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.gardpro.com/cart/56038221447550:1",
+                "rating": {
+                  "value": 4.8,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 1175
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 11999,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 11999,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/16JhiX7gETGaF9R38RiLrE",
+            "title": "Hard Hat Sport",
+            "description": {
+              "plain": "A rugged, durable smartwatch with enhanced fitness tracking and a modern, sleek design for active lifestyles."
+            },
+            "rating": {
+              "value": 4.8,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 1171
+            },
+            "options": [
+              {
+                "name": "Color",
+                "values": [
+                  {
+                    "label": "Black"
+                  },
+                  {
+                    "label": "Orange"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Combines ultra-tough construction with advanced fitness tracking and a large, edgeless display for unmatched durability and style."
+              ],
+              "top_features": "Ultra-tough build withstands drops, water, and industrial environments for reliable use on worksites and in the gym\nLarge, edgeless display offers modern aesthetics and improved readability without raised edges\nEnhanced fitness tracking monitors heart rate, steps, sleep, and workout performance for comprehensive health insights\nLong battery life up to 10+ months ensures uninterrupted use during extended activities\nCustomizable watch faces and touchscreen controls provide a personalized, intuitive experience",
+              "tech_specs": "Display: Large, edgeless digital screen\nBattery Life: Up to 10+ months per charge\nConnectivity: USB, wireless\nWater Resistance: Yes (exact rating not specified)\nMaterial: Plastic, silicone\nIncluded Accessories: Standard watch band, charging cable with USB input"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0840/1141/7899/files/SportOrgangeBackground2.png",
+                "alt_text": "Hard Hat Sport"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/48135781286187?shop=84011417899",
+                "title": "Hard Hat Sport",
+                "description": {
+                  "plain": "How is The Hard Hat Sport Different to The Original Hard Hat Smartwatch? The Hard Hat Sport\u2122 is as tough as it's predecessor, but with some sleek upgrades. It's got a larger screen space without the raised edges, delivers a modern aesthetic, and its enhanced fitness tracking capabilities keep you on top of your game. Whether you're hitting the gym or working on site, choose the Hard Hat Sport for style, functionality, and unbeatable performance. 90 Day Money Back Guarantee!!! Customer Satisfaction is what's most important to us here at Hard Hat! Try our Watch out and if for ANY reason you don't like it within 90 Days, we will refund you! It's as easy as that... No Questions Asked! What's in the Box? 1 x Hard Hat Sport\u2122 1 x Standard Watch Band 1 x Charging Cable with USB Input Join our community of hardworking Aussies and experience a watch that works as hard as you do. \u231a\ud83d\udc77\u200d\u2642\ufe0f\ud83d\udd0b\ud83d\udcaa Features include: From gym sessions, to worksites, to DIY projects. The Hard Hat Sport Watch keeps you connected and in command without sacrificing style or durability. More than just a timepiece, it's a lifestyle statement for the individual who values reliability, toughness, and practicality in every endeavor! Don't Miss Out! Due to high demand, we often sell out. If you have any further questions please email us at support@hardhatwatches.com.au"
+                },
+                "url": "https://hardhatwatches.com.au/products/hard-hat-sportwatch?variant=48135781286187",
+                "price": {
+                  "amount": 19995,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Orange"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0840/1141/7899/files/SportOrgangeBackground2.png",
+                    "alt_text": "Hard Hat Sport"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/84011417899",
+                  "name": "Hard Hat Australia ",
+                  "url": "https://hardhatwatches.com.au",
+                  "domain": "3c0bf7-3.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346462507.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346495275.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346429739.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346528043.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hardhatwatches.com.au/cart/48135781286187:1",
+                "rating": {
+                  "value": 4.8,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 1171
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/48135781318955?shop=84011417899",
+                "title": "Hard Hat Sport",
+                "description": {
+                  "plain": "How is The Hard Hat Sport Different to The Original Hard Hat Smartwatch? The Hard Hat Sport\u2122 is as tough as it's predecessor, but with some sleek upgrades. It's got a larger screen space without the raised edges, delivers a modern aesthetic, and its enhanced fitness tracking capabilities keep you on top of your game. Whether you're hitting the gym or working on site, choose the Hard Hat Sport for style, functionality, and unbeatable performance. 90 Day Money Back Guarantee!!! Customer Satisfaction is what's most important to us here at Hard Hat! Try our Watch out and if for ANY reason you don't like it within 90 Days, we will refund you! It's as easy as that... No Questions Asked! What's in the Box? 1 x Hard Hat Sport\u2122 1 x Standard Watch Band 1 x Charging Cable with USB Input Join our community of hardworking Aussies and experience a watch that works as hard as you do. \u231a\ud83d\udc77\u200d\u2642\ufe0f\ud83d\udd0b\ud83d\udcaa Features include: From gym sessions, to worksites, to DIY projects. The Hard Hat Sport Watch keeps you connected and in command without sacrificing style or durability. More than just a timepiece, it's a lifestyle statement for the individual who values reliability, toughness, and practicality in every endeavor! Don't Miss Out! Due to high demand, we often sell out. If you have any further questions please email us at support@hardhatwatches.com.au"
+                },
+                "url": "https://hardhatwatches.com.au/products/hard-hat-sportwatch?variant=48135781318955",
+                "price": {
+                  "amount": 9995,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0840/1141/7899/files/7_674ba187-5de1-43eb-989d-18b35b31ba07.png",
+                    "alt_text": "Hard Hat Sport"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/84011417899",
+                  "name": "Hard Hat Australia ",
+                  "url": "https://hardhatwatches.com.au",
+                  "domain": "3c0bf7-3.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346462507.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346495275.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346429739.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346528043.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hardhatwatches.com.au/cart/48135781318955:1",
+                "rating": {
+                  "value": 4.8,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 1171
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 9995,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 19995,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/3Fky1OfQDimx9xeQyE8edu",
+            "title": "Bip 6",
+            "description": {
+              "plain": "A lightweight smartwatch combining advanced fitness tracking, AI coaching, and elegant design for everyday empowerment."
+            },
+            "rating": {
+              "value": 4.9,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 9
+            },
+            "options": [
+              {
+                "name": "Color",
+                "values": [
+                  {
+                    "label": "Black"
+                  },
+                  {
+                    "label": "N/A"
+                  }
+                ]
+              },
+              {
+                "name": "Variant",
+                "values": [
+                  {
+                    "label": "black"
+                  },
+                  {
+                    "label": "red"
+                  },
+                  {
+                    "label": "stone"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Features Biotracker technology and 140+ workout modes, including AI-powered strength training and health coaching."
+              ],
+              "top_features": "Biotracker technology delivers precise heart rate and sleep data for comprehensive health insights\n140+ workout modes, including smart strength training and AI coaching, support diverse fitness needs\nLightweight aluminum case and vibrant AMOLED display ensure comfort and clear visibility\nSeamless connectivity and integration with the free Zepp app enable easy tracking and insights\nUp to 14 days battery life provides extended use without frequent charging",
+              "tech_specs": "Display: AMOLED, digital\nCase Material: Aluminum\nBattery Life: Up to 14 days\nWorkout Modes: 140+ (including smart strength training)\nHeart Rate Monitor: Yes\nSleep Tracker: Yes"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0406/4500/1379/files/Pamir_45_b21d2a6c-d7bf-4d0f-9cd8-99fdd5de9731.png",
+                "alt_text": "Bip 6 Smart Watch Black"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/47009947877628?shop=40645001379",
+                "title": "Bip 6",
+                "description": {
+                  "plain": "Built to withstand the demands of daily life, the Bip 6 is an everyday smartwatch that seamlessly integrates high-performance fitness tracking with elegant design and smart features. With advanced health technology, intelligent coaching, and seamless connectivity, it empowers users to stay active, connected, and in control - making every moment count. Lightweight aluminum design with a vibrant AMOLED display Precise heart rate and sleep data powered by BioTracker\u2122 technology 140+ workout modes including smart strength training, and AI coaching Up to 14 days battery life Free Zepp app for health and fitness tracking insights and food tracking"
+                },
+                "url": "https://us.amazfit.com/products/bip-6?variant=47009947877628",
+                "price": {
+                  "amount": 7999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0406/4500/1379/files/Pamir_45_b21d2a6c-d7bf-4d0f-9cd8-99fdd5de9731.png",
+                    "alt_text": "Bip 6 Smart Watch Black"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/40645001379",
+                  "name": "Amazfit",
+                  "url": "https://us.amazfit.com",
+                  "domain": "amazfit-usa.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/40645001379/policies/27477475580.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/40645001379/policies/27477508348.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/40645001379/policies/27477442812.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/40645001379/policies/27477541116.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://us.amazfit.com/cart/47009947877628:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/55910607749501?shop=84121092412",
+                "title": "Amazfit Bip 6 Smartwatch",
+                "description": {
+                  "plain": "Amazfit Bip 6 Smartwatch Every Moment Counts Amazfit Bip 6 Built to withstand the demands of daily life, the Bip 6 is an everyday smartwatch that seamlessly integrates high-performance fitness tracking with elegant design and smart features. With advanced health technology, intelligent coaching, and seamless connectivity, it empowers users to stay active, connected, and in control, enhancing both wellness and style in every moment. Key Features Product Video General Specification Type: Smartwatch Display: 1.97\" AMOLED Resolution: 390 x 450 Dimensions: 46.3 x 40.2 x 10.45mm (Without sensor base) PPI: 302 Touchscreen: Tempered glass + anti-fingerprint coating Battery: Capacity: 340 mAh (rated value) Battery Life: Up to 14 days Heavy Use Battery Life: Up to 6 days Battery Saver Mode: Up to 26 days GPS Continuous Usage: Up to 32 hours Strap: Material: Liquid silicone Width: 22mm Min. & Max. Wrist Dimensions: 130-195mm Classic pin buckle Sensors: Health: BioTracker\u2122 PPG biometric sensor (5PD + 2LED) Movement: Acceleration, Gyroscope, Ambient light, Geomagnetic Positioning: 5 satellite positioning systems Connection: Bluetooth 5.2, BLE Other: Mic Support Speaker Support Motor Support Other: Touchscreen: Tempered glass + anti-fingerprint coating Peak Brightness: Up to 2,000 nits Buttons 2 Product Weight 27.9kg without Strap Water Resistant Grade 5ATM Supported Devices Android 7.0 and above, iOS 14.0 and above Packing list Smartwatch (including standard strap), magnetic charging head (no cable), instruction manual Colour Black Style code 146-W2435EU1N Sports & Health Features Sports Modes Sports Modes: 140+ Smart Recognition 25 strength training movements & 7 sports movements Template Creation Training templates (via the Zepp App), Interval training (via the watch) Advanced Running Support Track Run mode,Smart trajectory correction, Virtual pacer Connection to Peripheral Workout Devices Heart rate belt, Running power meter, Cycling power meter, Cycling speedometer, Cycling cadence meter Sports Coach Zepp Coach\u2122 Workout Status PeakBeats\u2122 Sync to 3rd Party Fitness Apps Strava,adidas Running,TrainingPeaks (via Terra),komoot,Relive,Google Fit,Apple Health Sports Convenience Live broadcast of sports data, Live broadcast of turn directions,Sports data stays on-screen, Conditional pause 24hr monitoring Heart rate,Blood-oxygen saturation,Stress level Manual Measurement Heart rate, Blood-oxygen saturation,Stress level, One-tap measurement Sleep Quality Monitoring Sleep heart rate variability,Sleep stages (including REM), Daytime naps, Sleep schedule, Sleep breathing quality,Sleep score Health Assessment System PAI health assessment system, Heart rate recovery, Menstrual cycle tracking Breathing Exercise Support Yes Health Reminders Abnormally high & low heart rate,Low blood-oxygen,High stress level,Prompts to perform stress-reducing breathing exercise"
+                },
+                "url": "https://www.elverys.ie/products/amazfit-bip-6-black-1168936?variant=55910607749501",
+                "price": {
+                  "amount": 9999,
+                  "currency": "EUR"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0841/2109/2412/files/C1-1168936-636WX636H.jpg",
+                    "alt_text": "Amazfit Bip 6 Smartwatch"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/84121092412",
+                  "name": "Intersport Elverys",
+                  "url": "https://www.elverys.ie",
+                  "domain": "intersport-ie.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/84121092412/policies/38651396412.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/84121092412/policies/38651461948.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/84121092412/policies/38651363644.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/84121092412/policies/38651429180.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.elverys.ie/cart/55910607749501:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/46219063689473?shop=45215678632",
+                "title": "Amazfit BIP 6 Smartwatch",
+                "description": {
+                  "plain": "Design Colors: Black, Charcoal, Stone, Red Dimensions (without sensor base): 46.3x40.2x10.45mm Weight (without strap): 27.9g Body Material: Frame: Aluminum alloy; Case: Fiber-reinforced polymer Buttons: 2 Water-resistance Grade: 5 ATM Mic: Support Speaker: Support Motor: Support Strap: Materials: Liquid silicone Width: 22mm Min. & Max. Wrist Dimensions: 130-195mm Buckle: Classic pin buckle Display Material: AMOLED Size: 1.97\" Resolution: 390*450 Peak Brightness\u00b9\u2074: Up to 2,000 nits PPI: 302 Touchscreen: Tempered glass + anti-fingerprint coating Battery Battery Capacity: 340 mAh (rated value) Typical Use Battery Life: Up to 14 days Heavy Use Battery Life: Up to 6days Battery Saver Mode: Up to 26 days GPS Continuous Usage: Up to 32 hours Sensors Health: BioTracker\u2122 PPG biometric sensor (5PD + 2LED) Movement: Acceleration, Gyroscope, Ambient light, Geomagnetic Positioning: 5 satellite positioning systems Connection: Bluetooth 5.2, BLE Packing List, Supported Devices & Application Packing List: Smartwatch (including standard strap) Magnetic charging head (no cable) Instruction manual Supported Devices: Android 7.0 and above, iOS 14.0 and above Application: Zepp App Sports & Health Features Sports Features Sports Modes: 140+ Smart Recognition of: 25 strength training movements, 7 sports movements\u00b9\u2075 Template Creation: Training templates (via the Zepp App), Interval training (via the watch) Advanced Running Support: Track Run mode, Smart trajectory correction, Virtual pacer Connection to Peripheral Workout Devices\u00b9\u2076: Heart rate belt, Running power meter, Cycling power meter, Cycling speedometer, Cycling cadence meter Sports Coach: Zepp Coach\u2122 Workout Status: PeakBeats\u2122 Sync to 3rd Party Fitness Apps\u00b9\u2077: Strava, adidas Running, TrainingPeaks (via Terra), komoot, Relive, Google Fit, Apple Health Sports Convenience: Live broadcast of sports data\u00b9\u2078, Live broadcast of turn directions, Sports data stays on-screen, Conditional pause Health Features Readiness: Readiness score, Readiness insights 24H Monitoring: Heart rate, Blood-oxygen saturation, Stress level Manual Measurement: Heart rate, Blood-oxygen saturation, Stress level, One-tap measurement Sleep Quality Monitoring: Sleep heart rate variability, Sleep stages (including REM), Daytime naps, Sleep schedule, Sleep breathing quality, Sleep score Breathing Exercise: Support Health Reminders: Abnormally high & low heart rate, Low blood-oxygen, High stress level, Prompts to perform stress-reducing breathing exercise Other Health Features: PAI health assessment system, Heart rate recovery, Menstrual cycle tracking Lifestyle Features AI Assitant: Zepp Flow\u2122 : Support (select countries and regions) Convenience: Membership Cards\u00b9\u2079: Support Shortcut Cards: Support Events Reminder: Support To Do List: Support Smartphone Assistance: Bluetooth Phone Music Control: Support Bluetooth Phone Camera Control (iOS only): Support Phone Call Notifications: Support SMS Notifications: Support App Notifications: Support Call Quick Reply\u00b9\u2075: Support Find My Phone: Support Timing: Alarm Clock: Support World Clock: Support Stopwatch: Support Pomodoro Timer: Support Daily Life: Weather: Support Sedentary Reminders: Support Screen Lock & Password: Support Do Not Disturb: Support Voice Memo: Support Morning Updates\u00b2\u2070: Support 140+ Sports Modes Running & walking: Outdoor running, Treadmill, Walking, Indoor walking, Race walking, Track run Cycling: Outdoor cycling, Indoor cycling, BMX, E-Bike, E-MTB, Gravel cycling, Bicycle commuting, Bicycle touring, Road cycling, Cyclocross Swimming: Pool swimming, Open water swimming, Fin swimming, Artistic swimming Outdoor workouts: Climbing, Hiking, Rock climbing, Fishing, Hunting, Skateboarding, Roller skating, Parkour, ATV Indoor sports: HYROX Race, Elliptical, Rowing machine, Stair-climbing machine, Stair stepper, Spinning, Indoor fitness, Mixed aerobics, Cross-training, Aerobics, Group calisthenics, Body combat, Strength training, Step training, Core training, Flexibility training, Free training, HIIT, Yoga, Pilates, Gymnastics, Horizontal bar, Parallel bars, Battling ropes, Stretching, Bouldering Dance: Square dance, Ballroom dance, Belly dance, Ballet, Street dance, Zumba, Latin dance, Jazz dance, Hip-hop dance, Pole dance, Breaking, Folk dance, Dance, Modern dance, Disco, Tap dance Combat sports: Boxing, Wrestling, Martial arts, Tai Chi, Muay Thai, Judo, Taekwondo, Karate, Kickboxing, Fencing, Jiu-Jitsu, Kendo Ball sports: Soccer, Beach soccer, Basketball, Volleyball, Beach volleyball, Baseball, Softball, Rugby, Hockey, Table tennis, Badminton, Tennis, Squash, Gateball, Cricket, Handball, Bowling, Polo, Racquetball, Billiards, Sepak takraw, Dodgeball, Water polo, Ice hockey, Shuttlecock, Indoor soccer, Footbag, Bocce ball, Pelota, Floorball, Golf swing, Pickleball, Padel Water sports: Outdoor boating, Sailing, Kayak, Rowing, Dragon boat, Indoor surfing, Water skiing Winter sports: Outdoor skating, Indoor skating, Curling Leisure sports: Hula hooping, Frisbee, Darts, Kite flying, Tug-of-war, Jianzi kicking, Esports, Air walker, Swing, Shuffleboard, Foosball, Motion sensing game Board & card games: Chess, Checkers, Go, Bridge, Board game Others: Jumping rope, Archery, Equestrianism"
+                },
+                "url": "https://watchempires.com/products/amazfit-bip-6?variant=46219063689473",
+                "price": {
+                  "amount": 37900,
+                  "currency": "MYR"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "N/A"
+                  },
+                  {
+                    "name": "Variant",
+                    "label": "black"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0452/1567/8632/files/Amazfit-BIP-6-Black.png",
+                    "alt_text": "Amazfit BIP 6 Smartwatch"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/45215678632",
+                  "name": "Watch Empires",
+                  "url": "https://watchempires.com",
+                  "domain": "watch-empires-store.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/45215678632/policies/19815104680.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/45215678632/policies/19815137448.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/45215678632/policies/19815071912.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/45215678632/policies/19815170216.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://watchempires.com/cart/46219063689473:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/46219063755009?shop=45215678632",
+                "title": "Amazfit BIP 6 Smartwatch",
+                "description": {
+                  "plain": "Design Colors: Black, Charcoal, Stone, Red Dimensions (without sensor base): 46.3x40.2x10.45mm Weight (without strap): 27.9g Body Material: Frame: Aluminum alloy; Case: Fiber-reinforced polymer Buttons: 2 Water-resistance Grade: 5 ATM Mic: Support Speaker: Support Motor: Support Strap: Materials: Liquid silicone Width: 22mm Min. & Max. Wrist Dimensions: 130-195mm Buckle: Classic pin buckle Display Material: AMOLED Size: 1.97\" Resolution: 390*450 Peak Brightness\u00b9\u2074: Up to 2,000 nits PPI: 302 Touchscreen: Tempered glass + anti-fingerprint coating Battery Battery Capacity: 340 mAh (rated value) Typical Use Battery Life: Up to 14 days Heavy Use Battery Life: Up to 6days Battery Saver Mode: Up to 26 days GPS Continuous Usage: Up to 32 hours Sensors Health: BioTracker\u2122 PPG biometric sensor (5PD + 2LED) Movement: Acceleration, Gyroscope, Ambient light, Geomagnetic Positioning: 5 satellite positioning systems Connection: Bluetooth 5.2, BLE Packing List, Supported Devices & Application Packing List: Smartwatch (including standard strap) Magnetic charging head (no cable) Instruction manual Supported Devices: Android 7.0 and above, iOS 14.0 and above Application: Zepp App Sports & Health Features Sports Features Sports Modes: 140+ Smart Recognition of: 25 strength training movements, 7 sports movements\u00b9\u2075 Template Creation: Training templates (via the Zepp App), Interval training (via the watch) Advanced Running Support: Track Run mode, Smart trajectory correction, Virtual pacer Connection to Peripheral Workout Devices\u00b9\u2076: Heart rate belt, Running power meter, Cycling power meter, Cycling speedometer, Cycling cadence meter Sports Coach: Zepp Coach\u2122 Workout Status: PeakBeats\u2122 Sync to 3rd Party Fitness Apps\u00b9\u2077: Strava, adidas Running, TrainingPeaks (via Terra), komoot, Relive, Google Fit, Apple Health Sports Convenience: Live broadcast of sports data\u00b9\u2078, Live broadcast of turn directions, Sports data stays on-screen, Conditional pause Health Features Readiness: Readiness score, Readiness insights 24H Monitoring: Heart rate, Blood-oxygen saturation, Stress level Manual Measurement: Heart rate, Blood-oxygen saturation, Stress level, One-tap measurement Sleep Quality Monitoring: Sleep heart rate variability, Sleep stages (including REM), Daytime naps, Sleep schedule, Sleep breathing quality, Sleep score Breathing Exercise: Support Health Reminders: Abnormally high & low heart rate, Low blood-oxygen, High stress level, Prompts to perform stress-reducing breathing exercise Other Health Features: PAI health assessment system, Heart rate recovery, Menstrual cycle tracking Lifestyle Features AI Assitant: Zepp Flow\u2122 : Support (select countries and regions) Convenience: Membership Cards\u00b9\u2079: Support Shortcut Cards: Support Events Reminder: Support To Do List: Support Smartphone Assistance: Bluetooth Phone Music Control: Support Bluetooth Phone Camera Control (iOS only): Support Phone Call Notifications: Support SMS Notifications: Support App Notifications: Support Call Quick Reply\u00b9\u2075: Support Find My Phone: Support Timing: Alarm Clock: Support World Clock: Support Stopwatch: Support Pomodoro Timer: Support Daily Life: Weather: Support Sedentary Reminders: Support Screen Lock & Password: Support Do Not Disturb: Support Voice Memo: Support Morning Updates\u00b2\u2070: Support 140+ Sports Modes Running & walking: Outdoor running, Treadmill, Walking, Indoor walking, Race walking, Track run Cycling: Outdoor cycling, Indoor cycling, BMX, E-Bike, E-MTB, Gravel cycling, Bicycle commuting, Bicycle touring, Road cycling, Cyclocross Swimming: Pool swimming, Open water swimming, Fin swimming, Artistic swimming Outdoor workouts: Climbing, Hiking, Rock climbing, Fishing, Hunting, Skateboarding, Roller skating, Parkour, ATV Indoor sports: HYROX Race, Elliptical, Rowing machine, Stair-climbing machine, Stair stepper, Spinning, Indoor fitness, Mixed aerobics, Cross-training, Aerobics, Group calisthenics, Body combat, Strength training, Step training, Core training, Flexibility training, Free training, HIIT, Yoga, Pilates, Gymnastics, Horizontal bar, Parallel bars, Battling ropes, Stretching, Bouldering Dance: Square dance, Ballroom dance, Belly dance, Ballet, Street dance, Zumba, Latin dance, Jazz dance, Hip-hop dance, Pole dance, Breaking, Folk dance, Dance, Modern dance, Disco, Tap dance Combat sports: Boxing, Wrestling, Martial arts, Tai Chi, Muay Thai, Judo, Taekwondo, Karate, Kickboxing, Fencing, Jiu-Jitsu, Kendo Ball sports: Soccer, Beach soccer, Basketball, Volleyball, Beach volleyball, Baseball, Softball, Rugby, Hockey, Table tennis, Badminton, Tennis, Squash, Gateball, Cricket, Handball, Bowling, Polo, Racquetball, Billiards, Sepak takraw, Dodgeball, Water polo, Ice hockey, Shuttlecock, Indoor soccer, Footbag, Bocce ball, Pelota, Floorball, Golf swing, Pickleball, Padel Water sports: Outdoor boating, Sailing, Kayak, Rowing, Dragon boat, Indoor surfing, Water skiing Winter sports: Outdoor skating, Indoor skating, Curling Leisure sports: Hula hooping, Frisbee, Darts, Kite flying, Tug-of-war, Jianzi kicking, Esports, Air walker, Swing, Shuffleboard, Foosball, Motion sensing game Board & card games: Chess, Checkers, Go, Bridge, Board game Others: Jumping rope, Archery, Equestrianism"
+                },
+                "url": "https://watchempires.com/products/amazfit-bip-6?variant=46219063755009",
+                "price": {
+                  "amount": 37900,
+                  "currency": "MYR"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "N/A"
+                  },
+                  {
+                    "name": "Variant",
+                    "label": "stone"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0452/1567/8632/files/Amazfit-BIP-6-Stone.png",
+                    "alt_text": "Amazfit BIP 6 Smartwatch"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/45215678632",
+                  "name": "Watch Empires",
+                  "url": "https://watchempires.com",
+                  "domain": "watch-empires-store.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/45215678632/policies/19815104680.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/45215678632/policies/19815137448.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/45215678632/policies/19815071912.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/45215678632/policies/19815170216.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://watchempires.com/cart/46219063755009:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/46279930904833?shop=45215678632",
+                "title": "Amazfit BIP 6 Smartwatch",
+                "description": {
+                  "plain": "Design Colors: Black, Charcoal, Stone, Red Dimensions (without sensor base): 46.3x40.2x10.45mm Weight (without strap): 27.9g Body Material: Frame: Aluminum alloy; Case: Fiber-reinforced polymer Buttons: 2 Water-resistance Grade: 5 ATM Mic: Support Speaker: Support Motor: Support Strap: Materials: Liquid silicone Width: 22mm Min. & Max. Wrist Dimensions: 130-195mm Buckle: Classic pin buckle Display Material: AMOLED Size: 1.97\" Resolution: 390*450 Peak Brightness\u00b9\u2074: Up to 2,000 nits PPI: 302 Touchscreen: Tempered glass + anti-fingerprint coating Battery Battery Capacity: 340 mAh (rated value) Typical Use Battery Life: Up to 14 days Heavy Use Battery Life: Up to 6days Battery Saver Mode: Up to 26 days GPS Continuous Usage: Up to 32 hours Sensors Health: BioTracker\u2122 PPG biometric sensor (5PD + 2LED) Movement: Acceleration, Gyroscope, Ambient light, Geomagnetic Positioning: 5 satellite positioning systems Connection: Bluetooth 5.2, BLE Packing List, Supported Devices & Application Packing List: Smartwatch (including standard strap) Magnetic charging head (no cable) Instruction manual Supported Devices: Android 7.0 and above, iOS 14.0 and above Application: Zepp App Sports & Health Features Sports Features Sports Modes: 140+ Smart Recognition of: 25 strength training movements, 7 sports movements\u00b9\u2075 Template Creation: Training templates (via the Zepp App), Interval training (via the watch) Advanced Running Support: Track Run mode, Smart trajectory correction, Virtual pacer Connection to Peripheral Workout Devices\u00b9\u2076: Heart rate belt, Running power meter, Cycling power meter, Cycling speedometer, Cycling cadence meter Sports Coach: Zepp Coach\u2122 Workout Status: PeakBeats\u2122 Sync to 3rd Party Fitness Apps\u00b9\u2077: Strava, adidas Running, TrainingPeaks (via Terra), komoot, Relive, Google Fit, Apple Health Sports Convenience: Live broadcast of sports data\u00b9\u2078, Live broadcast of turn directions, Sports data stays on-screen, Conditional pause Health Features Readiness: Readiness score, Readiness insights 24H Monitoring: Heart rate, Blood-oxygen saturation, Stress level Manual Measurement: Heart rate, Blood-oxygen saturation, Stress level, One-tap measurement Sleep Quality Monitoring: Sleep heart rate variability, Sleep stages (including REM), Daytime naps, Sleep schedule, Sleep breathing quality, Sleep score Breathing Exercise: Support Health Reminders: Abnormally high & low heart rate, Low blood-oxygen, High stress level, Prompts to perform stress-reducing breathing exercise Other Health Features: PAI health assessment system, Heart rate recovery, Menstrual cycle tracking Lifestyle Features AI Assitant: Zepp Flow\u2122 : Support (select countries and regions) Convenience: Membership Cards\u00b9\u2079: Support Shortcut Cards: Support Events Reminder: Support To Do List: Support Smartphone Assistance: Bluetooth Phone Music Control: Support Bluetooth Phone Camera Control (iOS only): Support Phone Call Notifications: Support SMS Notifications: Support App Notifications: Support Call Quick Reply\u00b9\u2075: Support Find My Phone: Support Timing: Alarm Clock: Support World Clock: Support Stopwatch: Support Pomodoro Timer: Support Daily Life: Weather: Support Sedentary Reminders: Support Screen Lock & Password: Support Do Not Disturb: Support Voice Memo: Support Morning Updates\u00b2\u2070: Support 140+ Sports Modes Running & walking: Outdoor running, Treadmill, Walking, Indoor walking, Race walking, Track run Cycling: Outdoor cycling, Indoor cycling, BMX, E-Bike, E-MTB, Gravel cycling, Bicycle commuting, Bicycle touring, Road cycling, Cyclocross Swimming: Pool swimming, Open water swimming, Fin swimming, Artistic swimming Outdoor workouts: Climbing, Hiking, Rock climbing, Fishing, Hunting, Skateboarding, Roller skating, Parkour, ATV Indoor sports: HYROX Race, Elliptical, Rowing machine, Stair-climbing machine, Stair stepper, Spinning, Indoor fitness, Mixed aerobics, Cross-training, Aerobics, Group calisthenics, Body combat, Strength training, Step training, Core training, Flexibility training, Free training, HIIT, Yoga, Pilates, Gymnastics, Horizontal bar, Parallel bars, Battling ropes, Stretching, Bouldering Dance: Square dance, Ballroom dance, Belly dance, Ballet, Street dance, Zumba, Latin dance, Jazz dance, Hip-hop dance, Pole dance, Breaking, Folk dance, Dance, Modern dance, Disco, Tap dance Combat sports: Boxing, Wrestling, Martial arts, Tai Chi, Muay Thai, Judo, Taekwondo, Karate, Kickboxing, Fencing, Jiu-Jitsu, Kendo Ball sports: Soccer, Beach soccer, Basketball, Volleyball, Beach volleyball, Baseball, Softball, Rugby, Hockey, Table tennis, Badminton, Tennis, Squash, Gateball, Cricket, Handball, Bowling, Polo, Racquetball, Billiards, Sepak takraw, Dodgeball, Water polo, Ice hockey, Shuttlecock, Indoor soccer, Footbag, Bocce ball, Pelota, Floorball, Golf swing, Pickleball, Padel Water sports: Outdoor boating, Sailing, Kayak, Rowing, Dragon boat, Indoor surfing, Water skiing Winter sports: Outdoor skating, Indoor skating, Curling Leisure sports: Hula hooping, Frisbee, Darts, Kite flying, Tug-of-war, Jianzi kicking, Esports, Air walker, Swing, Shuffleboard, Foosball, Motion sensing game Board & card games: Chess, Checkers, Go, Bridge, Board game Others: Jumping rope, Archery, Equestrianism"
+                },
+                "url": "https://watchempires.com/products/amazfit-bip-6?variant=46279930904833",
+                "price": {
+                  "amount": 37900,
+                  "currency": "MYR"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "N/A"
+                  },
+                  {
+                    "name": "Variant",
+                    "label": "red"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0452/1567/8632/files/Amazfit-BIP-6-Red.png",
+                    "alt_text": "Amazfit BIP 6 Smartwatch"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/45215678632",
+                  "name": "Watch Empires",
+                  "url": "https://watchempires.com",
+                  "domain": "watch-empires-store.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/45215678632/policies/19815104680.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/45215678632/policies/19815137448.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/45215678632/policies/19815071912.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/45215678632/policies/19815170216.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://watchempires.com/cart/46279930904833:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/55910607585661?shop=84121092412",
+                "title": "Amazfit Bip 6 Smartwatch",
+                "description": {
+                  "plain": "Amazfit Bip 6 Smartwatch Every Moment Counts Amazfit Bip 6 Built to withstand the demands of daily life, the Bip 6 is an everyday smartwatch that seamlessly integrates high-performance fitness tracking with elegant design and smart features. With advanced health technology, intelligent coaching, and seamless connectivity, it empowers users to stay active, connected, and in control, enhancing both wellness and style in every moment. Key Features Product Video General Specification Type: Smartwatch Display: 1.97\" AMOLED Resolution: 390 x 450 Dimensions: 46.3 x 40.2 x 10.45mm (Without sensor base) PPI: 302 Touchscreen: Tempered glass + anti-fingerprint coating Battery: Capacity: 340 mAh (rated value) Battery Life: Up to 14 days Heavy Use Battery Life: Up to 6 days Battery Saver Mode: Up to 26 days GPS Continuous Usage: Up to 32 hours Strap: Material: Liquid silicone Width: 22mm Min. & Max. Wrist Dimensions: 130-195mm Classic pin buckle Sensors: Health: BioTracker\u2122 PPG biometric sensor (5PD + 2LED) Movement: Acceleration, Gyroscope, Ambient light, Geomagnetic Positioning: 5 satellite positioning systems Connection: Bluetooth 5.2, BLE Other: Mic Support Speaker Support Motor Support Other: Touchscreen: Tempered glass + anti-fingerprint coating Peak Brightness: Up to 2,000 nits Buttons 2 Product Weight 27.9kg without Strap Water Resistant Grade 5ATM Supported Devices Android 7.0 and above, iOS 14.0 and above Packing list Smartwatch (including standard strap), magnetic charging head (no cable), instruction manual Colour Red Style code 146-W2435EU5N Sports & Health Features Sports Modes Sports Modes: 140+ Smart Recognition 25 strength training movements & 7 sports movements Template Creation Training templates (via the Zepp App), Interval training (via the watch) Advanced Running Support Track Run mode,Smart trajectory correction, Virtual pacer Connection to Peripheral Workout Devices Heart rate belt, Running power meter, Cycling power meter, Cycling speedometer, Cycling cadence meter Sports Coach Zepp Coach\u2122 Workout Status PeakBeats\u2122 Sync to 3rd Party Fitness Apps Strava,adidas Running,TrainingPeaks (via Terra),komoot,Relive,Google Fit,Apple Health Sports Convenience Live broadcast of sports data, Live broadcast of turn directions,Sports data stays on-screen, Conditional pause 24hr monitoring Heart rate,Blood-oxygen saturation,Stress level Manual Measurement Heart rate, Blood-oxygen saturation,Stress level, One-tap measurement Sleep Quality Monitoring Sleep heart rate variability,Sleep stages (including REM), Daytime naps, Sleep schedule, Sleep breathing quality,Sleep score Health Assessment System PAI health assessment system, Heart rate recovery, Menstrual cycle tracking Breathing Exercise Support Yes Health Reminders Abnormally high & low heart rate,Low blood-oxygen,High stress level,Prompts to perform stress-reducing breathing exercise"
+                },
+                "url": "https://www.elverys.ie/products/amazfit-bip-6-red-1168937?variant=55910607585661",
+                "price": {
+                  "amount": 9999,
+                  "currency": "EUR"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0841/2109/2412/files/C1-1168937-636WX636H.jpg",
+                    "alt_text": "Amazfit Bip 6 Smartwatch"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/84121092412",
+                  "name": "Intersport Elverys",
+                  "url": "https://www.elverys.ie",
+                  "domain": "intersport-ie.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/84121092412/policies/38651396412.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/84121092412/policies/38651461948.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/84121092412/policies/38651363644.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/84121092412/policies/38651429180.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.elverys.ie/cart/55910607585661:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/42302294360100?shop=26613710884",
+                "title": "Bip 6",
+                "description": {
+                  "plain": "Built to withstand the demands of daily life, the Bip 6 is an everyday smartwatch that seamlessly integrates high-performance fitness tracking with elegant design and smart features. With advanced health technology, intelligent coaching, and seamless connectivity, it empowers users to stay active, connected, and in control - making every moment count. Lightweight aluminum design with a vibrant AMOLED display Precise heart rate and sleep data powered by BioTracker\u2122 technology 140+ workout modes including smart strength training, and AI coaching Up to 14 days battery life Free Zepp app for health and fitness tracking"
+                },
+                "url": "https://in.amazfit.com/products/bip-6?variant=42302294360100",
+                "price": {
+                  "amount": 799900,
+                  "currency": "INR"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0266/1371/0884/files/Pamir_45_b21d2a6c-d7bf-4d0f-9cd8-99fdd5de9731.png",
+                    "alt_text": "Bip 6"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/26613710884",
+                  "name": "Amazfit India",
+                  "url": "https://in.amazfit.com",
+                  "domain": "amazfit-india.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/26613710884/policies/14087913508.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/26613710884/policies/14087946276.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/26613710884/policies/14087880740.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/26613710884/policies/14087979044.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://in.amazfit.com/cart/42302294360100:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 7999,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 7999,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/41beoKjFj3WdbkVE6vj97A",
+            "title": "DATEOY Watch 8 Classic Smartwatch \u2013 AMOLED Display, Rotating Bezel, GPS Sports & Advanced Health Tracking",
+            "description": {
+              "plain": "A stylish smartwatch with a rotating bezel, AMOLED display, and advanced health and fitness tracking for everyday use."
+            },
+            "rating": {
+              "value": 4.7,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 6
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Combines premium craftsmanship with AI-powered features and a rotating bezel for intuitive control."
+              ],
+              "top_features": "Rotating bezel control enables smooth, intuitive navigation for effortless use\n1.32-inch AMOLED display delivers vibrant, clear visuals for daily activities\nIP68 waterproof rating allows confident wear during swimming, showering, or rain\nAdvanced AI-powered features and customizable watchfaces enhance personalization and productivity\nIntegrated health monitoring tracks heart rate, blood oxygen, sleep, and more for comprehensive wellness",
+              "tech_specs": "Display: 1.32-inch AMOLED, 466 x 466 resolution\nBattery: 400mAh high-capacity polymer\nConnectivity: Bluetooth 5.4, NFC, dual mode\nWater Resistance: IP68 (swim, sweat, shower, wash hands)\nCase Material: Zinc alloy\nBand: Samsung-style, premium comfort"
+            },
+            "variants": [],
+            "price_range": {}
+          },
+          {
+            "id": "gid://shopify/p/4efOynmELM0wNhdVINvqha",
+            "title": "Apple Watch Series - Lite Fit",
+            "description": {
+              "plain": "A compact, waterproof smart watch with fitness tracking, music control, and customizable features for adults and teens."
+            },
+            "rating": {
+              "value": 4.1,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 11
+            },
+            "options": [
+              {
+                "name": "Color",
+                "values": [
+                  {
+                    "label": "Black"
+                  },
+                  {
+                    "label": "Khaki"
+                  },
+                  {
+                    "label": "Navy"
+                  }
+                ]
+              },
+              {
+                "name": "Device",
+                "values": [
+                  {
+                    "label": "Apple Watch (38mm)"
+                  },
+                  {
+                    "label": "Apple Watch (40mm)"
+                  },
+                  {
+                    "label": "Apple Watch (41mm)"
+                  },
+                  {
+                    "label": "Apple Watch (44mm)"
+                  },
+                  {
+                    "label": "Apple Watch (45mm)"
+                  },
+                  {
+                    "label": "Apple Watch 10/11 (46mm)"
+                  },
+                  {
+                    "label": "Apple Watch Ultra (49mm)"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Combines fitness tracking, music control, and waterproof design in a slim, durable case."
+              ],
+              "top_features": "Fitness tracking monitors heart rate, steps, and activity for comprehensive health insights\nMusic control allows playback and volume adjustment directly from the watch for convenience\nWaterproof design enables swimming and water activities without removing the case\nCustomizable watch faces let users personalize their experience\nTouchscreen interface provides intuitive navigation and control",
+              "tech_specs": "Display: Digital\nConnectivity: Bluetooth, Wi-Fi, GPS\nMaterial: Rubber\nBand Color: Black\nCase Color: Black\nTarget Gender: Unisex"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0808/0067/products/title_web_aw7_45mm_khaki_01.jpg",
+                "alt_text": "AMP02288 - Apple Watch Series (Apple Watch (49mm)/Apple Watch (45mm)/Apple Watch (42mm)) Watch Band Lite Fit in khaki showing the front"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/43247406317615?shop=8080067",
+                "title": "Apple Watch Series - Lite Fit",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-lite-fit?variant=43247406317615",
+                "price": {
+                  "amount": 1999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Khaki"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch Ultra (49mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/products/title_web_aw7_45mm_khaki_01.jpg",
+                    "alt_text": "AMP02288 - Apple Watch Series (Apple Watch (49mm)/Apple Watch (45mm)/Apple Watch (42mm)) Watch Band Lite Fit in khaki showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/43247406317615:1",
+                "rating": {
+                  "value": 4.1,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 11
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/43247406350383?shop=8080067",
+                "title": "Apple Watch Series - Lite Fit",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-lite-fit?variant=43247406350383",
+                "price": {
+                  "amount": 1999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Navy"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch Ultra (49mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/products/title_web_aw7_45mm_navy_01.jpg",
+                    "alt_text": "AMP02287 - Apple Watch Series (Apple Watch (49mm)/Apple Watch (45mm)/Apple Watch (42mm)) Watch Band Lite Fit in navy showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/43247406350383:1",
+                "rating": {
+                  "value": 4.1,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 11
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/43247406415919?shop=8080067",
+                "title": "Apple Watch Series - Lite Fit",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-lite-fit?variant=43247406415919",
+                "price": {
+                  "amount": 1999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Khaki"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch 10/11 (46mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/products/title_web_aw7_45mm_khaki_01.jpg",
+                    "alt_text": "AMP02288 - Apple Watch Series (Apple Watch (49mm)/Apple Watch (45mm)/Apple Watch (42mm)) Watch Band Lite Fit in khaki showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/43247406415919:1",
+                "rating": {
+                  "value": 4.1,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 11
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/43247406448687?shop=8080067",
+                "title": "Apple Watch Series - Lite Fit",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-lite-fit?variant=43247406448687",
+                "price": {
+                  "amount": 1999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Navy"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch 10/11 (46mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/products/title_web_aw7_45mm_navy_01.jpg",
+                    "alt_text": "AMP02287 - Apple Watch Series (Apple Watch (49mm)/Apple Watch (45mm)/Apple Watch (42mm)) Watch Band Lite Fit in navy showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/43247406448687:1",
+                "rating": {
+                  "value": 4.1,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 11
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/43247406612527?shop=8080067",
+                "title": "Apple Watch Series - Lite Fit",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-lite-fit?variant=43247406612527",
+                "price": {
+                  "amount": 1999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Khaki"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch (45mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/products/title_web_aw7_45mm_khaki_01.jpg",
+                    "alt_text": "AMP02288 - Apple Watch Series (Apple Watch (49mm)/Apple Watch (45mm)/Apple Watch (42mm)) Watch Band Lite Fit in khaki showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/43247406612527:1",
+                "rating": {
+                  "value": 4.1,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 11
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/43247406645295?shop=8080067",
+                "title": "Apple Watch Series - Lite Fit",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-lite-fit?variant=43247406645295",
+                "price": {
+                  "amount": 1999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Navy"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch (45mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/products/title_web_aw7_45mm_navy_01.jpg",
+                    "alt_text": "AMP02287 - Apple Watch Series (Apple Watch (49mm)/Apple Watch (45mm)/Apple Watch (42mm)) Watch Band Lite Fit in navy showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/43247406645295:1",
+                "rating": {
+                  "value": 4.1,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 11
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/43247406710831?shop=8080067",
+                "title": "Apple Watch Series - Lite Fit",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-lite-fit?variant=43247406710831",
+                "price": {
+                  "amount": 1999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Khaki"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch (44mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/products/title_web_aw7_45mm_khaki_01.jpg",
+                    "alt_text": "AMP02288 - Apple Watch Series (Apple Watch (49mm)/Apple Watch (45mm)/Apple Watch (42mm)) Watch Band Lite Fit in khaki showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/43247406710831:1",
+                "rating": {
+                  "value": 4.1,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 11
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/43247406743599?shop=8080067",
+                "title": "Apple Watch Series - Lite Fit",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-lite-fit?variant=43247406743599",
+                "price": {
+                  "amount": 1999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Navy"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch (44mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/products/title_web_aw7_45mm_navy_01.jpg",
+                    "alt_text": "AMP02287 - Apple Watch Series (Apple Watch (49mm)/Apple Watch (45mm)/Apple Watch (42mm)) Watch Band Lite Fit in navy showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/43247406743599:1",
+                "rating": {
+                  "value": 4.1,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 11
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/43247406874671?shop=8080067",
+                "title": "Apple Watch Series - Lite Fit",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-lite-fit?variant=43247406874671",
+                "price": {
+                  "amount": 1999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch (41mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/products/title_web_aw7_41mm_blk_01.jpg",
+                    "alt_text": "AMP02290 - Apple Watch Series (Apple Watch (41mm)/Apple Watch (38mm)) Watch Band Lite Fit in black showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/43247406874671:1",
+                "rating": {
+                  "value": 4.1,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 11
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/43247406907439?shop=8080067",
+                "title": "Apple Watch Series - Lite Fit",
+                "description": {
+                  "plain": "More than just protection. Explore what we do and how we do it. Our Rewards Protection with benefits for our Reward members. Get it Faster We provide discounted expedited shipping for our Elite and Executive members. Seasonal Coupon Every season we provide our Elite and Executive members with reward coupons with fresh new gears. Executive Care Team We've created a dedicated team where we personally handle anything from warranty service to all questions. Join Us Our Story Learn about Spigen's brand story and company history. Sustainability Explore Spigen's sustainability efforts and ClimatePartner initiatives"
+                },
+                "url": "https://www.spigen.com/products/apple-watch-series-band-lite-fit?variant=43247406907439",
+                "price": {
+                  "amount": 1999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Khaki"
+                  },
+                  {
+                    "name": "Device",
+                    "label": "Apple Watch (41mm)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0808/0067/products/title_web_aw7_41mm_khaki_01.jpg",
+                    "alt_text": "AMP02292 - Apple Watch Series (Apple Watch (41mm)/Apple Watch (38mm)) Watch Band Lite Fit in khaki showing the front"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/8080067",
+                  "name": "Spigen Inc",
+                  "url": "https://www.spigen.com",
+                  "domain": "spigenus.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018969.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://www.spigen.com/8080067/policies/2018973.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://www.spigen.com/8080067/policies/2018965.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://www.spigen.com/8080067/policies/14212366383.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.spigen.com/cart/43247406907439:1",
+                "rating": {
+                  "value": 4.1,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 11
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 1999,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 1999,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/1f8IIPK5naTmJwxxkS4UWN",
+            "title": "Hard Hat Foreman",
+            "description": {
+              "plain": "A rugged, stylish smartwatch designed for tradespeople, offering essential work features and real-time connectivity in tough conditions."
+            },
+            "rating": {
+              "value": 4.8,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 1811
+            },
+            "options": [
+              {
+                "name": "Color",
+                "values": [
+                  {
+                    "label": "Black"
+                  },
+                  {
+                    "label": "Orange"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Combines tough Australian-made durability with smart features like real-time updates and calls, tailored for the demanding work environment."
+              ],
+              "top_features": "Durable construction withstands rough conditions and outdoor exposure for reliable on-site use\nReal-time updates, calls, and messages keep users connected without removing the watch\nLong battery life ensures extended use during long shifts without frequent charging\nShock and water resistance protects against drops and splashes on job sites\nSmart features including GPS, heart rate, and fitness tracking support productivity and health",
+              "tech_specs": "Display: Digital\nConnectivity: Bluetooth, USB\nWater Resistance: Yes\nBattery Life: Long-lasting (exact duration not specified)\nMaterial: Plastic, Silicone, Rubber\nCase Color: Black, Orange"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0840/1141/7899/files/82.png",
+                "alt_text": "Hard Hat Foreman"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/48136309211435?shop=84011417899",
+                "title": "Hard Hat Foreman",
+                "description": {
+                  "plain": "Meet the Foreman A smartwatch that\u2019s as tough and stylish as the bossman himself. Meet the Hard Hat Foreman \u2013 where luxury meets utility in the heart of Aussie craftsmanship. Crafted for the rugged man, the Foreman boasts a durable build that's ready to take on any site, any time. Beyond telling time, it\u2019s your on-site assistant. From scheduling to communication, it keeps you ahead with just a flick of the wrist. Stay connected to your crew without missing a beat. Real-time updates, calls, and messages - all without pulling out your phone. 90 Day Money Back Guarantee Customer Satisfaction is what's most important to us here at Hard Hat! Try our Watch out and if for ANY reason you don't like it within 90 Days, we will refund you! It's as easy as that... No Questions Asked! What's in the Box? 1 x Hard Hat Foreman\u2122 1 x Standard Watch Band 1 x Charging Cable with USB Input Don't Miss Out! Due to high demand, we often sell out. If you have any further questions please email us at support@hardhatwatches.com.au Whether you're on the construction site or tackling a home improvement project, stay connected and in control without compromising on durability. It's not just a watch; it's a lifestyle statement for the man who demands reliability, toughness, and practicality in every aspect of life. Built for Hard Work Shock & Water Resistant \u2013 Withstand rough conditions and exposure to the elements. Long Battery Life \u2013 Stay connected through long shifts without frequent charging. Smart Features for Tradies \u2013 Get real-time updates, calls, and messages without pulling out your phone. Tough, Stylish Design \u2013 A smart watch for tradies that looks as good as it performs. Whether you're an Apprentice or Tradesmen, the Hard Hat Foreman is ready for any job you throw at it."
+                },
+                "url": "https://hardhatwatches.com.au/products/hard-hat-smartwatch-round-face?variant=48136309211435",
+                "price": {
+                  "amount": 11995,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black"
+                  },
+                  {
+                    "name": "Offer",
+                    "label": "Hard Hat Foreman"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0840/1141/7899/files/82.png",
+                    "alt_text": "Hard Hat Foreman"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/84011417899",
+                  "name": "Hard Hat Australia ",
+                  "url": "https://hardhatwatches.com.au",
+                  "domain": "3c0bf7-3.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346462507.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346495275.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346429739.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346528043.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hardhatwatches.com.au/cart/48136309211435:1",
+                "rating": {
+                  "value": 4.8,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 1811
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/48136309244203?shop=84011417899",
+                "title": "Hard Hat Foreman",
+                "description": {
+                  "plain": "Meet the Foreman A smartwatch that\u2019s as tough and stylish as the bossman himself. Meet the Hard Hat Foreman \u2013 where luxury meets utility in the heart of Aussie craftsmanship. Crafted for the rugged man, the Foreman boasts a durable build that's ready to take on any site, any time. Beyond telling time, it\u2019s your on-site assistant. From scheduling to communication, it keeps you ahead with just a flick of the wrist. Stay connected to your crew without missing a beat. Real-time updates, calls, and messages - all without pulling out your phone. 90 Day Money Back Guarantee Customer Satisfaction is what's most important to us here at Hard Hat! Try our Watch out and if for ANY reason you don't like it within 90 Days, we will refund you! It's as easy as that... No Questions Asked! What's in the Box? 1 x Hard Hat Foreman\u2122 1 x Standard Watch Band 1 x Charging Cable with USB Input Don't Miss Out! Due to high demand, we often sell out. If you have any further questions please email us at support@hardhatwatches.com.au Whether you're on the construction site or tackling a home improvement project, stay connected and in control without compromising on durability. It's not just a watch; it's a lifestyle statement for the man who demands reliability, toughness, and practicality in every aspect of life. Built for Hard Work Shock & Water Resistant \u2013 Withstand rough conditions and exposure to the elements. Long Battery Life \u2013 Stay connected through long shifts without frequent charging. Smart Features for Tradies \u2013 Get real-time updates, calls, and messages without pulling out your phone. Tough, Stylish Design \u2013 A smart watch for tradies that looks as good as it performs. Whether you're an Apprentice or Tradesmen, the Hard Hat Foreman is ready for any job you throw at it."
+                },
+                "url": "https://hardhatwatches.com.au/products/hard-hat-smartwatch-round-face?variant=48136309244203",
+                "price": {
+                  "amount": 11995,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Orange"
+                  },
+                  {
+                    "name": "Offer",
+                    "label": "Hard Hat Foreman"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0840/1141/7899/files/1_c9821c86-e08b-49e7-9037-707b406e8a51.png",
+                    "alt_text": "Hard Hat Foreman"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/84011417899",
+                  "name": "Hard Hat Australia ",
+                  "url": "https://hardhatwatches.com.au",
+                  "domain": "3c0bf7-3.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346462507.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346495275.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346429739.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/84011417899/policies/36346528043.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hardhatwatches.com.au/cart/48136309244203:1",
+                "rating": {
+                  "value": 4.8,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 1811
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 11995,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 11995,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/2XpQQQW20VwHjIDgvXKWkk",
+            "title": "Gard Pro Ultra",
+            "description": {
+              "plain": "A rugged, industry-leading smartwatch designed to withstand extreme work and sports conditions while offering advanced health and fitness tracking."
+            },
+            "rating": {
+              "value": 4.8,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 1236
+            },
+            "options": [
+              {
+                "name": "Color",
+                "values": [
+                  {
+                    "label": "Beige"
+                  },
+                  {
+                    "label": "Black"
+                  },
+                  {
+                    "label": "Limited Edition Green"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Stronger than competitors, built for extreme work and sports environments, and available at half the price."
+              ],
+              "top_features": "Rugged construction withstands extreme work and sports conditions for reliable use in demanding environments\nAdvanced health and fitness tracking monitors heart rate, steps, and activity to support active lifestyles\nCustomizable watch faces and touchscreen interface for personalized experience and easy navigation\nBluetooth and Wi-Fi connectivity enable seamless pairing with devices and smart home systems\nLong battery life ensures extended use without frequent charging",
+              "tech_specs": "Display: Digital\nBand Color: Black\nCase Color: Black\nBand Pattern: Solid\nCase Pattern: Solid\nSmart Watch Features: Heart rate monitor, Fitness tracker, Waterproof, Customizable watch faces\nConnectivity Technology: Bluetooth, Wi-Fi\nWatch Material: Plastic, Silicone, Rubber"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0733/7908/6636/files/55_19931e2f-81da-4060-b645-381df89e84ad.png",
+                "alt_text": "Gard Pro Ultra - Black"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/46701739213129?shop=73379086636",
+                "title": "Gard Pro Ultra",
+                "description": {
+                  "plain": "We created the strongest smartwatch in the industry. Ready to withstand the most extreme work and sports conditions. Stronger than the competition and half the price."
+                },
+                "url": "https://www.gardpro.com/products/gard-pro-ultra?variant=46701739213129",
+                "price": {
+                  "amount": 8999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0733/7908/6636/files/55_19931e2f-81da-4060-b645-381df89e84ad.png",
+                    "alt_text": "Gard Pro Ultra - Black"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/73379086636",
+                  "name": "GARD PRO",
+                  "url": "https://www.gardpro.com",
+                  "domain": "gardpro-us.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282200876.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282233644.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282168108.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282266412.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.gardpro.com/cart/46701739213129:1",
+                "rating": {
+                  "value": 4.8,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 1236
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/46701739245897?shop=73379086636",
+                "title": "Gard Pro Ultra",
+                "description": {
+                  "plain": "We created the strongest smartwatch in the industry. Ready to withstand the most extreme work and sports conditions. Stronger than the competition and half the price."
+                },
+                "url": "https://www.gardpro.com/products/gard-pro-ultra?variant=46701739245897",
+                "price": {
+                  "amount": 8999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Limited Edition Green"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0733/7908/6636/files/56_be170397-0d78-44d6-9b03-a227ad001ec2_2.png",
+                    "alt_text": "Gard Pro Ultra"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/73379086636",
+                  "name": "GARD PRO",
+                  "url": "https://www.gardpro.com",
+                  "domain": "gardpro-us.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282200876.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282233644.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282168108.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282266412.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.gardpro.com/cart/46701739245897:1",
+                "rating": {
+                  "value": 4.8,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 1236
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/46701739278665?shop=73379086636",
+                "title": "Gard Pro Ultra",
+                "description": {
+                  "plain": "We created the strongest smartwatch in the industry. Ready to withstand the most extreme work and sports conditions. Stronger than the competition and half the price."
+                },
+                "url": "https://www.gardpro.com/products/gard-pro-ultra?variant=46701739278665",
+                "price": {
+                  "amount": 8999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Beige"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0733/7908/6636/files/57_858d84ff-d7bf-4288-94cd-5c0367174f4c_2.png",
+                    "alt_text": "Gard Pro Ultra"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/73379086636",
+                  "name": "GARD PRO",
+                  "url": "https://www.gardpro.com",
+                  "domain": "gardpro-us.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282200876.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282233644.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282168108.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/73379086636/policies/31282266412.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.gardpro.com/cart/46701739278665:1",
+                "rating": {
+                  "value": 4.8,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 1236
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 8999,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 8999,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "messages": []
+      }
+    }
+  }
+}

@@ -1,0 +1,1416 @@
+{
+  "query": "carpet cleaner",
+  "fetched_at": 1778264695.552972,
+  "count": 10,
+  "products": [
+    {
+      "id": "gid://shopify/p/1xuVuU0mt8oFfqq4teGA8X",
+      "title": "CleanSlate Pet Carpet & Upholstery Spot Cleaner",
+      "image_url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/FH14000_ATF_1_hero.jpg",
+      "seller_name": "Hoover",
+      "seller_url": "https://hoover.com",
+      "price_min": 129.99,
+      "price_max": 146.14,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://hoover.com/cart/40290439168151:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/1WRX5TYnIQAAhY9bhXzFfo",
+      "title": "PowerDash\u2122 Pet+ Compact Carpet Cleaner",
+      "image_url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/FH50704_ATF_1_hero.jpg",
+      "seller_name": "Hoover",
+      "seller_url": "https://hoover.com",
+      "price_min": 139.99,
+      "price_max": 139.99,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://hoover.com/cart/41294636581015:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/75p9Q6DRTxMbL2fB6aaRbl",
+      "title": "Powerscrub XL Pet Carpet Cleaner",
+      "image_url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/FH68002V_ATF_1_hero.jpg",
+      "seller_name": "Hoover",
+      "seller_url": "https://hoover.com",
+      "price_min": 199.99,
+      "price_max": 329.98,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://hoover.com/cart/42566156058775:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/4Ao65SsGssKAI19YLgQgQV",
+      "title": "Carpet Cleaner - Gallon",
+      "image_url": "https://cdn.shopify.com/s/files/1/0645/8097/products/Z-221011-Shine_Carpet_Cleaner_Gallon.jpg",
+      "seller_name": "SHINE SUPPLY",
+      "seller_url": "https://shinesupply.com",
+      "price_min": 38.0,
+      "price_max": 38.0,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://shinesupply.com/cart/860411423:1",
+      "rating": 5.0,
+      "rating_count": 30
+    },
+    {
+      "id": "gid://shopify/p/4WRy7oVQVWwz9RmUks6hnZ",
+      "title": "Shark CarpetXpert Deep Carpet Cleaner with Built-In StainStriker",
+      "image_url": "https://cdn.shopify.com/s/files/1/0069/2817/1093/files/VOVP2_SQ1_0000000099_N_A_SLf.jfif.jpg",
+      "seller_name": "Smyth's Homevalue",
+      "seller_url": "https://www.smythshomevalue.ie",
+      "price_min": 421.0,
+      "price_max": 421.0,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://www.smythshomevalue.ie/cart/48798303256912:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/7W09XUsM5B5Ju1ki9EtgG",
+      "title": "Hoover Oxy Pet Carpet Cleaner 50 oz.",
+      "image_url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/AH31955_ATF_1_Hero.jpg",
+      "seller_name": "Hoover",
+      "seller_url": "https://hoover.com",
+      "price_min": 25.99,
+      "price_max": 25.99,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://hoover.com/cart/39653652758679:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/3w8eYFCXu7XwAWkPO5gVbw",
+      "title": "Hoover SmartWash+ Automatic Carpet Cleaner",
+      "image_url": "https://cdn.shopify.com/s/files/1/0606/8109/3269/files/d34ed82e-aaf9-44e1-92de-7521731a68b4_0ace772f-83af-4567-baaf-7bdeb1c21ec0.webp",
+      "seller_name": "REBEL",
+      "seller_url": "https://fromrebel.com",
+      "price_min": 133.99,
+      "price_max": 133.99,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://fromrebel.com/cart/52620598542703:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/6TqkVCc13jWDV5UQlT7BXs",
+      "title": "SMARTWASH PET XL",
+      "image_url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/FH62000_ATF_1_hero.jpg",
+      "seller_name": "Hoover",
+      "seller_url": "https://hoover.com",
+      "price_min": 349.99,
+      "price_max": 536.95,
+      "available": true,
+      "variant_count": 3,
+      "url": "https://hoover.com/cart/44722105548951:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/2v6DKoZ91RnxOLIvuHD6wv",
+      "title": "Bissell PowerClean 3939 Pet Carpet Cleaner, 2.36 L Clean, 1.3 L Dirty Tank, 7-1/2 in W Cleaning Path, Black and Blue",
+      "image_url": "https://cdn.shopify.com/s/files/1/0745/6332/2154/files/0634725_l67476.jpg",
+      "seller_name": "Mrosupreme.com",
+      "seller_url": "https://mrosupreme.com",
+      "price_min": 126.14,
+      "price_max": 172.54,
+      "available": true,
+      "variant_count": 3,
+      "url": "https://mrosupreme.com/cart/45080285905194:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/3TlmIchEBdMttnpks9Znt0",
+      "title": "Power Scrub Deluxe Carpet Cleaner",
+      "image_url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/FH50150NC_ATF_1_hero.jpg",
+      "seller_name": "Hoover",
+      "seller_url": "https://hoover.com",
+      "price_min": 169.99,
+      "price_max": 169.99,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://hoover.com/cart/38719161958551:1",
+      "rating": null,
+      "rating_count": null
+    }
+  ],
+  "raw": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "result": {
+      "structuredContent": {
+        "ucp": {
+          "version": "2026-04-08",
+          "capabilities": {
+            "dev.ucp.shopping.catalog.search": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://ucp.dev/2026-04-08/specification/catalog",
+                "schema": "https://ucp.dev/2026-04-08/schemas/shopping/catalog_search.json"
+              }
+            ],
+            "dev.ucp.shopping.catalog.lookup": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://ucp.dev/2026-04-08/specification/catalog",
+                "schema": "https://ucp.dev/2026-04-08/schemas/shopping/catalog_lookup.json"
+              }
+            ],
+            "dev.shopify.catalog.global": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://shopify.dev/docs/agents/catalog/global-catalog",
+                "schema": "https://shopify.dev/ucp/schemas/2026-04-08/shopify_catalog_global.json",
+                "extends": [
+                  "dev.ucp.shopping.catalog.search",
+                  "dev.ucp.shopping.catalog.lookup"
+                ],
+                "requires": {
+                  "protocol": {
+                    "min": "2026-04-08"
+                  }
+                }
+              }
+            ]
+          },
+          "status": "success"
+        },
+        "products": [
+          {
+            "id": "gid://shopify/p/1xuVuU0mt8oFfqq4teGA8X",
+            "title": "CleanSlate Pet Carpet & Upholstery Spot Cleaner",
+            "description": {
+              "plain": "A portable carpet and upholstery cleaner with powerful suction, specialized tools, and odor-fighting power for quick, effective pet mess removal."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Combines powerful suction, dual tank system, and Oxy formula for permanent stain and odor removal on the go."
+              ],
+              "top_features": "Powerful suction removes large spills and stains for deep cleaning results\nDual tank system with 40 oz capacity allows for extended cleaning sessions\n7 inch WidePath tool and TightSpot tool reach and clean hard-to-access areas\nHose Rinse Tool flushes debris to keep the machine clean for the next use\nOxy formula adds 25% odor-fighting power for lasting freshness",
+              "tech_specs": "Tank Capacity: 40 oz\nSuction Power: High\nIncluded Tools: 7 inch WidePath, TightSpot, Hose Rinse\nOdor Elimination: Oxy formula with 25% boost\nWarranty: 2 years limited\nColor: Red, White, Black, Gray, Clear"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/FH14000_ATF_1_hero.jpg",
+                "alt_text": "CleanSlate Pet Carpet & Upholstery Spot Cleaner"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/40290439168151?shop=48424288407",
+                "title": "CleanSlate Pet Carpet & Upholstery Spot Cleaner",
+                "description": {
+                  "plain": "The CleanSlate Pet Carpet & Upholstery Spot Cleaner combines powerful suction, versatile tools, and the performance of the Oxy formula to permanently remove stains and messes. With our 7\"\" WidePath Tool for large areas like stairs and the TightSpot Tool for crevices and tough to reach areas, you'll have the flexibility you need to clean messes of any size. Quickly remove spills and stains on the go thanks to a light, portable design and a long cord so you can easily move between areas. And with the Hose Rinse tool, your machine stays clean and ready for the next mess."
+                },
+                "url": "https://hoover.com/products/cleanslate-pet?variant=40290439168151",
+                "price": {
+                  "amount": 12999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/FH14000_ATF_1_hero.jpg",
+                    "alt_text": "CleanSlate Pet Carpet & Upholstery Spot Cleaner"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/48424288407",
+                  "name": "Hoover",
+                  "url": "https://hoover.com",
+                  "domain": "shop-hoover.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047962775.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047995543.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047930007.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23048028311.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hoover.com/cart/40290439168151:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/42882601844892?shop=2340221",
+                "title": "Hoover\u00ae CleanSlate Pet Carpet & Upholstery Spot Deep Cleaner",
+                "description": {
+                  "plain": "Description Similar to BISSELL Little Green ProHeat Pet The CleanSlate Pet Carpet & Upholstery Spot Cleaner combines powerful suction, versatile tools, and the performance of the Oxy formula to permanently remove stains and messes. With our 7\"\" WidePath Tool for large areas like stairs and the TightSpot Tool for crevices and tough to reach areas, you'll have the flexibility you need to clean messes of any size. Quickly remove spills and stains on the go thanks to a light, portable design and a long cord so you can easily move between areas. And with the Hose Rinse tool, your machine stays clean and ready for the next mess. Features Clean tough messes like mud, wine, pet messes and more. Hose Rinse Tool flushes left behind dirt & debris Clean farther with the 40oz. Dual Tank System Tackles stairs & larger messes in fewer passes with the 7\u201d WidePath Tool Tight Spot Tool for corners, baseboards, & tough to reach areas Add a 25% boost of odor-fighting power with the Clean Complements\u2122 Pet Odor Eliminator. Backed by a 2-Year Limited Warranty CleanSlate has been awarded Best cleaner for pet messes by Better Homes & Gardens in the 2022 Clean House Awards Powerful suction for larger spots & stains Tools for every mess with the 7\u201d WidePath Tool and TightSpot Tool Permanently remove pet stains & eliminate odours with the included Oxy Concentrate Quickly remove spills when they happen"
+                },
+                "url": "https://hometechcanada.ca/products/hoover-cleanslate-pet-carpet-upholstery-spot-deep-cleaner?variant=42882601844892",
+                "price": {
+                  "amount": 14614,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0234/0221/files/FH14000_ATF_1_Hero.webp",
+                    "alt_text": "Hoover\u00ae CleanSlate Pet Carpet & Upholstery Spot Deep Cleaner"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/2340221",
+                  "name": "HomeTech BOSCH Kitchen Store  ",
+                  "url": "https://hometechcanada.ca",
+                  "domain": "hometech-bosch-small-appliance.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/2340221/policies/1017663.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/2340221/policies/1017661.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/2340221/policies/1017659.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/2340221/policies/18830196892.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hometechcanada.ca/cart/42882601844892:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 12999,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 14614,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/1WRX5TYnIQAAhY9bhXzFfo",
+            "title": "PowerDash\u2122 Pet+ Compact Carpet Cleaner",
+            "description": {
+              "plain": "A portable, high-powered carpet cleaner designed for effortless pet mess removal throughout your home."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Combines powerful suction and HeatForce technology for fast, deep cleaning and quick drying, ideal for pet owners."
+              ],
+              "top_features": "Lightweight portable design enables easy movement between rooms for convenient cleaning\nStrong suction targets and removes deep, embedded pet stains for thorough results\nHeatForce technology reduces drying time, allowing carpets to dry faster after cleaning\nCompact size fits easily in small spaces and tight corners\nEfficient cleaning performance ensures quick and effective mess removal",
+              "tech_specs": "Type: Upright carpet shampooer\nColor: White, Black, Red\nBrand: Hoover\nSub Brand: PowerDash\nPortability: Lightweight, grab-go design"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/FH50704_ATF_1_hero.jpg",
+                "alt_text": "PowerDash\u2122 Pet+ Compact Carpet Cleaner"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/41294636581015?shop=48424288407",
+                "title": "PowerDash\u2122 Pet+ Compact Carpet Cleaner",
+                "description": {
+                  "plain": "The new & improved Hoover\u00ae PowerDash\u2122 Pet Compact Carpet Cleaner is the most powerful compact carpet cleaner* designed for convenient and effortless cleaning anywhere in your home. The lightweight, grab & go portability makes cleaning from room to room easy while the stronger suction helps you target deep embedded stains. Our Heatforce\u2122 Technology also assists with dry time so you can get back on your carpets faster. With even greater efficiency and powerful cleaning performance, the PowerDash\u2122 Pet Compact Carpet Cleaner is perfect for tackling any pet mess with ease."
+                },
+                "url": "https://hoover.com/products/powerdash-1-5?variant=41294636581015",
+                "price": {
+                  "amount": 13999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/FH50704_ATF_1_hero.jpg",
+                    "alt_text": "PowerDash\u2122 Pet+ Compact Carpet Cleaner"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/48424288407",
+                  "name": "Hoover",
+                  "url": "https://hoover.com",
+                  "domain": "shop-hoover.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047962775.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047995543.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047930007.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23048028311.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hoover.com/cart/41294636581015:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 13999,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 13999,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/75p9Q6DRTxMbL2fB6aaRbl",
+            "title": "Powerscrub XL Pet Carpet Cleaner",
+            "description": {
+              "plain": "Deep-cleaning carpet and upholstery machine with five rotating brushes and fast-drying recovery tank for efficient stain removal and whole-home refresh."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Features five counter-rotating Spinscrub brushes and a patented TruMax recovery tank for faster, deeper cleaning and drying."
+              ],
+              "top_features": "Five counter-rotating Spinscrub brushes: Delivers powerful, multi-directional cleaning to remove deep-set stains\nHeatForce technology: Warms the tank to enhance cleaning performance and speed up drying\nPatented TruMax recovery tank: Allows faster drying and reduces the need for frequent emptying\nAuto-mix solution dispenser: Ensures optimal cleaning solution mixing and dispensing for effective stain removal\nVersatile tools included: Pet tool and upholstery tool tackle tough messes on carpets and fabrics",
+              "tech_specs": "Color: Black, Gray, Clear, Red\nCleaning Surfaces: Carpet, Upholstery\nPower Source: AC-powered\nItem Weight: 12.2 pounds\nIncludes: Storage bag, nozzle, cleanout tool, 8 ft hose, 14 clean packs\nBrand: Hoover"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/FH68002V_ATF_1_hero.jpg",
+                "alt_text": "Powerscrub XL Pet Carpet Cleaner"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/42566156058775?shop=48424288407",
+                "title": "Powerscrub XL Pet Carpet Cleaner",
+                "description": {
+                  "plain": "The Hoover PowerScrub XL+ Carpet Cleaner powerfully tackles deep, set-in stains and renews your carpets for a complete, whole home clean. Easily remove stains with the combined power of the five counter-rotating SpinScrub brushes and HeatForce faster drying. Our TruMax recovery tank helps you clean more without stopping frequently to empty and refill. Plus, PowerScrub XL comes with versatile tools to target stubborn messes beyond your carpets."
+                },
+                "url": "https://hoover.com/products/powerscrub-xl-pet-vn?variant=42566156058775",
+                "price": {
+                  "amount": 19999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/FH68002V_ATF_1_hero.jpg",
+                    "alt_text": "Powerscrub XL Pet Carpet Cleaner"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/48424288407",
+                  "name": "Hoover",
+                  "url": "https://hoover.com",
+                  "domain": "shop-hoover.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047962775.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047995543.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047930007.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23048028311.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hoover.com/cart/42566156058775:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/47964110717187?shop=77660487939",
+                "title": "Hoover PowerScrub XL Pet Carpet Cleaner Machine for Carpet and Upholstery, Deep Cleaning Shampooer Machine with Multi-Purpose Tools, Powerful Suction, Pair with Hoover Cleaner Solution",
+                "description": {
+                  "plain": "About This THE COMPLETE CLEAN COMBO: The Hoover PowerScrub XL Pet Carpet Cleaning Machine combines five counter-rotating SpinScrub brushes and HeatForce faster drying to lift and remove the toughest stains and renew your carpets from the inside out. VERSATILE TOOLS: Deep cleaning goes beyond just the floor. PowerScrub XL Pet Carpet Cleaners come with a pet tool for stubborn pet messes, and an upholstery tool that scrubs and lifts on fabrics and furniture. MORE WAYS TO CLEAN: Cover more ground with fewer stops to empty the tank with our patented TruMAX recovery tank technology. To refresh a smaller area with a faster clean and dry, try Quick Clean mode. AUTO MIX: This Hoover carpet cleaner machine has an Auto Mix feature that precisely mixes and dispenses solution for optimal carpet washing. Package includes upholstery tool, pet tool, storage bag, nozzle cleanout tool, 8 ft. hose, 14-ct of Clean Packs. PAIR WITH HOOVER CLEANING SOLUTION: For a bright, refreshed home, use the PowerScrub XL with a Hoover carpet shampoo solution. Tackle pet messes with our Pet formula or clean everyday stains with our Everyday solutions. Overview Brand : Hoover Color : Black Item Weight : 12.2 Pounds Style : PowerScrub XL Pet & Paws and Claws Pods Model Name : PowerScrub XL Pet and Pods Bundle"
+                },
+                "url": "https://proinspirecraft.com/products/b0f9t5rpqv?variant=47964110717187",
+                "price": {
+                  "amount": 32998,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0776/6048/7939/files/51H-d5cPWhL._AC_SX679.jpg",
+                    "alt_text": "Hoover PowerScrub XL Pet Carpet Cleaner Machine for Carpet and Upholstery, Deep Cleaning Shampooer Machine with Multi-Purpose Tools, Powerful Suction, Pair with Hoover Cleaner Solution"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/77660487939",
+                  "name": "WipeOut Hub",
+                  "url": "https://proinspirecraft.com",
+                  "domain": "jbeikg-n9.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/77660487939/policies/38578520323.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/77660487939/policies/40745599235.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/77660487939/policies/40745632003.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/77660487939/policies/40745566467.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://proinspirecraft.com/cart/47964110717187:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 19999,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 32998,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/4Ao65SsGssKAI19YLgQgQV",
+            "title": "Carpet Cleaner - Gallon",
+            "description": {
+              "plain": "Concentrated citrus-based carpet cleaner for effective, residue-free upholstery and carpet cleaning."
+            },
+            "rating": {
+              "value": 5.0,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 30
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Citrus-based formula delivers powerful cleaning without leaving residue or chemical odors."
+              ],
+              "top_features": "Concentrated formula makes a minimum of 3 gallons of ready-to-use cleaner for cost-effective use\nCitrus-based cleaning action provides strong, effective stain removal\nLow-foaming aspect ensures safe operation with carpet extractors\nBrightens fabric and leaves zero residue to prevent re-soiling\nEasy-to-read dilution marks on bottle for precise mixing",
+              "tech_specs": "Color: Clear\nDispenser Type: Bottle\nPackage Type: Plastic bottle\nIngredients: Solvents\nVehicle Application Area: Interior, Upholstery\nBrand: Shine Supply"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0645/8097/products/Z-221011-Shine_Carpet_Cleaner_Gallon.jpg",
+                "alt_text": "Carpet Cleaner - Gallon"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/860411423?shop=6458097",
+                "title": "Carpet Cleaner - Gallon",
+                "description": {
+                  "plain": "Powerful citrus cleaning ability. Carpet Cleaner is the ultimate carpet and upholstery cleanser. It\u2019s natural citrus solvent make cleaning your carpet, floor mats, and upholstery a breeze. Unlike other carpet cleansers and all-purpose cleaners, our Carpet Cleaner doesn\u2019t leave behind any residue or chemical like odors. Your interior will be plush, rejuvenated, and smell refreshing. Before and after using a brush and towel method only! Product Highlights: Concentrated formula makes a minimum of (3) GALLONS of ready-to-use product! Powerful citrus based fabric cleaner. Designed with low foaming aspects to ensure safe cleaning when using with a carpet extractor. Brightens fabric. Leaves behind zero residue that can cause re-soiling. Citrus based for strong, effective cleaning. Concentrated formula makes 5 gallons of cleaner. Compatible with carpet extractors. Works awesome on carpet stains at home also! PRO TIPS: Shine Supply bottle displays easy to read dilution marks Fill with product to the desired dilution mark and then fill with water to the 32 oz mark on the neck of the spray bottle. Dilute 4:1 with water for general light/medium duty cleaning. Dilute 3:1 with water for heavy duty cleaning. Spray directly on area to be cleaned, scrub with our Multi-purpose brush, allow product to activate for 3-5 minutes and then towel up using a microfiber towel."
+                },
+                "url": "https://shinesupply.com/products/carpet-cleaner?variant=860411423",
+                "price": {
+                  "amount": 3800,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0645/8097/products/Z-221011-Shine_Carpet_Cleaner_Gallon.jpg",
+                    "alt_text": "Carpet Cleaner - Gallon"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/6458097",
+                  "name": "SHINE SUPPLY",
+                  "url": "https://shinesupply.com",
+                  "domain": "shine-bun.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/6458097/policies/1947963.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/6458097/policies/1947967.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/6458097/policies/1947959.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/6458097/policies/31504892076.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://shinesupply.com/cart/860411423:1",
+                "rating": {
+                  "value": 5.0,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 30
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 3800,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 3800,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/4WRy7oVQVWwz9RmUks6hnZ",
+            "title": "Shark CarpetXpert Deep Carpet Cleaner with Built-In StainStriker",
+            "description": {
+              "plain": "A powerful 2-in-1 carpet cleaner and spot stain eliminator with advanced stain removal technology for deep, fresh carpet cleaning."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Features exclusive Dual Activated StainStriker technology for enhanced stain removal and ultra-fast dry times."
+              ],
+              "top_features": "Dual Activated StainStriker technology: Tackles tough stains more effectively than standard cleaners\nStrong suction power: Penetrates deep into carpet fibers for thorough cleaning\nHigh-pressure spray: Lifts embedded dirt, grime, and odors\nIntegrated handheld spot and stain eliminator: Targets spills and messes with precision\nUltra-fast dry times: Allows carpets to be refreshed and ready sooner",
+              "tech_specs": "Type: Upright carpet shampooer\nColor: Black, Blue, Gray, White, Multicolor\nPattern: Solid\nEnergy efficiency class: [],\nHandheld stain eliminator: Yes\nDual activated stainstriker: Yes"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0069/2817/1093/files/VOVP2_SQ1_0000000099_N_A_SLf.jfif.jpg",
+                "alt_text": "Shark CarpetXpert Deep Carpet Cleaner with Built-In StainStriker"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/48798303256912?shop=6928171093",
+                "title": "Shark CarpetXpert Deep Carpet Cleaner with Built-In StainStriker",
+                "description": {
+                  "plain": "Strike through stains. Eliminate odours. Bring carpets back to life. Introducing the Shark CarpetXpert Deep Carpet Cleaner with StainStriker, combining a powerful deep carpet cleaner with a built-in stain and spot cleaner for supercharged stain elimination. Deep carpet cleaner Built on decades of cleaning innovations, experience Shark\u2019s powerful suction and floor cleaning expertise \u2013 now enhanced with carpet washing and stain removal technology. CarpetXpert delivers an 8x deeper clean than a regular vacuum* \u2013 the high-pressure spray penetrates deep into carpet fibres and evenly distributes a dual-action cleaning solution, without oversaturating your carpet, removing layers of dirt and grime. The high-speed brush-roll maintains contact with your carpet at every turn \u2013 6 rows of uninterrupted bristles leave no cleaning gaps where dirt may be missed. Fast dry time Shark\u2019s powerful suction extracts dirt and liquid for fast drying, leaving carpets clean and revived, and instantly eliminating odours. Finish your clean with Dry Only mode to dry with suction, without dispensing water or cleaning solution. Built-in StainStriker spot remover Instantly eliminate tough stains anywhere in your home with the built-in StainStriker spot cleaner, for the best stubborn stain removal**. With a long-reach, flexible hose and interchangeable attachments, it\u2019s perfect for tackling stains on pet beds, rugs, carpets, stairs, sofas, upholstery, car interiors and more. 20x more stain-striking power*** No need to pre-treat stains with Shark\u2019s dual-activated cleaning solution. Two bespoke formulas mix and activate inside the handheld StainStriker tool to double down on stains and odours: CarpetXpert Deep Clean Pro formula removes layers of ground-in dirt and grime. StainStriker Oxy Multiplier formula lifts and extracts stubborn stains and odours, unleashing the power of OXY to eliminate tough stains. These two cleaning solutions mix and activate inside the handheld stain eliminator as you clean, targeting and removing even the toughest stains. Strike through pet stains, odours, embedded mud and dirt, spilled red wine or coffee, and more. Your CarpetXpert includes a starter pack of each cleaning solution. Need a top-up? CarpetXpert and StainStriker cleaning solution refills are available to buy directly from Shark here. Clean anywhere Your StainStriker goes wherever stains go. Reach anywhere with the long-reach, flexible hose and handheld cleaning attachments: Pet Stain Trapping Tool Purposefully designed for pet owners, this tool collects hair, debris and dirty liquid in a separate compartment for ultimate convenience and hygienic emptying, stopping larger debris and solids from entering the hose and main unit. Large Tough Stain Tool Quickly clean large areas like stairs, sofas or mattresses with this wide scrubbing tool. Tough Stain Reversible Bristle Tool Strike through everyday dirt, spots and stains with this versatile tool, featuring multi-purpose reversible bristles for different surfaces. Integrated Crevice Tool Perfect for cleaning hard-to-reach places such as in between sofa cushions, car seats or around pet beds. Hose-Cleaning Tool Cleaning the extendable hose from the inside, this handy tool makes it easy to keep your StainStriker clean after each use. It\u2019s easy to empty the dirty water tank and clean the attachments, while an LED guide indicates which mode you are in. 5-year guarantee Clean with confidence \u2013 this Shark CarpetXpert with Built-In StainStriker is covered by a 5-year guarantee for your peace of mind (upon registration with Shark, UK & ROI only) Please note, this product is not suitable for use on wool carpets. Check the product instructions for further guidance. Always perform a patch test prior to using."
+                },
+                "url": "https://www.smythshomevalue.ie/products/shark-carpetxpert-deep-carpet-cleaner-with-built-in-stainstriker?variant=48798303256912",
+                "price": {
+                  "amount": 42100,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0069/2817/1093/files/VOVP2_SQ1_0000000099_N_A_SLf.jfif.jpg",
+                    "alt_text": "Shark CarpetXpert Deep Carpet Cleaner with Built-In StainStriker"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/6928171093",
+                  "name": "Smyth's Homevalue",
+                  "url": "https://www.smythshomevalue.ie",
+                  "domain": "smythshomevalue.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/6928171093/policies/13470957653.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/6928171093/policies/13470990421.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/6928171093/policies/13470924885.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/6928171093/policies/13471023189.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.smythshomevalue.ie/cart/48798303256912:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 42100,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 42100,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/7W09XUsM5B5Ju1ki9EtgG",
+            "title": "Hoover Oxy Pet Carpet Cleaner 50 oz.",
+            "description": {
+              "plain": "Enzymatic carpet cleaner that permanently removes pet stains and odors for lasting freshness."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Oxy technology neutralizes and breaks down organic particles, ensuring long-lasting stain and odor removal."
+              ],
+              "top_features": "Enzymatic formula breaks down organic particles for thorough cleaning\nNeutralizes stubborn pet urine odors for lasting freshness\nWorks on both old and new stains for versatile use\nOxy technology continues to clean after application for complete results\nLeaves carpets smelling clean and fresh",
+              "tech_specs": "Volume: 50 oz\nDispenser Type: Bottle\nBrand: Hoover\nIntended Use: Carpet cleaning\nTechnology: Oxy enzymatic formula"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/AH31955_ATF_1_Hero.jpg",
+                "alt_text": "Hoover Oxy Pet Carpet Cleaner 50 oz."
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/39653652758679?shop=48424288407",
+                "title": "Hoover Oxy Pet Carpet Cleaner 50 oz.",
+                "description": {
+                  "plain": "The Oxy Pet Carpet Cleaner is Hoover's best formula to permanently eliminate pet stains and odor from urine. This enzymatic formula powerfully breaks down organic particles including ones from pet messes, and neutralizes stubborn odors\u2013 you know the ones. It even keeps working after you've finished cleaning so you know your carpets are clean to the core! Oxy technology quickly and effectively removes both old and new stains and odors for a clean that lasts. Leaves your home clean and smelling fresh so you and your pets can relax and enjoy."
+                },
+                "url": "https://hoover.com/products/oxy-pet-urine-eliminator-50oz?variant=39653652758679",
+                "price": {
+                  "amount": 2599,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/AH31955_ATF_1_Hero.jpg",
+                    "alt_text": "Hoover Oxy Pet Carpet Cleaner 50 oz."
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/48424288407",
+                  "name": "Hoover",
+                  "url": "https://hoover.com",
+                  "domain": "shop-hoover.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047962775.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047995543.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047930007.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23048028311.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hoover.com/cart/39653652758679:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 2599,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 2599,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/3w8eYFCXu7XwAWkPO5gVbw",
+            "title": "Hoover SmartWash+ Automatic Carpet Cleaner",
+            "description": {
+              "plain": "Automatic carpet cleaner with smart technology for effortless, deep cleaning and fast drying."
+            },
+            "options": [
+              {
+                "name": "Condition",
+                "values": [
+                  {
+                    "label": "open box"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "SmartWash+ technology automatically senses when to clean and dry, eliminating the need for manual controls."
+              ],
+              "top_features": "Automatic cleaning and drying technology: Simplifies carpet cleaning by sensing when to wash and dry as you move\nAutoMix technology: Precisely measures and mixes the correct amount of solution for optimal cleaning\nFlexForce powerbrush: Removes deep, embedded dirt for thorough cleaning\nHeatForce drying technology: Powersfully extracts water for faster carpet drying\nRemovable dirty water tank: Allows easy and hassle-free clean-up",
+              "tech_specs": "Color: Multicolor\nPattern: Solid\nEnergy Efficiency Class: []\nIncludes: 4 inch 2-in-1 tool, 8 foot hose, trial sized solution, storage bag\nDry Only Mode: Yes\nAuto Mix: Yes"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0606/8109/3269/files/d34ed82e-aaf9-44e1-92de-7521731a68b4_0ace772f-83af-4567-baaf-7bdeb1c21ec0.webp",
+                "alt_text": "Hoover SmartWash+ Automatic Carpet Cleaner"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/52620598542703?shop=60681093269",
+                "title": "Hoover SmartWash+ Automatic Carpet Cleaner",
+                "description": {
+                  "plain": "The Hoover SmartWash+ Automatic Carpet Cleaner eliminates the guesswork with Automatic Cleaning Technology that makes carpet cleaning as easy as vacuuming. Wash carpet by simply pushing forward to clean and pulling back to dry. No multiple buttons. No solution measuring. No hassle. Just seriously simple & seriously powerful. Remove deep down embedded dirt with FlexForce\u2122 PowerBrushes. Plus, Auto Mix precisely mixes and dispenses the correct amount of solution for optimal cleaning while Auto Dry powerfully extracts water with HeatForce\u2122 for an even faster drying time. POWERFUL PET MESS EXTRACTION: Enjoy powerful cleaning and extraction for everyday messes around the home. AUTOMATIC CLEANING TECHNOLOGY: SmartWash+ automatically senses when to wash and dry as you move, optimizing every clean without the need for a trigger. 35% FASTER DRY TIME: Enjoy fast dry times and get back on your carpets 35% faster than with Bissell Revolution Hydrosteam. CONVERTS TO A SPOT CLEANER: The included 8-foot hose makes it easy to clean stairs, upholstery and other carpet or upholstered surfaces. DRY-ONLY MODE: Enjoy fast-drying carpets with Dry Only Mode and HeatForce drying technology. AUTOMIX TECHNOLOGY: Precisely measures and mixes the perfect amount of solution and clean water with AutoMix Technology to automatically dispense when cleaning. HASSLE-FREE CLEAN-UP: Removable dirty water tank lid, nozzle and brush roll make clean-up easy. WHAT\u2019S INCLUDED: 4 inch 2-in-1 Tool, 8 foot hose, trial sized solution and storage bag."
+                },
+                "url": "https://fromrebel.com/products/hoover-smartwash-automatic-carpet-cleaner-68ac57-home?variant=52620598542703",
+                "price": {
+                  "amount": 13399,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Condition",
+                    "label": "open box"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0606/8109/3269/files/d34ed82e-aaf9-44e1-92de-7521731a68b4_0ace772f-83af-4567-baaf-7bdeb1c21ec0.webp",
+                    "alt_text": "Hoover SmartWash+ Automatic Carpet Cleaner"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/60681093269",
+                  "name": "REBEL",
+                  "url": "https://fromrebel.com",
+                  "domain": "rebelstork-us.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/60681093269/policies/25811484821.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/60681093269/policies/25811517589.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/60681093269/policies/25811452053.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/60681093269/policies/25811550357.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://fromrebel.com/cart/52620598542703:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 13399,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 13399,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/6TqkVCc13jWDV5UQlT7BXs",
+            "title": "SMARTWASH PET XL",
+            "description": {
+              "plain": "Automatic carpet shampooer with self-cleaning tray and spot boost mode for efficient, hassle-free pet hair removal."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Automatic cleaning technology with self-cleaning tray and spot boost mode for deep cleaning of pet stains."
+              ],
+              "top_features": "Automatic cleaning technology senses when to wash and dry for optimal results\nSelf-cleaning tray flushes out hair and debris for easy maintenance\nSpot boost mode delivers enhanced cleaning power on stubborn stains\nFast drying time reduces wait time between uses\nXL capacity tanks minimize the need for frequent emptying",
+              "tech_specs": "Color: Gray, Black, Clear, Red\nPattern: Solid\nEnergy Efficiency Class: []\nIncludes: 8 foot hose\nConvertible to spot cleaner"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/FH62000_ATF_1_hero.jpg",
+                "alt_text": "SMARTWASH PET XL"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/44722105548951?shop=48424288407",
+                "title": "SMARTWASH PET XL",
+                "description": {
+                  "plain": "Introducing the SmartWash Pet XL, the ultimate solution for hassle-free carpet cleaning! With Automatic Cleaning Technology, this innovative machine automatically senses when to wash and dry. The included Self-Cleaning Tray flushes out hair and debris for easy cleanup, while the Spot Boost Mode unleashes more cleaning power on stubborn stains. Experience fast drying time and the convenience of XL capacity tanks that help make cleaning quick and easy. Plus, it easily converts to a Spot Cleaner with the included 8-foot hose, perfect for tackling stairs and upholstery."
+                },
+                "url": "https://hoover.com/products/smartwash-pet-xl?variant=44722105548951",
+                "price": {
+                  "amount": 34999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/FH62000_ATF_1_hero.jpg",
+                    "alt_text": "SMARTWASH PET XL"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/48424288407",
+                  "name": "Hoover",
+                  "url": "https://hoover.com",
+                  "domain": "shop-hoover.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047962775.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047995543.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047930007.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23048028311.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hoover.com/cart/44722105548951:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/48753388716283?shop=73140666619",
+                "title": "Hoover SmartWash Pet XL Carpet Cleaner - Automatic Deep Cleaning Machine for Carpets & Upholstery",
+                "description": {
+                  "plain": "AUTOMATIC CLEANING TECHNOLOGY: SmartWash Pet XL automatically senses when to wash and dry, making carpet cleaning as easy as vacuuming SELF-CLEANING TRAY: Make clean up easy by using the self-cleaning tray to flush out hair and debris SPOT BOOST MODE: Experience more cleaning power with Spot Boost Mode FAST DRY TIME: Dry floors faster and get back to life quicker with Heatforce Technology XL CAPACITY TANKS: With the 96 oz. tank, take less trips to the sink and clean more CONVERTS TO A SPOT CLEANER: The included 8-foot hose makes it easy to clean stairs, upholstery and other carpet or upholstered surfaces WHAT\u2019S INCLUDED: 7\u201d 2-in-1 Stair Tool, Gentle Upholstery Tool, Max Extraction Tool, Nozzle Cleanout Tool, 8-foot hose, self-cleaning tray, (2) trial sized solutions and storage bag Introducing the SmartWash Pet XL, the ultimate solution for hassle-free carpet cleaning! With Automatic Cleaning Technology, this innovative machine automatically senses when to wash and dry. The included Self-Cleaning Tray flushes out hair and debris for easy cleanup, while the Spot Boost Mode unleashes more cleaning power on stubborn stains. Experience fast drying time and the convenience of XL capacity tanks that help make cleaning quick and easy. Plus, it easily converts to a Spot Cleaner with the included 8-foot hose, perfect for tackling stairs and upholstery."
+                },
+                "url": "https://trendyyboxer.com/products/hoover-smartwash-pet-xl-carpet-cleaner-automatic-deep-cleaning-machine-for-carpets-upholstery?variant=48753388716283",
+                "price": {
+                  "amount": 53695,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0731/4066/6619/files/71G6pmiazfL._AC_SL1500.jpg",
+                    "alt_text": "Hoover SmartWash Pet XL Carpet Cleaner - Automatic Deep Cleaning Machine for Carpets & Upholstery"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/73140666619",
+                  "name": "trendyyboxer",
+                  "url": "https://trendyyboxer.com",
+                  "domain": "cp1p0n-4z.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/73140666619/policies/32775667963.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/73140666619/policies/33893581051.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/73140666619/policies/33893548283.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/73140666619/policies/33893613819.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://trendyyboxer.com/cart/48753388716283:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/43233956266073?shop=69889917017",
+                "title": "Hoover SmartWash Pet XL Carpet Cleaner - Automatic Deep Cleaning Machine for Carpets & Upholstery",
+                "description": {
+                  "plain": "AUTOMATIC CLEANING TECHNOLOGY: SmartWash Pet XL automatically senses when to wash and dry, making carpet cleaning as easy as vacuuming SELF-CLEANING TRAY: Make clean up easy by using the self-cleaning tray to flush out hair and debris SPOT BOOST MODE: Experience more cleaning power with Spot Boost Mode FAST DRY TIME: Dry floors faster and get back to life quicker with Heatforce Technology XL CAPACITY TANKS: With the 96 oz. tank, take less trips to the sink and clean more CONVERTS TO A SPOT CLEANER: The included 8-foot hose makes it easy to clean stairs, upholstery and other carpet or upholstered surfaces WHAT\u2019S INCLUDED: 7\u201d 2-in-1 Stair Tool, Gentle Upholstery Tool, Max Extraction Tool, Nozzle Cleanout Tool, 8-foot hose, self-cleaning tray, (2) trial sized solutions and storage bag Introducing the SmartWash Pet XL, the ultimate solution for hassle-free carpet cleaning! With Automatic Cleaning Technology, this innovative machine automatically senses when to wash and dry. The included Self-Cleaning Tray flushes out hair and debris for easy cleanup, while the Spot Boost Mode unleashes more cleaning power on stubborn stains. Experience fast drying time and the convenience of XL capacity tanks that help make cleaning quick and easy. Plus, it easily converts to a Spot Cleaner with the included 8-foot hose, perfect for tackling stairs and upholstery."
+                },
+                "url": "https://elecoreano.com/products/hoover-smartwash-pet-xl-carpet-cleaner-automatic-deep-cleaning-machine-for-carpets-upholstery?variant=43233956266073",
+                "price": {
+                  "amount": 52195,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0698/8991/7017/files/71G6pmiazfL._AC_SL1500.jpg",
+                    "alt_text": "Hoover SmartWash Pet XL Carpet Cleaner - Automatic Deep Cleaning Machine for Carpets & Upholstery"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/69889917017",
+                  "name": "Elecoreano",
+                  "url": "https://elecoreano.com",
+                  "domain": "idnukj-3b.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/69889917017/policies/34407055449.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/69889917017/policies/34888810585.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/69889917017/policies/34888777817.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/69889917017/policies/34888843353.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://elecoreano.com/cart/43233956266073:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 34999,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 53695,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/2v6DKoZ91RnxOLIvuHD6wv",
+            "title": "Bissell PowerClean 3939 Pet Carpet Cleaner, 2.36 L Clean, 1.3 L Dirty Tank, 7-1/2 in W Cleaning Path, Black and Blue",
+            "description": {
+              "plain": "Powerful upright carpet cleaner designed for pet owners to quickly remove stains and dirt from small spaces and high-traffic areas."
+            },
+            "options": [
+              {
+                "name": "# in pack",
+                "values": [
+                  {
+                    "label": "1"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Features a 4-row rotating dirtlifter powerbrush and powerful suction for effective stain removal in compact spaces."
+              ],
+              "top_features": "4-row rotating dirtlifter powerbrush: Deeply cleans and lifts embedded dirt for thorough stain removal\nPowerful suction: Effectively loosens and removes tracked-in dirt and debris\nRetractable handle: Allows for easy storage and portability\nLightweight design (12 lb): Easy to maneuver and handle\nSleek profile: Compact size fits small areas and high-traffic zones",
+              "tech_specs": "Cleaning Path Width: 9.5 in\nModel Number: 3939\nWeight: 12 lb\nColor: Multicolor\nPattern: Solid"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0745/6332/2154/files/0634725_l67476.jpg",
+                "alt_text": "Bissell TurboClean 2085 Pet Carpet Cleaner, 9-1/2 in W Cleaning Path, Titanium"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/45080285905194?shop=74563322154",
+                "title": "Bissell PowerClean 3939 Pet Carpet Cleaner, 2.36 L Clean, 1.3 L Dirty Tank, 7-1/2 in W Cleaning Path, Black and Blue",
+                "description": {
+                  "plain": "The Bissell TurboClean PowerBrush pet is the convenient upright carpet cleaner for pet owners that need powerful cleaning in small spaces and high-traffic areas. When paired with Bissell OXY formula, the TurboClean PowerBrush pet makes it easy to clean stains like cola and pet urine out of your carpet, area rugs, small hallways and many other high-traffic areas. Plus, this carpet shampooer has a 4-row rotating DirtLifter PowerBrush and powerful suction to loosen and remove tracked-in dirt. Bissell TurboClean PowerBrush pet carpet cleaner has a sleek profile and retractable handle, so it can be conveniently stored. At 12 lb, it's our lightest upright carpet cleaner. Unit: EA UPC: 011120275957 Model Number: 3939"
+                },
+                "url": "https://mrosupreme.com/products/vorg0634725-bissell-turboclean-2085-pet-carpet-cleaner-9-1-2-in-w-cleaning-path-titanium-2806?variant=45080285905194",
+                "price": {
+                  "amount": 12614,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0745/6332/2154/files/0634725_l67476.jpg",
+                    "alt_text": "Bissell TurboClean 2085 Pet Carpet Cleaner, 9-1/2 in W Cleaning Path, Titanium"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/74563322154",
+                  "name": "Mrosupreme.com",
+                  "url": "https://mrosupreme.com",
+                  "domain": "mrosupreme.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/74563322154/policies/33343045930.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/74563322154/policies/33343078698.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/74563322154/policies/33343013162.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/74563322154/policies/33343111466.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://mrosupreme.com/cart/45080285905194:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/45336550736023?shop=67432906903",
+                "title": "Bissell PowerClean 3939 Pet Carpet Cleaner, 2.36 L Clean, 1.3 L Dirty Tank, 7-1/2 in W Cleaning Path, Black and Blue",
+                "description": {
+                  "plain": "The Bissell TurboClean PowerBrush pet is the convenient upright carpet cleaner for pet owners that need powerful cleaning in small spaces and high-traffic areas. When paired with Bissell OXY formula, the TurboClean PowerBrush pet makes it easy to clean stains like cola and pet urine out of your carpet, area rugs, small hallways and many other high-traffic areas. Plus, this carpet shampooer has a 4-row rotating DirtLifter PowerBrush and powerful suction to loosen and remove tracked-in dirt. Bissell TurboClean PowerBrush pet carpet cleaner has a sleek profile and retractable handle, so it can be conveniently stored. At 12 lb, it's our lightest upright carpet cleaner.\u2060 Unit: EA UPC: 011120253351 Model Number: 3939"
+                },
+                "url": "https://www.shelllumber.com/products/bissell-turboclean-2085-pet-carpet-cleaner-9-1-2-in-w-cleaning-path-titanium?variant=45336550736023",
+                "price": {
+                  "amount": 12614,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0674/3290/6903/files/0634725_l67476_9dccd36d-6b5c-4b93-bc90-a94defaf4554.jpg",
+                    "alt_text": "Bissell TurboClean 2085 Pet Carpet Cleaner, 9-1/2 in W Cleaning Path, Titanium"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/67432906903",
+                  "name": "Shell Lumber and Hardware",
+                  "url": "https://www.shelllumber.com",
+                  "domain": "shelllumber.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/67432906903/policies/30955503767.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/67432906903/policies/31942836375.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/67432906903/policies/31942770839.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/67432906903/policies/31942869143.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.shelllumber.com/cart/45336550736023:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/47290495107264?shop=17174537",
+                "title": "BISSELL Bissell PowerClean 3939 Pet Carpet Cleaner, 2.36 L Clean, 1.3 L Dirty Tank, 7-1/2 in W Cleaning Path, Black and Blue",
+                "description": {
+                  "plain": "PowerClean\ufffd\ufffd\ufffd TurboBrush Pet Upright Carpet Cleaner provides an unbeatable clean on high traffic carpet and area rugs. It uses powerful suction in combination with the 4-Row DeepReach\ufffd\ufffd\ufffd PowerBrush to tackle pet messes, everyday ground-in dirt, and stains. Designed with simple storage in mind, this lightweight and compact machine - weighing less than 13 pounds - easily maneuvers within tight spaces and small spaces to deliver a deeper clean. Removable nozzle and large capacity clean recovery tanks can be rinsed and cleaned quickly allowing you to get back to cleaning with ease. Pair the BISSELL\ufffd\ufffd PowerClean\ufffd\ufffd\ufffd TurboBrush Pet Upright Carpet Cleaner with PRO MAX Clean + Protect formula to remove embedded dirt & stains, eliminate odours & protect against future stains with Stainlift Technology\ufffd\ufffd\ufffd. Uses the power of OXY to remove pet stains and odours on your upholstery, carpet, and more while protecting your carpet from future stains with StainProtect\ufffd\ufffd\ufffd Technology."
+                },
+                "url": "https://b2bbulk.com/products/0634725?variant=47290495107264",
+                "price": {
+                  "amount": 17254,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "# in pack",
+                    "label": "1"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/1717/4537/files/0634725.jpg",
+                    "alt_text": "BISSELL Bissell PowerClean 3939 Pet Carpet Cleaner, 2.36 L Clean, 1.3 L Dirty Tank, 7-1/2 in W Cleaning Path, Black and Blue APPLIANCES & ELECTRONICS BISSELL"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/17174537",
+                  "name": "B2BBulk",
+                  "url": "https://b2bbulk.com",
+                  "domain": "the-nothing-but-company.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/17174537/policies/30950669.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/17174537/policies/30950733.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/17174537/policies/30950605.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/17174537/policies/6637518935.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://b2bbulk.com/cart/47290495107264:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 12614,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 17254,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/3TlmIchEBdMttnpks9Znt0",
+            "title": "Power Scrub Deluxe Carpet Cleaner",
+            "description": {
+              "plain": "Powerful upright carpet cleaner with Spinscrub technology for deep, efficient cleaning and quick drying."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Features Spinscrub technology and heated air for faster drying and longer-lasting carpet."
+              ],
+              "top_features": "Spinscrub technology: Delivers deep cleaning by spinning the brush to remove embedded dirt\nHeated air drying: Reduces drying time for faster turnaround\nSpill-free tank: Minimizes mess and waste during cleaning\nVersatile use: Cleans carpets, rugs, and fabric surfaces throughout the home",
+              "tech_specs": "Type: Upright carpet shampooer\nColor: Red, Gray\nBrand: Hoover\nDrying Method: Heated air\nTank Type: Spill-free"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/FH50150NC_ATF_1_hero.jpg",
+                "alt_text": "Power Scrub Deluxe Carpet Cleaner"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/38719161958551?shop=48424288407",
+                "title": "Power Scrub Deluxe Carpet Cleaner",
+                "description": {
+                  "plain": "Designed to clean many carpeted and fabric surfaces in and around your home, the Carpet Basics Power Scrub Deluxe can extend the life of your carpet. With spill-free tanks, SpinScrub\u00ae Technology, and heated air for faster drying time, you'll get a powerful, efficient clean."
+                },
+                "url": "https://hoover.com/products/power-scrub-deluxe-carpet-cleaner?variant=38719161958551",
+                "price": {
+                  "amount": 16999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0484/2428/8407/files/FH50150NC_ATF_1_hero.jpg",
+                    "alt_text": "Power Scrub Deluxe Carpet Cleaner"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/48424288407",
+                  "name": "Hoover",
+                  "url": "https://hoover.com",
+                  "domain": "shop-hoover.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047962775.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047995543.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23047930007.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/48424288407/policies/23048028311.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hoover.com/cart/38719161958551:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 16999,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 16999,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "messages": []
+      }
+    }
+  }
+}

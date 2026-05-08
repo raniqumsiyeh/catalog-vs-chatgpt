@@ -1,0 +1,1882 @@
+{
+  "query": "kefir",
+  "fetched_at": 1778264728.326878,
+  "count": 10,
+  "products": [
+    {
+      "id": "gid://shopify/p/4lV2LXOjMNxrhmrzj1D5Vr",
+      "title": "Organic Milk Kefir Grains",
+      "image_url": "https://cdn.shopify.com/s/files/1/0889/2514/3332/files/IMG_0062_colourbackground_fnl2.png",
+      "seller_name": "Mountain Kefir",
+      "seller_url": "https://mountainkefir.com",
+      "price_min": 22.0,
+      "price_max": 30.0,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://mountainkefir.com/cart/50060558434596:1",
+      "rating": 4.9,
+      "rating_count": 140
+    },
+    {
+      "id": "gid://shopify/p/1Nin6CHhJgDhdLWNxPMsjE",
+      "title": "Vanilla Bean Coconut Milk Kefir - Combo",
+      "image_url": "https://cdn.shopify.com/s/files/1/0271/7863/1247/files/Coconut_Milk_Kefir-Vanilla-3.webp",
+      "seller_name": "Fermenting Fairy ",
+      "seller_url": "https://fermentingfairy.com",
+      "price_min": 80.9,
+      "price_max": 323.9,
+      "available": true,
+      "variant_count": 4,
+      "url": "https://fermentingfairy.com/cart/32368716054607:1",
+      "rating": 4.9,
+      "rating_count": 126
+    },
+    {
+      "id": "gid://shopify/p/m16cO9xiUjd1FzQg424k3",
+      "title": "Kefir | Plain Kefir (Made With 100% Cow Milk) - 43.7g Protein - Probiotic Drink - Unsweetened - Nourish - 1000ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/0661/3830/8774/files/Plain-Kefir-_E2_80_93-Nourish-Health-Bar-_E2_80_93-1000ml_7f33e35c-d2ff-4d5d-bff8-792e94a699df.jpg",
+      "seller_name": "naturessoulshop",
+      "seller_url": "https://naturessoulshop.com",
+      "price_min": 320.0,
+      "price_max": 320.0,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://naturessoulshop.com/cart/46022921814182:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/35Z9eSEiePUtPxMw4SQbKF",
+      "title": "Water Kefir Grains",
+      "image_url": "https://cdn.shopify.com/s/files/1/0077/0759/0720/products/kefir-water-kefir-grains-18355815710873.jpg",
+      "seller_name": "Cultures For Health",
+      "seller_url": "https://culturesforhealth.com",
+      "price_min": 20.99,
+      "price_max": 21.0,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://culturesforhealth.com/cart/23066700972096:1",
+      "rating": 4.6,
+      "rating_count": 531
+    },
+    {
+      "id": "gid://shopify/p/68YeRLGc5lqUIiMX5Dw2KU",
+      "title": "Raw Organic Vegan Water Kefir Grains 15g + Recipe E-Book",
+      "image_url": "https://cdn.shopify.com/s/files/1/0667/2089/products/iStock_000042536454Small.jpg",
+      "seller_name": "Nourishme Organics",
+      "seller_url": "https://www.nourishmeorganics.com.au",
+      "price_min": 15.0,
+      "price_max": 15.0,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://www.nourishmeorganics.com.au/cart/37403482521756:1",
+      "rating": 4.7,
+      "rating_count": 552
+    },
+    {
+      "id": "gid://shopify/p/1yJWCD6Yrbm5ystnPlJ0Ge",
+      "title": "Pint - Golden Milk Coconut Kefir",
+      "image_url": "https://cdn.shopify.com/s/files/1/0507/2525/7411/files/1822BBA3-5505-4E09-BFA2-A29398466CB2.jpg",
+      "seller_name": "Frannie's Market ",
+      "seller_url": "https://franniesmarket.com",
+      "price_min": 13.25,
+      "price_max": 13.25,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://franniesmarket.com/cart/49753964282103:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/1nJG5978XYNM0CX21671Aj",
+      "title": "Raw Goat Kefir",
+      "image_url": "https://cdn.shopify.com/s/files/1/0549/8725/9938/files/CopyofProductPhotosnewwebsite_0a31d548-b4f5-4d76-9c80-f7652d41ca89.png",
+      "seller_name": "Nourish Food Club",
+      "seller_url": "https://nourishfoodclub.com",
+      "price_min": 16.1,
+      "price_max": 16.1,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://nourishfoodclub.com/cart/43689327165474:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/3OsjrgdQ5S6Qwepj4fqMS9",
+      "title": "Genuine LIVE Milk Kefir Grains",
+      "image_url": "https://cdn.shopify.com/s/files/1/0650/9435/products/yemoosbluebowlnotstock.jpg",
+      "seller_name": "Yemoos Nourishing Cultures",
+      "seller_url": "https://www.yemoos.com",
+      "price_min": 27.0,
+      "price_max": 27.0,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://www.yemoos.com/cart/7079772867:1",
+      "rating": 4.8,
+      "rating_count": 171
+    },
+    {
+      "id": "gid://shopify/p/1nz5wG2DPii5Vdd9S7S6uG",
+      "title": "Organic Milk Kefir Grains 5g + Recipe E-Book",
+      "image_url": "https://cdn.shopify.com/s/files/1/0667/2089/products/MilkKefirGrain.jpg",
+      "seller_name": "Nourishme Organics",
+      "seller_url": "https://www.nourishmeorganics.com.au",
+      "price_min": 23.0,
+      "price_max": 23.0,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://www.nourishmeorganics.com.au/cart/37403438743708:1",
+      "rating": 4.6,
+      "rating_count": 787
+    },
+    {
+      "id": "gid://shopify/p/3xXksIq4Mf2XenliKCvT7b",
+      "title": "Milk Kefir Grains",
+      "image_url": "https://cdn.shopify.com/s/files/1/0077/0759/0720/products/kefir-milk-kefir-grains-10728329347136.jpg",
+      "seller_name": "Cultures For Health",
+      "seller_url": "https://culturesforhealth.com",
+      "price_min": 22.99,
+      "price_max": 29.99,
+      "available": true,
+      "variant_count": 8,
+      "url": "https://culturesforhealth.com/cart/23066703134784:1",
+      "rating": 4.7,
+      "rating_count": 659
+    }
+  ],
+  "raw": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "result": {
+      "structuredContent": {
+        "ucp": {
+          "version": "2026-04-08",
+          "capabilities": {
+            "dev.ucp.shopping.catalog.search": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://ucp.dev/2026-04-08/specification/catalog",
+                "schema": "https://ucp.dev/2026-04-08/schemas/shopping/catalog_search.json"
+              }
+            ],
+            "dev.ucp.shopping.catalog.lookup": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://ucp.dev/2026-04-08/specification/catalog",
+                "schema": "https://ucp.dev/2026-04-08/schemas/shopping/catalog_lookup.json"
+              }
+            ],
+            "dev.shopify.catalog.global": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://shopify.dev/docs/agents/catalog/global-catalog",
+                "schema": "https://shopify.dev/ucp/schemas/2026-04-08/shopify_catalog_global.json",
+                "extends": [
+                  "dev.ucp.shopping.catalog.search",
+                  "dev.ucp.shopping.catalog.lookup"
+                ],
+                "requires": {
+                  "protocol": {
+                    "min": "2026-04-08"
+                  }
+                }
+              }
+            ]
+          },
+          "status": "success"
+        },
+        "products": [
+          {
+            "id": "gid://shopify/p/4lV2LXOjMNxrhmrzj1D5Vr",
+            "title": "Organic Milk Kefir Grains",
+            "description": {
+              "plain": "Ready-to-use organic milk kefir grains for quick and easy homemade kefir fermentation."
+            },
+            "rating": {
+              "value": 4.9,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 140
+            },
+            "options": [
+              {
+                "name": "Size",
+                "values": [
+                  {
+                    "label": "medium (8 g)"
+                  },
+                  {
+                    "label": "small (4 g)"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Live, non-dehydrated organic kefir grains shipped fresh for immediate use, no rehydration required."
+              ],
+              "top_features": "Organic milk kefir grains: Ensures a pure, healthy fermentation for your kefir\nLive, non-dehydrated grains: Enables immediate use and faster fermentation process\nNo rehydration needed: Saves time and effort for beginners and enthusiasts\nEasy activation instructions: Simplifies the process for first-time users\nIncludes recipe ideas: Inspires creativity in making fresh kefir at home",
+              "tech_specs": "Grain Sizes: Small 4 g (approx. 1 tsp), Medium 8 g (approx. 2 tsp)\nAllergen Information: Contains milk\nDietary Preferences: Organic, Vegetarian\nShipping: Standard shipping included\nIncludes: Grains only (spoons and jars not included)"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0889/2514/3332/files/IMG_0062_colourbackground_fnl2.png",
+                "alt_text": "Organic Milk Kefir Grains"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/50060558434596?shop=88925143332",
+                "title": "Organic Milk Kefir Grains",
+                "description": {
+                  "plain": "Fresh organic milk kefir grains! Raised with organic milk from happy cows, these super healthy and super active grains are ready to start making you fresh traditional milk kefir that, in turn, will keep you healthy and happy. Mountain Kefir's grains are shipped live (not dehydrated) so that you can start your fermentation journey quickly \u2013 there\u2019s no need to rehydrate the grains. WHAT\u2019S INCLUDED IN YOUR ORDER: SMALL: 4 grams (approx. 1 tsp) of FRESH organic milk kefir grains MEDIUM: 8 grams (approx. 2 tsp) of FRESH organic milk kefir grains to get you making bigger batches faster \u2728Free standard shipping \u2728 Easy to follow activation instructions Recipe ideas and inspiration NOTE: This listing is for milk kefir grains only. Spoons and jars are not included."
+                },
+                "url": "https://mountainkefir.com/products/milk-kefir-grains?variant=50060558434596",
+                "price": {
+                  "amount": 2200,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Size",
+                    "label": "small (4 g)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0889/2514/3332/files/IMG_0062_colourbackground_fnl2.png",
+                    "alt_text": "Organic Milk Kefir Grains"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/88925143332",
+                  "name": "Mountain Kefir",
+                  "url": "https://mountainkefir.com",
+                  "domain": "bd3082-1d.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/88925143332/policies/41265332516.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/88925143332/policies/41265365284.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/88925143332/policies/41265070372.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/88925143332/policies/41265201444.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://mountainkefir.com/cart/50060558434596:1",
+                "rating": {
+                  "value": 4.86,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 140
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50060558467364?shop=88925143332",
+                "title": "Organic Milk Kefir Grains",
+                "description": {
+                  "plain": "Fresh organic milk kefir grains! Raised with organic milk from happy cows, these super healthy and super active grains are ready to start making you fresh traditional milk kefir that, in turn, will keep you healthy and happy. Mountain Kefir's grains are shipped live (not dehydrated) so that you can start your fermentation journey quickly \u2013 there\u2019s no need to rehydrate the grains. WHAT\u2019S INCLUDED IN YOUR ORDER: SMALL: 4 grams (approx. 1 tsp) of FRESH organic milk kefir grains MEDIUM: 8 grams (approx. 2 tsp) of FRESH organic milk kefir grains to get you making bigger batches faster \u2728Free standard shipping \u2728 Easy to follow activation instructions Recipe ideas and inspiration NOTE: This listing is for milk kefir grains only. Spoons and jars are not included."
+                },
+                "url": "https://mountainkefir.com/products/milk-kefir-grains?variant=50060558467364",
+                "price": {
+                  "amount": 3000,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Size",
+                    "label": "medium (8 g)"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0889/2514/3332/files/IMG_0062_colourbackground_fnl2.png",
+                    "alt_text": "Organic Milk Kefir Grains"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/88925143332",
+                  "name": "Mountain Kefir",
+                  "url": "https://mountainkefir.com",
+                  "domain": "bd3082-1d.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/88925143332/policies/41265332516.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/88925143332/policies/41265365284.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/88925143332/policies/41265070372.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/88925143332/policies/41265201444.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://mountainkefir.com/cart/50060558467364:1",
+                "rating": {
+                  "value": 4.86,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 140
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 2200,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 3000,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/1Nin6CHhJgDhdLWNxPMsjE",
+            "title": "Vanilla Bean Coconut Milk Kefir - Combo",
+            "description": {
+              "plain": "A 100% vegan coconut milk kefir with over 50 strains of probiotics for gut and immune health."
+            },
+            "rating": {
+              "value": 4.9,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 126
+            },
+            "options": [
+              {
+                "name": "Size",
+                "values": [
+                  {
+                    "label": "12 bottles"
+                  },
+                  {
+                    "label": "3 bottles"
+                  },
+                  {
+                    "label": "6 bottles"
+                  },
+                  {
+                    "label": "9 bottles"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Contains 82 billion probiotics per bottle with close to 50 different strains, offering superior gut health benefits compared to other probiotic drinks."
+              ],
+              "top_features": "Over 50 strains of live probiotics: Supports diverse gut microbiome and digestive health\n82 billion probiotics per bottle: Delivers a high dose of beneficial bacteria for immune support\n100% vegan and plant-based: Suitable for those avoiding dairy and seeking clean-label nutrition\nWild fermentation technique: Ensures rich, natural flavor and maximum probiotic activity\nCertified organic, kosher, vegan, and paleo: Meets multiple dietary and health standards",
+              "tech_specs": "Probiotic Content: 82 billion CFU per bottle\nProbiotic Strains: Over 50 unique strains\nMain Ingredients: House-made coconut milk, live probiotic cultures, vanilla extract, filtered water\nCertifications: Certified organic, certified kosher, certified vegan, certified paleo\nPackaging: Environment-friendly glass bottles\nRecommended Dosage: 2-4 oz per day"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0271/7863/1247/files/Coconut_Milk_Kefir-Vanilla-3.webp",
+                "alt_text": "Vanilla Bean Coconut Milk Kefir - Combo"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/32368716054607?shop=27178631247",
+                "title": "Vanilla Bean Coconut Milk Kefir - Combo",
+                "description": {
+                  "plain": "World's 1st and the only 100% Vegan Plant-Based Milk Kefir Vanilla Bean Coconut Milk kefir is a 100% Vegan and powerful drink that strengthens your gut and boosts your immune system. It has the highest amount of rich and diverse healthy bacteria out of any other probiotic food/drink on the market. It\u2019s rich in antioxidants, vitamins, and fiber. The coconut milk kefir has close to 50 different strains of active healthy bacteria that are made with a unique wild fermentation technique and superior ingredients. We use living bacteria to ferment our house-made vegan coconut milk and our kefir boasts of 82 billion probiotics per bottle with close to 50 different strains, while other generic probiotic drinks contain only 4 strains. Because of its unique diversity of healthy bacteria, milk kefir is called the Drink of the good gut Health. Ingredients: House-Made Coconut Milk Live Probiotic Cultures Non-Alcohol Vanilla Extract Filtered Water 100% Vegan Dosage: Recommended dose of 2-4 oz per day best taken in the morning with or without other food. Generally, people buy 6 or more bottles at a time. Our product is safe and completely delicious upon arrival no matter what temperature they arrive because we only use environment friendly glass bottles. Please refrigerate upon receiving. By now we know we need these superfoods in our diet every single day! Fermenting Fairy products is the perfect solution."
+                },
+                "url": "https://fermentingfairy.com/products/vanilla-bean-coconut-milk-kefir-combo?variant=32368716054607",
+                "price": {
+                  "amount": 8090,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Size",
+                    "label": "3 bottles"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0271/7863/1247/files/Coconut_Milk_Kefir-Vanilla-3.webp",
+                    "alt_text": "Vanilla Bean Coconut Milk Kefir - Combo"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/27178631247",
+                  "name": "Fermenting Fairy ",
+                  "url": "https://fermentingfairy.com",
+                  "domain": "fermenting-fairy.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/27178631247/policies/13506969679.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/27178631247/policies/13507002447.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/27178631247/policies/13506936911.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/27178631247/policies/13507035215.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://fermentingfairy.com/cart/32368716054607:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 126
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/32368716087375?shop=27178631247",
+                "title": "Vanilla Bean Coconut Milk Kefir - Combo",
+                "description": {
+                  "plain": "World's 1st and the only 100% Vegan Plant-Based Milk Kefir Vanilla Bean Coconut Milk kefir is a 100% Vegan and powerful drink that strengthens your gut and boosts your immune system. It has the highest amount of rich and diverse healthy bacteria out of any other probiotic food/drink on the market. It\u2019s rich in antioxidants, vitamins, and fiber. The coconut milk kefir has close to 50 different strains of active healthy bacteria that are made with a unique wild fermentation technique and superior ingredients. We use living bacteria to ferment our house-made vegan coconut milk and our kefir boasts of 82 billion probiotics per bottle with close to 50 different strains, while other generic probiotic drinks contain only 4 strains. Because of its unique diversity of healthy bacteria, milk kefir is called the Drink of the good gut Health. Ingredients: House-Made Coconut Milk Live Probiotic Cultures Non-Alcohol Vanilla Extract Filtered Water 100% Vegan Dosage: Recommended dose of 2-4 oz per day best taken in the morning with or without other food. Generally, people buy 6 or more bottles at a time. Our product is safe and completely delicious upon arrival no matter what temperature they arrive because we only use environment friendly glass bottles. Please refrigerate upon receiving. By now we know we need these superfoods in our diet every single day! Fermenting Fairy products is the perfect solution."
+                },
+                "url": "https://fermentingfairy.com/products/vanilla-bean-coconut-milk-kefir-combo?variant=32368716087375",
+                "price": {
+                  "amount": 16190,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Size",
+                    "label": "6 bottles"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0271/7863/1247/files/Coconut_Milk_Kefir-Vanilla-6.webp",
+                    "alt_text": "Vanilla Bean Coconut Milk Kefir - Combo"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/27178631247",
+                  "name": "Fermenting Fairy ",
+                  "url": "https://fermentingfairy.com",
+                  "domain": "fermenting-fairy.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/27178631247/policies/13506969679.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/27178631247/policies/13507002447.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/27178631247/policies/13506936911.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/27178631247/policies/13507035215.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://fermentingfairy.com/cart/32368716087375:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 126
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/32368716120143?shop=27178631247",
+                "title": "Vanilla Bean Coconut Milk Kefir - Combo",
+                "description": {
+                  "plain": "World's 1st and the only 100% Vegan Plant-Based Milk Kefir Vanilla Bean Coconut Milk kefir is a 100% Vegan and powerful drink that strengthens your gut and boosts your immune system. It has the highest amount of rich and diverse healthy bacteria out of any other probiotic food/drink on the market. It\u2019s rich in antioxidants, vitamins, and fiber. The coconut milk kefir has close to 50 different strains of active healthy bacteria that are made with a unique wild fermentation technique and superior ingredients. We use living bacteria to ferment our house-made vegan coconut milk and our kefir boasts of 82 billion probiotics per bottle with close to 50 different strains, while other generic probiotic drinks contain only 4 strains. Because of its unique diversity of healthy bacteria, milk kefir is called the Drink of the good gut Health. Ingredients: House-Made Coconut Milk Live Probiotic Cultures Non-Alcohol Vanilla Extract Filtered Water 100% Vegan Dosage: Recommended dose of 2-4 oz per day best taken in the morning with or without other food. Generally, people buy 6 or more bottles at a time. Our product is safe and completely delicious upon arrival no matter what temperature they arrive because we only use environment friendly glass bottles. Please refrigerate upon receiving. By now we know we need these superfoods in our diet every single day! Fermenting Fairy products is the perfect solution."
+                },
+                "url": "https://fermentingfairy.com/products/vanilla-bean-coconut-milk-kefir-combo?variant=32368716120143",
+                "price": {
+                  "amount": 32390,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Size",
+                    "label": "12 bottles"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0271/7863/1247/files/Coconut_Milk_Kefir-Vanilla-12.webp",
+                    "alt_text": "Vanilla Bean Coconut Milk Kefir - Combo"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/27178631247",
+                  "name": "Fermenting Fairy ",
+                  "url": "https://fermentingfairy.com",
+                  "domain": "fermenting-fairy.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/27178631247/policies/13506969679.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/27178631247/policies/13507002447.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/27178631247/policies/13506936911.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/27178631247/policies/13507035215.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://fermentingfairy.com/cart/32368716120143:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 126
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/39510586687567?shop=27178631247",
+                "title": "Vanilla Bean Coconut Milk Kefir - Combo",
+                "description": {
+                  "plain": "World's 1st and the only 100% Vegan Plant-Based Milk Kefir Vanilla Bean Coconut Milk kefir is a 100% Vegan and powerful drink that strengthens your gut and boosts your immune system. It has the highest amount of rich and diverse healthy bacteria out of any other probiotic food/drink on the market. It\u2019s rich in antioxidants, vitamins, and fiber. The coconut milk kefir has close to 50 different strains of active healthy bacteria that are made with a unique wild fermentation technique and superior ingredients. We use living bacteria to ferment our house-made vegan coconut milk and our kefir boasts of 82 billion probiotics per bottle with close to 50 different strains, while other generic probiotic drinks contain only 4 strains. Because of its unique diversity of healthy bacteria, milk kefir is called the Drink of the good gut Health. Ingredients: House-Made Coconut Milk Live Probiotic Cultures Non-Alcohol Vanilla Extract Filtered Water 100% Vegan Dosage: Recommended dose of 2-4 oz per day best taken in the morning with or without other food. Generally, people buy 6 or more bottles at a time. Our product is safe and completely delicious upon arrival no matter what temperature they arrive because we only use environment friendly glass bottles. Please refrigerate upon receiving. By now we know we need these superfoods in our diet every single day! Fermenting Fairy products is the perfect solution."
+                },
+                "url": "https://fermentingfairy.com/products/vanilla-bean-coconut-milk-kefir-combo?variant=39510586687567",
+                "price": {
+                  "amount": 24290,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Size",
+                    "label": "9 bottles"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0271/7863/1247/files/Coconut_Milk_Kefir-Vanilla-9.webp",
+                    "alt_text": "Vanilla Bean Coconut Milk Kefir - Combo"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/27178631247",
+                  "name": "Fermenting Fairy ",
+                  "url": "https://fermentingfairy.com",
+                  "domain": "fermenting-fairy.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/27178631247/policies/13506969679.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/27178631247/policies/13507002447.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/27178631247/policies/13506936911.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/27178631247/policies/13507035215.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://fermentingfairy.com/cart/39510586687567:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 126
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 8090,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 32390,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/m16cO9xiUjd1FzQg424k3",
+            "title": "Kefir | Plain Kefir (Made With 100% Cow Milk) - 43.7g Protein - Probiotic Drink - Unsweetened - Nourish - 1000ml",
+            "description": {
+              "plain": "A high-protein, unsweetened plain kefir made from 100 percent cow milk, rich in live probiotic cultures for gut and immune health."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Naturally fermented, high-protein kefir with no added sugar, flavors, or preservatives, made from 100 percent cow milk."
+              ],
+              "top_features": "High protein content (43.7g per 43.7g serving) supports muscle health and satiety\nNaturally fermented with live probiotic cultures for gut health\nUnsweetened and free from added sugar, flavors, and preservatives for clean nutrition\nEasy to digest due to fermentation, suitable for sensitive digestion\nVersatile use as a probiotic drink, smoothie ingredient, or buttermilk alternative",
+              "tech_specs": "Protein: 43.7g per 43.7g serving\nIngredients: Cultured cow milk, water\nShelf Life: 2 weeks (refrigerate at 0\u00b0C to 8\u00b0C)\nAllergen Information: Contains milk\nDietary Preferences: Vegetarian, no artificial colors, no artificial flavors, no preservatives"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0661/3830/8774/files/Plain-Kefir-_E2_80_93-Nourish-Health-Bar-_E2_80_93-1000ml_7f33e35c-d2ff-4d5d-bff8-792e94a699df.jpg",
+                "alt_text": "Kefir | Plain Kefir (Made With 100% Cow Milk) - 43.7g Protein - Probiotic Drink - Unsweetened - Nourish - 1000ml"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/46022921814182?shop=66138308774",
+                "title": "Kefir | Plain Kefir (Made With 100% Cow Milk) - 43.7g Protein - Probiotic Drink - Unsweetened - Nourish - 1000ml",
+                "description": {
+                  "plain": "Pure, cultured and uncompromised, this Plain Kefir is a naturally fermented probiotic drink made with 100% cow milk. Rich in 43.7g protein, it delivers powerful gut-friendly cultures with no added sugar, flavours or sweeteners. Clean nutrition for everyday wellness. Key Highlights \ud83e\udd5b Made with 100% Cow Milk \ud83e\udda0 Naturally Fermented Probiotic Drink \ud83d\udcaa High Protein \u2013 43.7g \ud83d\udeab Unsweetened | No Added Sugar \u274c No Preservatives, Flavours or Stabilisers \ud83c\udf31 Clean, minimal ingredients Why You Will Love It High in Protein (43.7g) Supports muscle health and keeps you fuller for longer. Naturally Probiotic Contains live cultures that help maintain a healthy gut microbiome. Unsweetened & Clean No added sugar, flavours, or preservatives, just pure kefir. Easy to Digest Fermentation breaks down lactose, making it gentler on digestion. Supports Immunity A healthy gut plays a key role in overall immune health. Made with 100% Cow Milk Pure dairy, responsibly sourced and carefully fermented. How to Consume: Drink chilled as a daily probiotic Add to smoothies or breakfast bowls Use as a natural buttermilk alternative Ingredients: Cultured Cow Milk, Water Shelf Life: 02 Weeks Keep Refrigerated At 0 Degree Celsius To 8 Degree Celsius"
+                },
+                "url": "https://naturessoulshop.com/products/kefir-plain-kefir-made-with-100-cow-milk-43-7g-protein-probiotic-drink-unsweetened-nourish-1000ml-2?variant=46022921814182",
+                "price": {
+                  "amount": 32000,
+                  "currency": "INR"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0661/3830/8774/files/Plain-Kefir-_E2_80_93-Nourish-Health-Bar-_E2_80_93-1000ml_7f33e35c-d2ff-4d5d-bff8-792e94a699df.jpg",
+                    "alt_text": "Kefir | Plain Kefir (Made With 100% Cow Milk) - 43.7g Protein - Probiotic Drink - Unsweetened - Nourish - 1000ml"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/66138308774",
+                  "name": "naturessoulshop",
+                  "url": "https://naturessoulshop.com",
+                  "domain": "naturessoulshop.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/66138308774/policies/28975366310.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/66138308774/policies/30354997414.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/66138308774/policies/30354964646.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/66138308774/policies/30355030182.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://naturessoulshop.com/cart/46022921814182:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 32000,
+                "currency": "INR"
+              },
+              "max": {
+                "amount": 32000,
+                "currency": "INR"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/35Z9eSEiePUtPxMw4SQbKF",
+            "title": "Water Kefir Grains",
+            "description": {
+              "plain": "Live probiotic water kefir grains for making naturally gut healthy, low-sugar fermented beverages at home."
+            },
+            "rating": {
+              "value": 4.6,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 531
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Traditional heirloom-style water kefir grains that are easy to use and produce low-sugar, gut-friendly kefir."
+              ],
+              "top_features": "Live probiotic water kefir grains: Supports gut health and digestion\nHeirloom-style grains: Ensures authentic, traditional fermentation results\nLow-sugar final product: Provides a naturally sweetened beverage with less sugar\nSimple home fermentation process: Easy to use with included instructions\nNon-GMO, gluten-free, and vegan: Suitable for a wide range of dietary preferences",
+              "tech_specs": "Form: Dehydrated jelly-like grains\nNet Weight: 0.19 oz (5.2 g)\nIngredients: Organic sugar, live active cultures, water\nAllergen Information: Manufactured in a facility that processes soy and dairy\nDietary Preferences: Non-GMO, gluten-free, vegan, vegetarian, organic (varies by batch)"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0077/0759/0720/products/kefir-water-kefir-grains-18355815710873.jpg",
+                "alt_text": "Water Kefir Grains"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/23066700972096?shop=7707590720",
+                "title": "Water Kefir Grains",
+                "description": {
+                  "plain": "Water Kefir Grains are live probiotics in the form of soft, jelly-like \u2018grains\u2019 from a cactus plant. When healthy and fed, these grains will continue to grow and multiply and produce an endless supply of water kefir. Use Water Kefir Grains to make naturally gut-healthy, bubbly water kefir at home! It\u2019s as easy as mixing sugar into water - our Water Kefir Grains will do the rest. Don\u2019t worry, the sugar isn\u2019t for you. The grains will metabolize the sugar during the fermentation process and the final kefir water will be very low in sugar. INCLUDED IN THE BAG 1 packet of dehydrated traditional, heirloom-style water kefir grains.Instructions for using this culture are included and may be found here. INGREDIENTS AND ALLERGEN INFORMATION Water Kefir IngredientsOrganic sugar, live active cultures Water Kefir Allergen InformationManufactured in a facility that produces products containing soy and dairy.Non-GMOGluten-Free HOW TO STORE YOUR STARTER CULTURE Store the starter culture in a cool, dry place until you\u2019re ready to activate it. Use the starter culture by the date on the bag. SUPPLIES YOU'LL NEED IngredientsSpring Water (Free of Chlorine and Fluoride)Organic Cane Sugar Equipment1 Quart-Sized Glass JarCoffee Filter or Butter MuslinRubber BandThermometerPlastic or Stainless Steel Mesh Strainer"
+                },
+                "url": "https://culturesforhealth.com/products/water-kefir-grains?variant=23066700972096",
+                "price": {
+                  "amount": 2099,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0077/0759/0720/products/kefir-water-kefir-grains-18355815710873.jpg",
+                    "alt_text": "Water Kefir Grains"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/7707590720",
+                  "name": "Cultures For Health",
+                  "url": "https://culturesforhealth.com",
+                  "domain": "cultures-for-health.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/7707590720/policies/11511824448.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/7707590720/policies/11511857216.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/7707590720/policies/11511791680.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/7707590720/policies/11511889984.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://culturesforhealth.com/cart/23066700972096:1",
+                "rating": {
+                  "value": 4.57,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 531
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/49212639478062?shop=46446739607",
+                "title": "Water Kefir Grains",
+                "description": {
+                  "plain": "Water Kefir Grains are live probiotics in the form of soft, jelly-like \u2018grains\u2019 from a cactus plant. When healthy and fed, these grains will continue to grow and multiply and produce an endless supply of water kefir. Use Water Kefir Grains to make naturally gut-healthy, bubbly water kefir at home! It\u2019s as easy as mixing sugar into water - this Water Kefir Grains will do the rest. The grains will metabolize the sugar during the fermentation process and the final kefir water will be very low in sugar. Size 0.19oz Kit Includes 1 packet of dehydrated traditional, heirloom-style water kefir grains. Ingredients Organic sugar, live active cultures Allergen Information Manufactured in a facility that produces products containing soy and dairy. Non-GMO, Gluten-Free."
+                },
+                "url": "https://mother-earth-gardens-webstore.myshopify.com/products/waterkefirgrains?variant=49212639478062",
+                "price": {
+                  "amount": 2100,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0464/4673/9607/files/kefir-water-kefir-grains-18355815710873_5000x_a5399910-e09e-4dcc-94ba-3313de3b30dd.jpg",
+                    "alt_text": "Water Kefir Grains"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/46446739607",
+                  "name": "Mother Earth Gardens",
+                  "url": "https://mother-earth-gardens-webstore.myshopify.com",
+                  "domain": "mother-earth-gardens-webstore.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/46446739607/policies/20304822423.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/46446739607/policies/20304855191.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/46446739607/policies/20304789655.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/46446739607/policies/20304887959.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://mother-earth-gardens-webstore.myshopify.com/cart/49212639478062:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 2099,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 2100,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/68YeRLGc5lqUIiMX5Dw2KU",
+            "title": "Raw Organic Vegan Water Kefir Grains 15g + Recipe E-Book",
+            "description": {
+              "plain": "Organic vegan water kefir grains for making probiotic-rich, dairy-free beverages at home."
+            },
+            "rating": {
+              "value": 4.7,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 552
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Includes raw organic kefir grains and a detailed recipe e-book for easy, healthy fermentation."
+              ],
+              "top_features": "Contains raw organic kefir grains for natural probiotic fermentation and gut health\nDairy-free and vegan, suitable for those with dietary restrictions\nIncludes a detailed recipe e-book for easy at-home preparation\nProduces a low-sugar, carbonated beverage with approximately 15 probiotic strains\nSupports immune system, digestion, and nutrient absorption",
+              "tech_specs": "Net Weight: 15 g\nIngredients: Raw organic kefir grains, laboratory analysed and certified probiotic species\nStorage: Refrigerate in sugar water for up to 2 weeks; can be dehydrated\nPreparation: Mix 15 g grains with 500 ml spring water for 48 hours\nShipping: Ships on business days to maintain grain quality"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0667/2089/products/iStock_000042536454Small.jpg",
+                "alt_text": "Raw Organic Vegan Water Kefir Grains 15g + Recipe E-Book"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/37403482521756?shop=6672089",
+                "title": "Raw Organic Vegan Water Kefir Grains 15g + Recipe E-Book",
+                "description": {
+                  "plain": "Choose express shipping to ensure your fresh kefir grains arrive quickly and maintain their quality for the best results! What is Water Kefir? Create delicious all-natural, probiotic beverages for your family. Dairy free, vegan and raw. Water kefir is made from kefir grains, also known as sugar grains, tibicos, tibi, or Japanese water crystals. The grains are made up of a culture of various strains of healthy bacteria and yeast, held together in a polysaccharide matrix created by the bacteria. The microbes feed on sugar and produce lactic acid, and carbon dioxide, yielding a fermented carbonated beverage very low in sugar. The Potential Benefits of Water Kefir? Water Kefir is a probiotic - a source of beneficial bacteria and yeasts which help maintain a healthy digestive system. Potential Health Benefits Look and feel healthier in days Boosts immune system Potent probiotics with approx.15 strains Strong Anti-inflammatory Optimises digestion and utilisation of nutrients from food consumed Alkalises and detoxifies the body Rich in Vitamins and Minerals Feel more energetic and vibrant How to Make Water Kefir? Simply add 1 tbs (15g) of organic water grains as purchased to 500 ml spring water and Organic Water Kefir Growth Premix to make 500 ml of water kefir every 48 hours. Instructions and ongoing support included with purchase. We highly recommend using our Organic Water Kefir Growth Premix to simplify the process and boost probiotic content. Detailed Instructions Here Serving Suggestions Water kefir can be consumed as is or flavoured with your favourite juices and superfoods. Ingredients Raw Organic Kefir Grains Laboratory Analysed and Certified Probiotic Species here Storage of Water Kefir Grains When you are not making water kefir you can store water kefir grains in a refrigerator in sugar water for up to 2 weeks. For long-term storage, water kefir grains can be dehydrated. SHIPPING INFORMATION IMPORTANT: We only ship kefir grains on a Monday, Tuesday and Wednesday so that they do not remain in transit via Australia Post over the weekend Link to Recipe Ebook will be sent by email when the item is shipped. Please check your shipping confirmation email and If you haven't received make sure to check your Junk Email Folder."
+                },
+                "url": "https://www.nourishmeorganics.com.au/products/organic-water-kefir-grains?variant=37403482521756",
+                "price": {
+                  "amount": 1500,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0667/2089/products/iStock_000042536454Small.jpg",
+                    "alt_text": "Raw Organic Vegan Water Kefir Grains 15g + Recipe E-Book"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/6672089",
+                  "name": "Nourishme Organics",
+                  "url": "https://www.nourishmeorganics.com.au",
+                  "domain": "nourishmeorganics.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/6672089/policies/2268835.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/6672089/policies/2268839.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/6672089/policies/2268831.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/6672089/policies/3506733092.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.nourishmeorganics.com.au/cart/37403482521756:1",
+                "rating": {
+                  "value": 4.65,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 552
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 1500,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 1500,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/1yJWCD6Yrbm5ystnPlJ0Ge",
+            "title": "Pint - Golden Milk Coconut Kefir",
+            "description": {
+              "plain": "A coconut-based golden milk kefir blend with adaptogenic herbs for immune support and vitality."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Handcrafted, dairy-free golden milk kefir with live probiotics and Ayurvedic adaptogenic herbs."
+              ],
+              "top_features": "Contains astragalus and ashwagandha for core immune strength and stress resilience\nIncludes ginger and turmeric for anti-inflammatory and digestive support\nHandcrafted in small batches for quality and freshness\nLive probiotics from kefir enhance gut health\nCoconut-based and dairy-free for inclusive dietary needs",
+              "tech_specs": "Volume: 1 pint\nSweetener: Stevia extract\nDietary Preferences: Alcohol-free, dairy-free, gluten-free, lactose-free, low fat, non-GMO, nut-free, soy-free, sugar-free, vegan, vegetarian\nFermentation: Handcrafted, slow fermentation\nBrand: Frannie's Market"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0507/2525/7411/files/1822BBA3-5505-4E09-BFA2-A29398466CB2.jpg",
+                "alt_text": "Pint - Golden Milk Coconut Kefir"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/49753964282103?shop=50725257411",
+                "title": "Pint - Golden Milk Coconut Kefir",
+                "description": {
+                  "plain": "In partnership with Tippecanoe Herbs - Golden Milk is a classic Ayurvedic formula for vitality, stamina, and the strength of the core immune function all packaged up for easy use. Tippecanoe's Golden Milk blend includes: Astragalus (promotes core immune strength) Ashwagandha (also known as Indian Ginseng, an adaptogen herb for stress and energy) Ginger (a stimulating digestive plant) Shatavari (an adaptogen that has system wide benefits and a sweet taste) Turmeric (anti inflammatory) Cardamom - (aromatic spice aiding in the assimilation of the other herbs) Cinnamon (sweet spice that balances blood sugar) Kefir means \"Feel Good\" In Turkish. It is one of the oldest fermented foods in the world, and is teaming with live probiotics. They make kefir by hand in small batches and let it ferment slowly. Plain stevia extract is used to sweeten the flavored kefir. It has no unpleasant aftertaste. Enjoy! How do we use our Kefir? On granola or hot cereal In a smoothie Over fruit On top of dessert On chili, soups, and stews Between your favorite cookies Layer in a parfait As a salad dressing base Have fun, be creative! Looking for shipping? Head to Franniescoconutkefir.com"
+                },
+                "url": "https://franniesmarket.com/products/pint-golden-milk-coconut-kefir?variant=49753964282103",
+                "price": {
+                  "amount": 1325,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0507/2525/7411/files/1822BBA3-5505-4E09-BFA2-A29398466CB2.jpg",
+                    "alt_text": "Pint - Golden Milk Coconut Kefir"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/50725257411",
+                  "name": "Frannie's Market ",
+                  "url": "https://franniesmarket.com",
+                  "domain": "frannies-market.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/50725257411/policies/24321818819.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/50725257411/policies/24321851587.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/50725257411/policies/24321786051.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/50725257411/policies/24321884355.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://franniesmarket.com/cart/49753964282103:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 1325,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 1325,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/1nJG5978XYNM0CX21671Aj",
+            "title": "Raw Goat Kefir",
+            "description": {
+              "plain": "A fermented dairy product made from raw goat milk, offering a probiotic-rich beverage for gut health."
+            },
+            "options": [
+              {
+                "name": "Size",
+                "values": [
+                  {
+                    "label": "1 Quart"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Made from raw, unprocessed goat milk for natural probiotics and minimal processing."
+              ],
+              "top_features": "Contains live goat kefir cultures for digestive support\nMade from raw, unprocessed goat milk for maximum nutrient retention\nNo added sugar or preservatives for a clean, natural beverage\nSuitable for those seeking low-PUFA, corn- and soy-free dairy options",
+              "tech_specs": "Product Type: Raw goat kefir\nMilk Source: Raw goat milk\nProcessing: No added sugar, no preservatives\nCategory: Dairy product\nPUFA Content: Low"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0549/8725/9938/files/CopyofProductPhotosnewwebsite_0a31d548-b4f5-4d76-9c80-f7652d41ca89.png",
+                "alt_text": "Raw Goat Kefir"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/43689327165474?shop=54987259938",
+                "title": "Raw Goat Kefir",
+                "description": {
+                  "plain": "A fermented dairy product made from raw goat milk, offering a probiotic-rich beverage for gut health."
+                },
+                "url": "https://nourishfoodclub.com/products/raw-goat-kefir?variant=43689327165474",
+                "price": {
+                  "amount": 1610,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Size",
+                    "label": "1 Quart"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0549/8725/9938/files/CopyofProductPhotosnewwebsite_0a31d548-b4f5-4d76-9c80-f7652d41ca89.png",
+                    "alt_text": "Raw Goat Kefir"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/54987259938",
+                  "name": "Nourish Food Club",
+                  "url": "https://nourishfoodclub.com",
+                  "domain": "angelacres.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/54987259938/policies/35220258850.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/54987259938/policies/35221733410.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/54987259938/policies/35221930018.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/54987259938/policies/36650156066.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://nourishfoodclub.com/cart/43689327165474:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 1610,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 1610,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/3OsjrgdQ5S6Qwepj4fqMS9",
+            "title": "Genuine LIVE Milk Kefir Grains",
+            "description": {
+              "plain": "Live milk kefir grains for making fresh, probiotic-rich kefir at home."
+            },
+            "rating": {
+              "value": 4.8,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 171
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Includes detailed step-by-step photo instructions for easy kefir making and care."
+              ],
+              "top_features": "Live milk kefir grains: Enables homemade probiotic-rich dairy for gut health\nStep-by-step photo instructions: Guides users through kefir making, care, and recipes\nProduces 1/2 cup of kefir daily: Sufficient yield for daily use and growing\nMultiple flavor and recipe options: Supports smoothies, sodas, cream cheese, and more\nNo artificial additives: Free from preservatives, sweeteners, and flavors for natural fermentation",
+              "tech_specs": "Yield: 1/2 cup of kefir per day (start with this amount, increases as grains grow)\nPackage: 1 generous tablespoon of live kefir grains\nAllergen Information: Contains milk\nDietary Preferences: Alcohol-free, dairy-free, gluten-free, lactose-free, low fat, low sodium, no artificial colors, no artificial flavors, no artificial sweeteners, no preservatives, non-GMO, nut-free, soy-free, sugar-free, vegan, vegetarian\nShipping: Ships within 2 business days; expedited shipping available"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0650/9435/products/yemoosbluebowlnotstock.jpg",
+                "alt_text": "Genuine LIVE Milk Kefir Grains - Yemoos Nourishing Cultures"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/7079772867?shop=6509435",
+                "title": "Genuine LIVE Milk Kefir Grains",
+                "description": {
+                  "plain": "Product: You will receive 1 generous tablespoon of live healthy milk kefir grains which will produce atleast 1-2 cups of kefir a day to start with and much more as the kefir grains grow. You will also receive: A detailed step-by-step instructional PICTURE guide: Everything you need to know for caring for your grains and making great kefir (along with pics to show you how!). Recipes: Including various flavoring, smoothies, and Italian sodas and homemade cream cheese. Instructions are sent with notification of shipment, to give you time to prepare for necessary supplies and ingredients! Milk Kefir Guide Learn more about milk kefir and our grains Yield: This amount of kefir grains will produce about 1-2 cups of delicious kefir each day to start with and much more as the kefir grains grow. Notes: Upon arrival, the milk kefir may give off a strong yeasty and/or sour smell when you open the bag, this is just from the natural gas produced by the grains and is to be expected. Shipping: Shipping starts at $2.55. Expedited shipping available. Will ship within 2 business days. We now ship live grains internationally."
+                },
+                "url": "https://www.yemoos.com/products/genuine-live-milk-kefir-grains?variant=7079772867",
+                "price": {
+                  "amount": 2700,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0650/9435/products/yemoosbluebowlnotstock.jpg",
+                    "alt_text": "Genuine LIVE Milk Kefir Grains - Yemoos Nourishing Cultures"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/6509435",
+                  "name": "Yemoos Nourishing Cultures",
+                  "url": "https://www.yemoos.com",
+                  "domain": "yemoosmarket.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/6509435/policies/10896835.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/6509435/policies/10896899.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/6509435/policies/10896771.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/6509435/policies/27979153649.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.yemoos.com/cart/7079772867:1",
+                "rating": {
+                  "value": 4.84,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 170
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 2700,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 2700,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/1nz5wG2DPii5Vdd9S7S6uG",
+            "title": "Organic Milk Kefir Grains 5g + Recipe E-Book",
+            "description": {
+              "plain": "Organic milk kefir grains with a probiotic strain and a recipe e-book for easy homemade kefir."
+            },
+            "rating": {
+              "value": 4.6,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 787
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Includes certified organic kefir grains and a detailed recipe e-book for convenient, healthy fermentation at home."
+              ],
+              "top_features": "Certified organic milk kefir grains ensure pure, high-quality fermentation for optimal probiotic benefits\nIncludes a detailed recipe e-book for easy homemade kefir preparation\nContains a probiotic strain Lactobacillus kefiranofaciens CGMCC2809 ZW3, supporting gut health\nSupports digestive health, immune system, and nutrient absorption\nSimple storage instructions for both short-term and long-term use",
+              "tech_specs": "Grain Weight: 5 g\nProbiotic Strain: Lactobacillus kefiranofaciens CGMCC2809 ZW3\nAllergen Information: Contains milk\nDietary Preferences: Organic, Vegetarian\nStorage: Refrigerate in milk for up to 2 weeks, freeze for up to 2 years\nShipping: Monday, Tuesday, Wednesday only"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0667/2089/products/MilkKefirGrain.jpg",
+                "alt_text": "Organic Milk Kefir Grains 5g + Recipe E-Book"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/37403438743708?shop=6672089",
+                "title": "Organic Milk Kefir Grains 5g + Recipe E-Book",
+                "description": {
+                  "plain": "Choose express shipping to ensure your fresh kefir grains arrive quickly and maintain their quality for the best results! Laboratory Analysed and Certified Species here Milk kefir grains contain a probiotic strain: Lactobacillus kefiranofaciens CGMCC2809 (ZW3) which may improve depression by regulating the gut microbiota as a probiotic food. Link to Study What is Milk Kefir Probiotic Drink? Milk Kefir is a fermented milk drink that originated in the Caucasian Mountains near Turkey, where it was used for centuries as a healthy drink. Kefir is traditionally made with milk kefir grains. Kefir has the texture and consistency of thin drinking yoghurt, with a yeasty, slightly tart flavour and creamy mouthfeel. Make delicious all-natural organic kefir for your family every day. You only need to purchase our culture once for a lifetime supply. How Does Kefir work? Kefir is a probiotic - a source of beneficial bacteria and yeasts which help maintain a healthy digestive system. Health Benefits: Look and feel healthier in days Feel more energetic and vibrant Boosts immune system Potent probiotics with approximately 30 to 100 strains Lowers cholesterol Lower Blood Sugar Anti-oxidant Strong Anti-inflammatory Optimises digestion and utilisation of nutrients from food consumed Alkalises and detoxifies the body How to Make Milk Kefir Simply add 1 tsp (5g) of fresh organic milk kefir grains as purchased to 250ml ml organic milk and produce 1 cup of milk kefir every 24 hours. Instructions and ongoing support are included with the purchase. We highly recommend adding our Milk Kefir Growth Premix or Pure Colostrum Powder to boost immune function and the growth of probiotic organisms. Detailed Instructions here Serving Suggestions Serve Kefir with your favourite fruit and honey, or add to smoothies. Milk kefir can also be used to make salad dressing, ice-cream, cheese and many other delicious foods (see recipe book included). Ingredients Organic Milk Kefir Grains Storage of Milk Kefir If you are not making milk kefir you can store milk kefir grains in a refrigerator in milk for up to 2 weeks. For long-term storage, milk kefir grains can be stored in a freezer for up to 2 years. After freezing, milk kefir grain may take up to 4 batches before returning to original potency. SHIPPING INFORMATION IMPORTANT: We only ship Kefir Grains on a Monday, Tuesday and Wednesday so that they do not remain in transit via Australia Post over the weekend Link to Recipe Ebook will be sent by email when the item is shipped. Please check your shipping confirmation email and If you haven't received make sure to check your Junk Email Folder."
+                },
+                "url": "https://www.nourishmeorganics.com.au/products/organic-milk-kefir-grains?variant=37403438743708",
+                "price": {
+                  "amount": 2300,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0667/2089/products/MilkKefirGrain.jpg",
+                    "alt_text": "Organic Milk Kefir Grains 5g + Recipe E-Book"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/6672089",
+                  "name": "Nourishme Organics",
+                  "url": "https://www.nourishmeorganics.com.au",
+                  "domain": "nourishmeorganics.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/6672089/policies/2268835.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/6672089/policies/2268839.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/6672089/policies/2268831.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/6672089/policies/3506733092.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.nourishmeorganics.com.au/cart/37403438743708:1",
+                "rating": {
+                  "value": 4.57,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 787
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 2300,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 2300,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/3xXksIq4Mf2XenliKCvT7b",
+            "title": "Milk Kefir Grains",
+            "description": {
+              "plain": "Live probiotic grains for making homemade milk kefir at home."
+            },
+            "rating": {
+              "value": 4.7,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 659
+            },
+            "options": [
+              {
+                "name": "Size",
+                "values": [
+                  {
+                    "label": "2.4 gm"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Traditional heirloom-style grains that culture up to 4 cups of milk daily per pouch."
+              ],
+              "top_features": "Live probiotic cultures: Supports digestive health and gut microbiome balance\nHeirloom-style grains: Provides authentic, traditional kefir experience\nEasy rehydration: One packet cultures 4 cups of milk daily for convenience\nVersatile use: Suitable for dairy, coconut, soy, or rice milk\nQuality tested: Ensures safe, contamination-free fermentation",
+              "tech_specs": "Ingredients: Organic powdered milk, organic milk, live active cultures\nAllergen Information: Contains milk; manufactured in a facility that processes soy and dairy\nDietary Preferences: Non-GMO, organic, gluten-free, vegetarian, vegan, dairy-free (when not specified)\nColiform Level: 10 CFU/ml (4,400,000 CFU/ml for some batches)\nShelf Life: Not specified\nPackaging: 1 packet per pouch"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0077/0759/0720/products/kefir-milk-kefir-grains-10728329347136.jpg",
+                "alt_text": "Milk Kefir-Starter Grains"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/23066703134784?shop=7707590720",
+                "title": "Milk Kefir Grains",
+                "description": {
+                  "plain": "Milk Kefir grains are live probiotics in the form of soft, jelly-like \u2018grains\u2019. They are grown in milk, thus giving it their name. The term \"kefir grains\" describes the look of the culture only, but they aren\u2019t actually grains. When healthy and fed, these grains will continue to grow and multiply. Milk Kefir has many health benefits and is one of the richest sources of probiotics! Just one pouch of grains will culture 4 cups every day. Drink it up, or enjoy your Kefir in smoothies, ice cream, baked goods, and other recipes. *Milk Kefir is Excluded From Discounts INCLUDED IN THE BAG 1 packet of dehydrated traditional, heirloom-style milk kefir grains.Instructions for using this culture are included and may be found here. INGREDIENTS AND ALLERGEN INFORMATION Milk Kefir IngredientsOrganic powdered milk, organic milk, live active cultures.Packaged in a small amount of organic powdered milk to extend shelf life. Milk Kefir Allergen InformationManufactured in a facility that produces products containing soy and dairy.Non-GMO HOW TO STORE YOUR STARTER CULTURE Store the starter culture in a cool, dry place until you\u2019re ready to activate it. Use the starter culture by the date on the bag. SUPPLIES YOU'LL NEED IngredientsPasteurized Whole Milk (Not UHT/Ultra-Pasteurized) Equipment1 Quart-Sized Glass JarCoffee Filter or Butter MuslinRubber BandThermometerPlastic or Stainless Steel Mesh Strainer"
+                },
+                "url": "https://culturesforhealth.com/products/milk-kefir-grains?variant=23066703134784",
+                "price": {
+                  "amount": 2699,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0077/0759/0720/products/kefir-milk-kefir-grains-10728329347136.jpg",
+                    "alt_text": "Milk Kefir-Starter Grains"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/7707590720",
+                  "name": "Cultures For Health",
+                  "url": "https://culturesforhealth.com",
+                  "domain": "cultures-for-health.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/7707590720/policies/11511824448.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/7707590720/policies/11511857216.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/7707590720/policies/11511791680.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/7707590720/policies/11511889984.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://culturesforhealth.com/cart/23066703134784:1",
+                "rating": {
+                  "value": 4.73,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 659
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/45368974737622?shop=47173501079",
+                "title": "Milk Kefir Grains",
+                "description": {
+                  "plain": "Treat your gut to homemade milk kefir, one of our most probiotic-rich cultures. Just one box will culture 4 cups every day. Drink it up, or enjoy your kefir in smoothies, ice cream, baked goods, and much more. Shelf stable. Quality Tested We test our cultures for the presence of coliform - a bacteria contamination that leads to potential health risks. Safe Food Consumption is Less Than 10/cfu/ml Our Milk Kefir Grains Level of Coliform Present: <10 cfu/ml Brand One Milk Kefir Grains Level of Coliform Present: 4,400,000 cfu/ml Brand Two Milk Kefir Grains Level of Coliform Present: 30 cfu/ml"
+                },
+                "url": "https://homesteadgeneralstore.com/products/milk-kefir-grains-1?variant=45368974737622",
+                "price": {
+                  "amount": 2300,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0471/7350/1079/files/79632f7e7f1920a5cc4b28d152227f6bd47269198c12117b3e7a658d0468b5d6.jpg",
+                    "alt_text": "Milk kefir grains for fermenting probiotic dairy drinks"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/47173501079",
+                  "name": "Homestead General Store",
+                  "url": "https://homesteadgeneralstore.com",
+                  "domain": "homestead-general-store2.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/47173501079/policies/28678553814.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/47173501079/policies/28678586582.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/47173501079/policies/28678521046.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/47173501079/policies/28678619350.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://homesteadgeneralstore.com/cart/45368974737622:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/39471016706219?shop=55444373675",
+                "title": "Milk Kefir Grains",
+                "description": {
+                  "plain": "Milk kefir grains are dehydrated active cultures consisting of yeast and bacteria existing in a symbiotic relationship. Milk kefir grains need to be rehydrated using pasteurized dairy milk (not raw milk) before regular use. Once milk kefir grains are rehydrated, they can be transitioned to raw milk. Milk kefir grains can be used to culture coconut, soy, or rice milk once rehydrated, but must be rehydrated in dairy milk first. Milk kefir grains require regular refreshing in fresh dairy milk (as soon as the texture changes.) Milk Kefir Grains Ingredients: Organic powdered milk, organic milk, live active cultures. Contains no GMO ingredients"
+                },
+                "url": "https://foodsofnations.com/products/milk-kefir-grains?variant=39471016706219",
+                "price": {
+                  "amount": 2399,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Size",
+                    "label": "2.4 gm"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0554/4437/3675/products/kefir-milk-kefir-grains-10728329347136.jpg",
+                    "alt_text": "Milk Kefir Grains"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/55444373675",
+                  "name": "Kalustyan's",
+                  "url": "https://foodsofnations.com",
+                  "domain": "kalustyans.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/55444373675/policies/23626252459.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/55444373675/policies/23626285227.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/55444373675/policies/23626219691.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/55444373675/policies/23626317995.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://foodsofnations.com/cart/39471016706219:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50428250030296?shop=73463169240",
+                "title": "Milk Kefir Grains",
+                "description": {
+                  "plain": "Start fermenting your own milk kefir at home with these potent, quality-tested grains. A single packet produces four cups daily\u2014enough for drinking straight, blending into smoothies, or incorporating into ice cream and baked goods. Each case includes eight units for consistent supply. Rigorously tested for safety with coliform levels below 10 cfu/ml, these grains deliver probiotic benefits without compromise. Shelf-stable and ready to culture whenever you need them."
+                },
+                "url": "https://gathersebastopol.com/products/milk-kefir-grains?variant=50428250030296",
+                "price": {
+                  "amount": 2999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0734/6316/9240/files/79632f7e7f1920a5cc4b28d152227f6bd47269198c12117b3e7a658d0468b5d6.jpg",
+                    "alt_text": "Milk Kefir Grains"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/73463169240",
+                  "name": "Gather Sebastopol",
+                  "url": "https://gathersebastopol.com",
+                  "domain": "wjax2z-gw.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/73463169240/policies/33566589144.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://gathersebastopol.com/cart/50428250030296:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/46083509682368?shop=61031317696",
+                "title": "Milk Kefir Grains",
+                "description": {
+                  "plain": "Treat your gut to homemade milk kefir, one of our most probiotic-rich cultures. Just one box will culture 4 cups every day. Drink it up, or enjoy your kefir in smoothies, ice cream, baked goods, and much more. Shelf stable. Quality Tested We test our cultures for the presence of coliform - a bacteria contamination that leads to potential health risks. Safe Food Consumption is Less Than 10/cfu/ml Our Milk Kefir Grains Level of Coliform Present: <10 cfu/ml Brand One Milk Kefir Grains Level of Coliform Present: 4,400,000 cfu/ml Brand Two Milk Kefir Grains Level of Coliform Present: 30 cfu/ml"
+                },
+                "url": "https://www.thesoapbar.store/products/milk-kefir-grains-8-count-case-pack?variant=46083509682368",
+                "price": {
+                  "amount": 2299,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0610/3131/7696/files/79632f7e7f1920a5cc4b28d152227f6bd47269198c12117b3e7a658d0468b5d6.jpg",
+                    "alt_text": "Milk Kefir Grains"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/61031317696",
+                  "name": "The Soap Bar ",
+                  "url": "https://www.thesoapbar.store",
+                  "domain": "thesoapbarnc.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/61031317696/policies/25868468416.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/61031317696/policies/25868501184.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/61031317696/policies/25868435648.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/61031317696/policies/25868533952.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.thesoapbar.store/cart/46083509682368:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/33875110199436?shop=37756829836",
+                "title": "Cultures For Health Milk Kefir Grains",
+                "description": {
+                  "plain": "Milk Kefir grains are live probiotics in the form of soft, jelly-like \u2018grains\u2019. They are grown in milk, thus giving it their name. The term \"kefir grains\" describes the look of the culture only, but they aren\u2019t actually grains. When healthy and fed, these grains will continue to grow and multiply. Milk Kefir has many health benefits and is one of the richest sources of probiotics! Just one pouch of grains will culture 4 cups every day. Drink it up, or enjoy your Kefir in smoothies, ice cream, baked goods, and other recipes. Ingredients: Organic Powdered Milk, Organic Milk, Live Active Cultures *This product requires refrigeration and we are unable to ship it - available for local delivery and pick up only*"
+                },
+                "url": "https://www.therootcellarpei.com/products/cfh-milk-kefir-grains?variant=33875110199436",
+                "price": {
+                  "amount": 2600,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0377/5682/9836/products/690349d27339c4555f967be4004b9a19.jpg",
+                    "alt_text": "Cultures For Health Milk Kefir Grains"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/37756829836",
+                  "name": "The Root Cellar PEI",
+                  "url": "https://www.therootcellarpei.com",
+                  "domain": "rootcellarpei.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/37756829836/policies/24027037836.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/37756829836/policies/24027070604.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/37756829836/policies/24027005068.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/37756829836/policies/24027103372.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.therootcellarpei.com/cart/33875110199436:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/41144473288807?shop=2986845",
+                "title": "Milk Kefir Grains",
+                "description": {
+                  "plain": "Treat your gut to homemade milk kefir, one of the most probiotic-rich cultures from Cultures of Health. Just one box will culture 4 cups every day. Drink it up, or enjoy your kefir in smoothies, ice cream, baked goods, and much more. Shelf stable."
+                },
+                "url": "https://www.heritagefarmstead.com/products/milk-kefir-grains?variant=41144473288807",
+                "price": {
+                  "amount": 2299,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0298/6845/files/79632f7e7f1920a5cc4b28d152227f6bd47269198c12117b3e7a658d0468b5d6.jpg",
+                    "alt_text": "Milk Kefir Grains"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/2986845",
+                  "name": "Johnson's Heritage Farmstead",
+                  "url": "https://www.heritagefarmstead.com",
+                  "domain": "homesteaders-cache.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/2986845/policies/12656453.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/2986845/policies/12656517.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/2986845/policies/12656389.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.heritagefarmstead.com/cart/41144473288807:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50803051626798?shop=46446739607",
+                "title": "Milk Kefir Grains",
+                "description": {
+                  "plain": "These jelly-like 'grains' contain an industry-leading amount of lactobacillus kefiranofaciens \u2013 which is what ultimately provides up to 4 cups of this potent probiotic a day when properly maintained. Continuously tested, Culture for Health grains are guaranteed to deliver you all of the good bacteria, and none of the bad bacteria. Includes 1 packet of dehydrated traditional, heirloom-style milk kefir grains. Instructions for using this culture Ingredients Organic powdered milk, organic milk, live active cultures. Packaged in a small amount of organic powdered milk to extend shelf life. Allergen Information Manufactured in a facility that produces products containing soy and dairy. Non-GMO"
+                },
+                "url": "https://mother-earth-gardens-webstore.myshopify.com/products/milk-kefir-grains?variant=50803051626798",
+                "price": {
+                  "amount": 2800,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0464/4673/9607/files/MIlk-Kefir.jpg",
+                    "alt_text": "Milk Kefir Grains"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/46446739607",
+                  "name": "Mother Earth Gardens",
+                  "url": "https://mother-earth-gardens-webstore.myshopify.com",
+                  "domain": "mother-earth-gardens-webstore.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/46446739607/policies/20304822423.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/46446739607/policies/20304855191.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/46446739607/policies/20304789655.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/46446739607/policies/20304887959.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://mother-earth-gardens-webstore.myshopify.com/cart/50803051626798:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 2299,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 2999,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "messages": []
+      }
+    }
+  }
+}

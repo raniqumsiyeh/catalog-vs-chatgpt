@@ -1,0 +1,1985 @@
+{
+  "query": "weco 5k3 xp 5.3kwh 48v battery",
+  "fetched_at": 1778264701.8069649,
+  "count": 10,
+  "products": [
+    {
+      "id": "gid://shopify/p/2ayWa5S2l2AcMIx7eMBUHC",
+      "title": "Milwaukee 48-11-1852 M18 18V 5.0Ah REDLITHIUM XC Extended Battery - 2pk",
+      "image_url": "https://cdn.shopify.com/s/files/1/0074/1176/1270/products/MWE-48-11-1852_1.jpg",
+      "seller_name": "MaxTool",
+      "seller_url": "https://www.maxtool.com",
+      "price_min": 24.0,
+      "price_max": 269.0,
+      "available": true,
+      "variant_count": 10,
+      "url": "https://www.maxtool.com/cart/22448923803766:1",
+      "rating": 5.0,
+      "rating_count": 307
+    },
+    {
+      "id": "gid://shopify/p/6db5SXivNov7VDWlFUPCF5",
+      "title": "Milwaukee 48-11-2450 M12 XC5.0 Battery 2-Pack W/ FREE EXTRA 48-11-2450 Battery",
+      "image_url": "https://cdn.shopify.com/s/files/1/0717/0159/4403/files/48-11-2450-2-48-11-2450_01_515d3d41-9748-47de-a18f-b2f9b22a12ab.jpg",
+      "seller_name": "Toolup",
+      "seller_url": "https://toolup.com",
+      "price_min": 182.76,
+      "price_max": 182.76,
+      "available": false,
+      "variant_count": 1,
+      "url": "https://toolup.com/cart/49795294888227:1",
+      "rating": 4.9,
+      "rating_count": 20
+    },
+    {
+      "id": "gid://shopify/p/6ofWAwtuOXsK8ePV3eUT6c",
+      "title": "Milwaukee 48-11-1862 M18 XC6.0 Battery 2Pk w/ FREE 48-11-1850 M18 XC5.0 Battery",
+      "image_url": "https://cdn.shopify.com/s/files/1/1155/2298/files/48-11-1862-48-11-1850_01.jpg",
+      "seller_name": "Red Tool Store",
+      "seller_url": "https://www.redtoolstore.com",
+      "price_min": 284.9,
+      "price_max": 284.9,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://www.redtoolstore.com/cart/32931945840724:1",
+      "rating": 5.0,
+      "rating_count": 8
+    },
+    {
+      "id": "gid://shopify/p/6MnqCW8ibM1PVUnVGbfnHB",
+      "title": "Milwaukee 48-11-2450 M12\u2122 REDLITHIUM\u2122 High Output XC5.0 Battery Pack",
+      "image_url": "https://cdn.shopify.com/s/files/1/0615/2706/4765/products/Milwaukee_48-11-2450.webp",
+      "seller_name": "Way Source",
+      "seller_url": "https://waysource.com",
+      "price_min": 65.99,
+      "price_max": 65.99,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://waysource.com/cart/42661401886909:1",
+      "rating": 4.9,
+      "rating_count": 50
+    },
+    {
+      "id": "gid://shopify/p/5n7lM6o5cRzBRzPAhiDLJK",
+      "title": "48V 105Ah GEN3 Eco Thru Hole Battery Individual",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/1114/6595/files/fd1fe9ee-00cf-4264-953f-e702fc31744a.jpg",
+      "seller_name": "Extreme Kartz",
+      "seller_url": "https://extremekartz.com",
+      "price_min": 2200.0,
+      "price_max": 2200.0,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://extremekartz.com/cart/42951593656419:1",
+      "rating": 4.9,
+      "rating_count": 58
+    },
+    {
+      "id": "gid://shopify/p/66awGnU4jg9nNGZLmDzx7r",
+      "title": "WestCo WCP14 Platinum AGM Battery for BMW Motorcycles",
+      "image_url": "https://cdn.shopify.com/s/files/1/0017/8765/8299/products/e084e76ba4202c56fccc3cf5901fc413.jpg",
+      "seller_name": "Sierra BMW Motorcycle",
+      "seller_url": "https://www.shopbmwmotorcycle.com",
+      "price_min": 129.95,
+      "price_max": 129.95,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://www.shopbmwmotorcycle.com/cart/12733868277819:1",
+      "rating": 5.0,
+      "rating_count": 6
+    },
+    {
+      "id": "gid://shopify/p/5SFiAWDRiVr3NUIO1YuOdC",
+      "title": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER",
+      "image_url": "https://cdn.shopify.com/s/files/1/0509/5263/4556/files/FP5000-48V.jpg",
+      "seller_name": "PECRON LLC",
+      "seller_url": "https://www.pecron.com",
+      "price_min": 1399.0,
+      "price_max": 10393.0,
+      "available": true,
+      "variant_count": 7,
+      "url": "https://www.pecron.com/cart/46143252529340:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/1GJ7tb9BhWoQLE4BjjSjEm",
+      "title": "12 Volt 5 Ah Battery for the Razor MX125 Dirt Rocket",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/6943/0690/files/x97-7331.jpg",
+      "seller_name": "Monster Scooter Parts",
+      "seller_url": "https://monsterscooterparts.com",
+      "price_min": 24.99,
+      "price_max": 24.99,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://monsterscooterparts.com/cart/44337860378786:1",
+      "rating": 4.8,
+      "rating_count": 4
+    },
+    {
+      "id": "gid://shopify/p/1E3tQG0OTpwZ0Tdp19naT5",
+      "title": "PowerHobby 2s 5200mAh 50C EC3 Battery",
+      "image_url": "https://cdn.shopify.com/s/files/1/0669/8408/3749/products/PHB2S5200MAH50CEC3.jpg",
+      "seller_name": "Eds RC",
+      "seller_url": "https://www.edsrc.com",
+      "price_min": 44.99,
+      "price_max": 44.99,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://www.edsrc.com/cart/44461298286885:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/7I9wk1uoIqv3bvi84HFefy",
+      "title": "MK Battery Deka DD5300 5.3kWh 100Ah 48V Lithium Iron Phospate Battery Module",
+      "image_url": "https://cdn.shopify.com/s/files/1/0549/1857/8433/files/480-0030_1.default.jpg",
+      "seller_name": "WARE Solar",
+      "seller_url": "https://ware.solar",
+      "price_min": 2257.39,
+      "price_max": 2257.39,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://ware.solar/cart/47571872940289:1",
+      "rating": null,
+      "rating_count": null
+    }
+  ],
+  "raw": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "result": {
+      "structuredContent": {
+        "ucp": {
+          "version": "2026-04-08",
+          "capabilities": {
+            "dev.ucp.shopping.catalog.search": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://ucp.dev/2026-04-08/specification/catalog",
+                "schema": "https://ucp.dev/2026-04-08/schemas/shopping/catalog_search.json"
+              }
+            ],
+            "dev.ucp.shopping.catalog.lookup": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://ucp.dev/2026-04-08/specification/catalog",
+                "schema": "https://ucp.dev/2026-04-08/schemas/shopping/catalog_lookup.json"
+              }
+            ],
+            "dev.shopify.catalog.global": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://shopify.dev/docs/agents/catalog/global-catalog",
+                "schema": "https://shopify.dev/ucp/schemas/2026-04-08/shopify_catalog_global.json",
+                "extends": [
+                  "dev.ucp.shopping.catalog.search",
+                  "dev.ucp.shopping.catalog.lookup"
+                ],
+                "requires": {
+                  "protocol": {
+                    "min": "2026-04-08"
+                  }
+                }
+              }
+            ]
+          },
+          "status": "success"
+        },
+        "products": [
+          {
+            "id": "gid://shopify/p/2ayWa5S2l2AcMIx7eMBUHC",
+            "title": "Milwaukee 48-11-1852 M18 18V 5.0Ah REDLITHIUM XC Extended Battery - 2pk",
+            "description": {
+              "plain": "Extended-capacity REDLITHIUM XC batteries deliver reliable, fade-free power for Milwaukee M18 cordless tools in extreme conditions."
+            },
+            "rating": {
+              "value": 5.0,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 307
+            },
+            "options": [
+              {
+                "name": "Condition",
+                "values": [
+                  {
+                    "label": "new"
+                  },
+                  {
+                    "label": "used - acceptable"
+                  },
+                  {
+                    "label": "used - good"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "REDLITHIUM XC technology provides extended runtime and robust protection for Milwaukee M18 tools in all weather."
+              ],
+              "top_features": "REDLITHIUM XC technology: Delivers extended runtime and enhanced durability for demanding jobsite conditions\nREDLINK Intelligence: Provides optimized performance and overload protection via system communication between tool, battery, and charger\nOnboard fuel gauge: Displays remaining runtime to minimize downtime\nAll-weather performance: Maintains fade-free power in extreme conditions\nSystem-wide compatibility: Powers over 60 Milwaukee M18 cordless power tools",
+              "tech_specs": "Voltage: 18V\nBattery Technology: Lithium-ion (Li-ion)\nCapacity: 5.0Ah\nWeight: 4 lbs\nWarranty: 3 years (battery), 5 years limited (battery and charger)\nColor: Black, Red"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0074/1176/1270/products/MWE-48-11-1852_1.jpg",
+                "alt_text": "Milwaukee 48-11-1852 M18 18V 5.0Ah REDLITHIUM XC Extended Battery - 2pk"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/22448923803766?shop=7411761270",
+                "title": "Milwaukee 48-11-1852 M18 18V 5.0Ah REDLITHIUM XC Extended Battery - 2pk",
+                "description": {
+                  "plain": "Features REDLINK Intelligence: Provides optimized performance and overload protection using total system communication between tool, battery and charger Best-in-class construction: Offers long-lasting performance and durability Fuel gauge onboard: Displays remaining runtime for less downtime on the job All-weather performance: Delivers fade free power in extreme jobsite conditions Versatility: Powers more than 60 Milwaukee M18 cordless power tools RED LITHIUM\u2122 BATTERY PACK -Industry leader in lithium-ion battery technology -Patented designs protect against drops, water and harsh environments -Robust electronics optimize performance for every tool and battery combination COMPATIBILITY THAT IS SYSTEM WIDE Milwaukee is committed to protecting their customers' investments. All of their M18\u2122 tools are built to provide the best performance and trade-focused solutions. All M18\u2122 tools are compatible with the M18\u2122 REDLITHIUM\u2122 batteries, creating endless possibilities. Specifications Sku 48-11-1852 Brand Milwaukee Voltage 18V Charger Warranty 3 Year Weight (lbs.) 4 What's in The Box (2) M18 REDLITHIUM XC5.0 Extended Capacity Battery Pack (48-11-1850) Owner's Manual Warranty 5 Years Limited Factory Warranty 30 Day Satisfaction Guaranteed"
+                },
+                "url": "https://www.maxtool.com/products/milwaukee-48-11-1852-m18-18-volt-5-0ah-redlithium-xc-extended-battery-2pk?variant=22448923803766",
+                "price": {
+                  "amount": 26900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0074/1176/1270/products/MWE-48-11-1852_1.jpg",
+                    "alt_text": "Milwaukee 48-11-1852 M18 18V 5.0Ah REDLITHIUM XC Extended Battery - 2pk"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/7411761270",
+                  "name": "MaxTool",
+                  "url": "https://www.maxtool.com",
+                  "domain": "shopmaxtool.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/7411761270/policies/5929173110.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/7411761270/policies/5929205878.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/7411761270/policies/5929140342.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/7411761270/policies/5929238646.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.maxtool.com/cart/22448923803766:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/18432372441203?shop=6690308211",
+                "title": "Milwaukee 48-11-1852 M18 18V 5.0Ah REDLITHIUM XC Extended Battery - 2pk",
+                "description": {
+                  "plain": "Features REDLINK Intelligence: Provides optimized performance and overload protection using total system communication between tool, battery and charger Best-in-class construction: Offers long-lasting performance and durability Fuel gauge onboard: Displays remaining runtime for less downtime on the job All-weather performance: Delivers fade free power in extreme jobsite conditions Versatility: Powers more than 60 Milwaukee M18 cordless power tools RED LITHIUM\u2122 BATTERY PACK -Industry leader in lithium-ion battery technology -Patented designs protect against drops, water and harsh environments -Robust electronics optimize performance for every tool and battery combination COMPATIBILITY THAT IS SYSTEM WIDE Milwaukee is committed to protecting their customers' investments. All of their M18\u2122 tools are built to provide the best performance and trade-focused solutions. All M18\u2122 tools are compatible with the M18\u2122 REDLITHIUM\u2122 batteries, creating endless possibilities. Specifications Sku 48-11-1852 Brand Milwaukee Voltage 18V Charger Warranty 3 Year Weight (lbs.) 4 What's in The Box (2) M18 REDLITHIUM XC5.0 Extended Capacity Battery Pack (48-11-1850) Owner's Manual Warranty 5 Years Limited Factory Warranty 30 Day Satisfaction Guaranteed"
+                },
+                "url": "https://www.factoryauthorizedoutlet.com/products/milwaukee-48-11-1852-m18-18-volt-5-0ah-redlithium-xc-extended-battery-2pk?variant=18432372441203",
+                "price": {
+                  "amount": 26900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0066/9030/8211/products/MWE-48-11-1852_1_8979be2c-366d-4058-a5bd-176af0289cd1.jpg",
+                    "alt_text": "Milwaukee 48-11-1852 M18 18V 5.0Ah REDLITHIUM XC Extended Battery - 2pk"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/6690308211",
+                  "name": "Factory Authorized Outlet",
+                  "url": "https://www.factoryauthorizedoutlet.com",
+                  "domain": "factory-authorized-outlet.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/6690308211/policies/6120374387.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/6690308211/policies/6120407155.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/6690308211/policies/6120341619.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/6690308211/policies/6275989619.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.factoryauthorizedoutlet.com/cart/18432372441203:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50775787012377?shop=24954096",
+                "title": "Milwaukee 48-11-1852 M18\u2122 REDLITHIUM\u2122 XC5.0 Extended Capacity Battery Two Pack",
+                "description": {
+                  "plain": "Delivers up to 2.5X more run-time, 20% more power and 2X more life than standard lithium-ion batteries. The M18\u2122 REDLITHIUM\u2122 XC 5.0 Extended Capacity Battery Pack features superior pack construction, electronics, and performance to deliver more work per charge and more work over the life of the pack when compared to competitors. The M18\u2122 REDLITHIUM\u2122 XC 5.0 Battery features an advanced design, protecting the pack against harsh jobsite environments. This protection routes water away from the electronics and out of the battery pack, extends run-time and life by minimizing heat, and prevents pack failures from vibration or drops. This unique to Milwaukee\u00ae design also allows the battery to operate in extreme cold weather conditions (below OoF/-18oC). Managed by Milwaukee\u2019s exclusive REDLINK\u2122 Intelligence, the battery features overload protection to prevent you from damaging your cordless power tools in heavy-duty situations, while the discharge protection prevents cell damage. It also provides full system compatibility with 60+ M18\u2122 cordless solutions.Upgrade to the M18\u2122 REDLITHIUM\u2122 XC 5.0 Battery Pack to instantly increase the run-time and durability of your M18\u2122 cordless tools. WARNING: Cancer & Reproductive harm www.P65Warnings.ca.gov"
+                },
+                "url": "https://clarkstool.com/products/m18%E2%84%A2-redlithium%E2%84%A2-xc5-0-extended-capacity-battery-two-pack?variant=50775787012377",
+                "price": {
+                  "amount": 26900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/2495/4096/files/5eb20b08b35642d09fafccd47b054f87.webp",
+                    "alt_text": "Milwaukee 48-11-1852 M18\u2122 REDLITHIUM\u2122 XC5.0 Extended Capacity Battery Two Pack"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/24954096",
+                  "name": "Clark's Tool & Equipment",
+                  "url": "https://clarkstool.com",
+                  "domain": "clarks-dummy-account.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/24954096/policies/1771339809.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/24954096/policies/1771372577.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/24954096/policies/1771307041.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/24954096/policies/45232193817.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://clarkstool.com/cart/50775787012377:1",
+                "rating": {
+                  "value": 5.0,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 4
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/47751091355939?shop=71701594403",
+                "title": "Milwaukee 48-11-1852 M18 REDLITHIUM XC 5.0 Extended Capacity Battery 2 Pack",
+                "description": {
+                  "plain": "Milwaukee 48-11-1852 Description Delivers up to 2.5X more run-time, 20% more power and 2X more life than standard lithium-ion batteries. The M18\u2122 REDLITHIUM\u2122 XC 5.0 Extended Capacity Battery Pack features superior pack construction, electronics, and performance to deliver more work per charge and more work over the life of the pack than any battery on the market. The M18\u2122 REDLITHIUM\u2122 XC 5.0 Battery features an advanced design, protecting the pack against harsh jobsite environments. This protection routes water away from the electronics and out of the battery pack, extends run-time and life by minimizing heat, and prevents pack failures from vibration or drops. This unique to Milwaukee\u00ae design also allows the battery to operate in extreme cold weather conditions (below OoF/-18oC). Managed by Milwaukee\u2019s exclusive REDLINK\u2122 Intelligence, the battery features overload protection to prevent you from damaging your cordless power tools in heavy-duty situations, while the discharge protection prevents cell damage. It also provides full system compatibility with 60+ M18\u2122 cordless solutions. Upgrade to the M18\u2122 REDLITHIUM\u2122 XC 5.0 Battery Pack to instantly increase the run-time and durability of your M18\u2122 cordless tools. Milwaukee 48-11-1852 Includes (2) M18\u2122 REDLITHIUM\u2122 XC5.0 Extended Capacity Battery Packs Milwaukee 48-11-1852 Features REDLINK\u2122 Intelligence: Provides optimized performance and overload protection using total system communication between tool, battery and charger Best-in-class construction: Offers long-lasting performance and durability Fuel gauge onboard: Displays remaining runtime for less downtime on the job All-weather performance: Delivers fade free power in extreme jobsite conditions Versatility: Powers more than 60 Milwaukee\u00ae M18\u2122 cordless power tools Milwaukee 48-11-1852 Specifications Battery Warranty 3 Years"
+                },
+                "url": "https://toolup.com/products/milwaukee-48-11-1852-m18-redlithium-xc-5-0-extended-capacity-battery-2-pack-2?variant=47751091355939",
+                "price": {
+                  "amount": 22627,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0717/0159/4403/files/Milwaukee-48-11-1852_01_7f293b28-a89d-4fd8-b2bf-3833e25a6714.jpg",
+                    "alt_text": "Milwaukee 48-11-1852 M18 REDLITHIUM XC 5.0 Extended Capacity Battery 2 Pack"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/71701594403",
+                  "name": "Toolup",
+                  "url": "https://toolup.com",
+                  "domain": "toolupstore.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/71701594403/policies/38951026979.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/71701594403/policies/38951223587.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/71701594403/policies/38951158051.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/71701594403/policies/38951256355.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://toolup.com/cart/47751091355939:1",
+                "rating": {
+                  "value": 5.0,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 150
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/47398315589882?shop=73026666746",
+                "title": "MILWAUKEE 48-11-1852 M18\u2122 REDLITHIUM\u2122 XC5.0 Extended Capacity Battery Two Pack",
+                "description": {
+                  "plain": "The Milwaukee 48-11-1852 M18 REDLITHIUM\u2122 XC5.0 Battery Two-Pack delivers extended runtime and power for demanding M18 tools\u2014up to 2.5x more runtime than standard CP batteries with superior pack construction for jobsite durability. REDLINK\u2122 Intelligence protects against overloads, overheating, and over-discharge, while the onboard fuel gauge shows remaining charge at a glance. Impact-resistant housing and rubber overmold withstand drops and abuse, powering 300+ M18 tools with fade-free performance in extreme temperatures. Stock up with this 2-pack value\u2014your essential for saws, drills, impacts, and lights that run longer and harder. \u2022 5.0Ah extended capacity \u2013 up to 2.5x more runtime than standard CP batteries \u2022 REDLINK\u2122 Intelligence \u2013 overload/overheat/over-discharge protection \u2022 Onboard fuel gauge \u2013 displays remaining charge for planning \u2022 Impact-resistant housing \u2013 rubber overmold for drops & abuse \u2022 Fade-free power \u2013 consistent performance in extreme conditions \u2022 Compatible with 300+ M18 tools \u2013 full M18 system integration \u2022 2-pack value \u2013 stock up for crews or heavy jobsite use \u2022 3-year warranty \u2013 Milwaukee reliability you trust \u2022 FREE Shipping!"
+                },
+                "url": "https://dynamitetool.com/products/milwaukee-48-11-1852-m18-red-lithium-50ah-2pk?variant=47398315589882",
+                "price": {
+                  "amount": 16900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0730/2666/6746/files/dd7b4dfc9ea34f3f94ec4db7e38706ef.webp",
+                    "alt_text": "MILWAUKEE 48-11-1852 M18\u2122 REDLITHIUM\u2122 XC5.0 Extended Capacity Battery Two Pack"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/73026666746",
+                  "name": "Dynamite Tool ",
+                  "url": "https://dynamitetool.com",
+                  "domain": "tvva0r-r1.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/73026666746/policies/32327368954.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/73026666746/policies/36049912058.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/73026666746/policies/36049813754.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/73026666746/policies/36049846522.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://dynamitetool.com/cart/47398315589882:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/41781348729017?shop=56575295673",
+                "title": "Milwaukee M18 REDLITHIUM XC 5.0 Extended Capacity Battery 2-Pack 48-11-1852",
+                "description": {
+                  "plain": "EXTENDED-RANGE JOB SITE PRODUCTIVITY Maximizing your fleet's ROI requires energy sources that can withstand high-cycle fatigue and extreme environmental stressors without compromising discharge consistency. These Milwaukee M18 REDLITHIUM XC 5.0 battery packs are engineered with a dedicated internal structure that separates and protects cells, preventing the heat-related degradation common in standard lithium-ion platforms. By integrating advanced thermal management and shock-responsive separators, these units deliver the stable voltage required for high-torque applications while maintaining the integrity of the 18V system over thousands of charges. / High-Efficiency Cell Balancing ensures even charging and discharging for maximum pack life / REDLINK Intelligence communicates with tools to prevent over-drain and thermal runaway / Rugged shock-absorbing frame protects internal components from drops and vibration / Integrated fuel gauge provides instantaneous energy status to minimize workspace downtime / Water routing design directs moisture away from electronic boards to survive job site rain TECHNICAL SPECIFICATIONS Voltage: 18V Amp Hour: 5.0 Ah Battery Chemistry: REDLITHIUM Lithium-Ion System Compatibility: M18 Cordless System Cold Weather Operation: Down to 0\u00b0F (-18\u00b0C) WHAT'S IN THE BOX / (2) M18 REDLITHIUM XC 5.0 Extended Capacity Battery Packs (48-11-1852)"
+                },
+                "url": "https://thepowertoolstore.com/products/milwaukee-48-11-1852?variant=41781348729017",
+                "price": {
+                  "amount": 26900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0565/7529/5673/files/48-11-1852.png",
+                    "alt_text": "M18\u2122 5.0Ah Battery Pack (2 Piece)"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/56575295673",
+                  "name": "The Power Tool Store",
+                  "url": "https://thepowertoolstore.com",
+                  "domain": "bay-verte-the-power-tool-store.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/56575295673/policies/26879000761.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/56575295673/policies/26879033529.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/56575295673/policies/26878967993.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/56575295673/policies/26879066297.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://thepowertoolstore.com/cart/41781348729017:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/17746152521828?shop=10589929572",
+                "title": "Milwaukee 48-11-1852 M18 REDLITHIUM XC 5.0 Extended Capacity Battery 2 Pack",
+                "description": {
+                  "plain": "Milwaukee 48-11-1852 Description Delivers up to 2.5X more run-time, 20% more power and 2X more life than standard lithium-ion batteries. The M18\u2122 REDLITHIUM\u2122 XC 5.0 Extended Capacity Battery Pack features superior pack construction, electronics, and performance to deliver more work per charge and more work over the life of the pack than any battery on the market. The M18\u2122 REDLITHIUM\u2122 XC 5.0 Battery features an advanced design, protecting the pack against harsh jobsite environments. This protection routes water away from the electronics and out of the battery pack, extends run-time and life by minimizing heat, and prevents pack failures from vibration or drops. This unique to Milwaukee\u00ae design also allows the battery to operate in extreme cold weather conditions (below OoF/-18oC). Managed by Milwaukee\u2019s exclusive REDLINK\u2122 Intelligence, the battery features overload protection to prevent you from damaging your cordless power tools in heavy-duty situations, while the discharge protection prevents cell damage. It also provides full system compatibility with 60+ M18\u2122 cordless solutions. Upgrade to the M18\u2122 REDLITHIUM\u2122 XC 5.0 Battery Pack to instantly increase the run-time and durability of your M18\u2122 cordless tools. Milwaukee 48-11-1852 Includes (2) M18\u2122 REDLITHIUM\u2122 XC5.0 Extended Capacity Battery Packs Milwaukee 48-11-1852 Features REDLINK\u2122 Intelligence: Provides optimized performance and overload protection using total system communication between tool, battery and charger Best-in-class construction: Offers long-lasting performance and durability Fuel gauge onboard: Displays remaining runtime for less downtime on the job All-weather performance: Delivers fade free power in extreme jobsite conditions Versatility: Powers more than 60 Milwaukee\u00ae M18\u2122 cordless power tools Milwaukee 48-11-1852 Specifications Battery Warranty 3 Years"
+                },
+                "url": "https://mytoolstore.com/products/milwaukee-48-11-1852-m18-redlithium-xc-5-0-extended-capacity-battery-2-pack?variant=17746152521828",
+                "price": {
+                  "amount": 22627,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0105/8992/9572/files/Milwaukee-48-11-1852_01_994e3e8f-555c-453b-9641-25b45fa864e9.jpg",
+                    "alt_text": "Milwaukee 48-11-1852 M18 REDLITHIUM XC 5.0 Extended Capacity Battery 2 Pack"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/10589929572",
+                  "name": "My Tool Store",
+                  "url": "https://mytoolstore.com",
+                  "domain": "toolup-my-tool-store.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/10589929572/policies/7597686884.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/10589929572/policies/7597719652.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/10589929572/policies/7597654116.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/10589929572/policies/7597752420.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://mytoolstore.com/cart/17746152521828:1",
+                "rating": {
+                  "value": 5.0,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 153
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/44732314484936?shop=61715153096",
+                "title": "Milwaukee 48-11-1852 M18\u2122 REDLITHIUM\u2122 XC5.0 Extended Capacity Battery Two Pack",
+                "description": {
+                  "plain": "Milwaukee 48-11-1852 M18\u2122 REDLITHIUM\u2122 XC5.0 Extended Capacity Battery Two Pack Delivers up to 2.5X more run-time, 20% more power and 2X more life than standard lithium-ion batteries. The M18\u2122 REDLITHIUM\u2122 XC 5.0 Extended Capacity Battery Pack features superior pack construction, electronics, and performance to deliver more work per charge and more work over the life of the pack when compared to competitors. The M18\u2122 REDLITHIUM\u2122 XC 5.0 Battery features an advanced design, protecting the pack against harsh jobsite environments. This protection routes water away from the electronics and out of the battery pack, extends run-time and life by minimizing heat, and prevents pack failures from vibration or drops. This unique to Milwaukee\u00ae design also allows the battery to operate in extreme cold weather conditions (below OoF/-18oC). Managed by Milwaukee\u2019s exclusive REDLINK\u2122 Intelligence, the battery features overload protection to prevent you from damaging your cordless power tools in heavy-duty situations, while the discharge protection prevents cell damage. It also provides full system compatibility with 250+ M18\u2122 cordless solutions. Upgrade to the M18\u2122 REDLITHIUM\u2122 XC 5.0 Battery Pack to instantly increase the run-time and durability of your M18\u2122 cordless tools. Features: REDLINK\u2122 Intelligence: provides optimized performance and overload protection using total system communication between tool, battery and charger Best-in-class construction: offers long-lasting performance and durability Fuel gauge Onboard: displays remaining runtime for less downtime on the job All-weather performance: delivers fade free power in extreme jobsite conditions Versatility: powers more than 60 Milwaukee\u00ae M18\u2122 cordless power tools REDLINK INTELLIGENCE: individual cell monitoring - ensures optimal charge and discharge for maximum life"
+                },
+                "url": "https://www.mccallytool.com/products/milwaukee-48-11-1852-m18%E2%84%A2-redlithium%E2%84%A2-xc5-0-extended-capacity-battery-two-pack?variant=44732314484936",
+                "price": {
+                  "amount": 26900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0617/1515/3096/files/milwaukee-m18-redlithium-xc-50ah-battery-2pk-48-11-1852.webp",
+                    "alt_text": "Milwaukee 48-11-1852 M18\u2122 REDLITHIUM\u2122 XC5.0 Extended Capacity Battery Two Pack"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/61715153096",
+                  "name": "McCally Tool and Supply | Industrial Distributor & Repair",
+                  "url": "https://www.mccallytool.com",
+                  "domain": "mccally-tool-and-supply.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/61715153096/policies/26704478408.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/61715153096/policies/26704511176.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/61715153096/policies/26704445640.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/61715153096/policies/26704543944.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.mccallytool.com/cart/44732314484936:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50903789043986?shop=92169732370",
+                "title": "Milwaukee 48-11-1852 M18 REDLITHIUM XC 5.0 Extended Capacity Battery 2 Pack",
+                "description": {
+                  "plain": "Looking for the best way to sell used Milwaukee tools online? Sell your Milwaukee tools or get same-day cash with WeBuyTool.com. INCLUDES: \u2022 (2) M18\u2122 REDLITHIUM\u2122 XC5.0 Extended Capacity Battery Packs FEATURES: \u2022 REDLINK\u2122 Intelligence: Provides optimized performance and overload protection using total system communication between tool, battery and charger \u2022 Best-in-class construction: Offers long-lasting performance and durability \u2022 Fuel gauge onboard: Displays remaining runtime for less downtime on the job \u2022 All-weather performance: Delivers fade free power in extreme jobsite conditions \u2022 Versatility: Powers more than 60 Milwaukee\u00ae M18\u2122 cordless power tools SPECIFICATIONS: \u2022 Battery Warranty: 3 Years Delivers up to 2.5X more run-time, 20% more power and 2X more life than standard lithium-ion batteries. The M18\u2122 REDLITHIUM\u2122 XC 5.0 Extended Capacity Battery Pack features superior pack construction, electronics, and performance to deliver more work per charge and more work over the life of the pack than any battery on the market. The M18\u2122 REDLITHIUM\u2122 XC 5.0 Battery features an advanced design, protecting the pack against harsh jobsite environments. This protection routes water away from the electronics and out of the battery pack, extends run-time and life by minimizing heat, and prevents pack failures from vibration or drops. This unique to Milwaukee\u00ae design also allows the battery to operate in extreme cold weather conditions (below OoF/-18oC). Managed by Milwaukee\u2019s exclusive REDLINK\u2122 Intelligence, the battery features overload protection to prevent you from damaging your cordless power tools in heavy-duty situations, while the discharge protection prevents cell damage. It also provides full system compatibility with 60+ M18\u2122 cordless solutions. Upgrade to the M18\u2122 REDLITHIUM\u2122 XC 5.0 Battery Pack to instantly increase the run-time and durability of your M18\u2122 cordless tools."
+                },
+                "url": "https://webuytool.com/products/milwaukee-48-11-1852-m18-redlithium-xc-5-0-extended-capacity-battery-2-pack?variant=50903789043986",
+                "price": {
+                  "amount": 3300,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Condition",
+                    "label": "new"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0921/6973/2370/files/Milwaukee-48-11-1852_01.jpg",
+                    "alt_text": "Sell your used Milwaukee tools \u2013 Get cash for Milwaukee 48-11-1852 M18 REDLITHIUM XC 5.0 Extended Capacity Battery 2 Pack at WeBuyTool.com"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/92169732370",
+                  "name": "WeBuyTool.Com",
+                  "url": "https://webuytool.com",
+                  "domain": "8t3p6x-ph.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/92169732370/policies/43502436626.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/92169732370/policies/43801215250.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/92169732370/policies/43801346322.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/92169732370/policies/43801411858.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://webuytool.com/cart/50903789043986:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50903789076754?shop=92169732370",
+                "title": "Milwaukee 48-11-1852 M18 REDLITHIUM XC 5.0 Extended Capacity Battery 2 Pack",
+                "description": {
+                  "plain": "Looking for the best way to sell used Milwaukee tools online? Sell your Milwaukee tools or get same-day cash with WeBuyTool.com. INCLUDES: \u2022 (2) M18\u2122 REDLITHIUM\u2122 XC5.0 Extended Capacity Battery Packs FEATURES: \u2022 REDLINK\u2122 Intelligence: Provides optimized performance and overload protection using total system communication between tool, battery and charger \u2022 Best-in-class construction: Offers long-lasting performance and durability \u2022 Fuel gauge onboard: Displays remaining runtime for less downtime on the job \u2022 All-weather performance: Delivers fade free power in extreme jobsite conditions \u2022 Versatility: Powers more than 60 Milwaukee\u00ae M18\u2122 cordless power tools SPECIFICATIONS: \u2022 Battery Warranty: 3 Years Delivers up to 2.5X more run-time, 20% more power and 2X more life than standard lithium-ion batteries. The M18\u2122 REDLITHIUM\u2122 XC 5.0 Extended Capacity Battery Pack features superior pack construction, electronics, and performance to deliver more work per charge and more work over the life of the pack than any battery on the market. The M18\u2122 REDLITHIUM\u2122 XC 5.0 Battery features an advanced design, protecting the pack against harsh jobsite environments. This protection routes water away from the electronics and out of the battery pack, extends run-time and life by minimizing heat, and prevents pack failures from vibration or drops. This unique to Milwaukee\u00ae design also allows the battery to operate in extreme cold weather conditions (below OoF/-18oC). Managed by Milwaukee\u2019s exclusive REDLINK\u2122 Intelligence, the battery features overload protection to prevent you from damaging your cordless power tools in heavy-duty situations, while the discharge protection prevents cell damage. It also provides full system compatibility with 60+ M18\u2122 cordless solutions. Upgrade to the M18\u2122 REDLITHIUM\u2122 XC 5.0 Battery Pack to instantly increase the run-time and durability of your M18\u2122 cordless tools."
+                },
+                "url": "https://webuytool.com/products/milwaukee-48-11-1852-m18-redlithium-xc-5-0-extended-capacity-battery-2-pack?variant=50903789076754",
+                "price": {
+                  "amount": 2400,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Condition",
+                    "label": "used - good"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0921/6973/2370/files/Milwaukee-48-11-1852_01.jpg",
+                    "alt_text": "Sell your used Milwaukee tools \u2013 Get cash for Milwaukee 48-11-1852 M18 REDLITHIUM XC 5.0 Extended Capacity Battery 2 Pack at WeBuyTool.com"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/92169732370",
+                  "name": "WeBuyTool.Com",
+                  "url": "https://webuytool.com",
+                  "domain": "8t3p6x-ph.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/92169732370/policies/43502436626.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/92169732370/policies/43801215250.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/92169732370/policies/43801346322.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/92169732370/policies/43801411858.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://webuytool.com/cart/50903789076754:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 2400,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 26900,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/6db5SXivNov7VDWlFUPCF5",
+            "title": "Milwaukee 48-11-2450 M12 XC5.0 Battery 2-Pack W/ FREE EXTRA 48-11-2450 Battery",
+            "description": {
+              "plain": "High-output lithium-ion battery pack delivering 25% more power and runtime for all Milwaukee M12 cordless tools."
+            },
+            "rating": {
+              "value": 4.9,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 20
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Delivers 25% more power and runs 25% cooler than standard Milwaukee M12 XC batteries, with enhanced durability and all-weather performance."
+              ],
+              "top_features": "Delivers 25% more power for enhanced tool performance\nRuns 25% cooler to reduce heat buildup during extended use\nRedlink Intelligence optimizes performance and provides overload protection\nResistant housing protects against oils, greases, and solvents\nFade-free power and all-weather performance for reliable operation",
+              "tech_specs": "Battery Chemistry: Lithium-ion\nBattery Voltage: 12V\nCapacity: 5.0 Ah\nBattery Weight: 0.95 lbs (per pack)\nCompatibility: Milwaukee M12 tools\nHousing Material: Plastic\nRechargeable: Yes\nManufacturer Warranty: 3 years"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0717/0159/4403/files/48-11-2450-2-48-11-2450_01_515d3d41-9748-47de-a18f-b2f9b22a12ab.jpg",
+                "alt_text": "Milwaukee 48-11-2450 M12 XC5.0 Battery 2-Pack W/ FREE EXTRA 48-11-2450 Battery"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/49795294888227?shop=71701594403",
+                "title": "Milwaukee 48-11-2450 M12 XC5.0 Battery 2-Pack W/ FREE EXTRA 48-11-2450 Battery",
+                "description": {
+                  "plain": "DETAILS: INCLUDES: \u2022 (2) M12 REDLITHIUM\u2122 HIGH OUTPUT\u2122 XC5.0 Battery Pack \u2022 (1) 48-11-2450 M12 REDLITHIUM HIGH OUTPUT XC5.0 Battery Pack FEATURES: \u2022 Delivers 25% more power and runs 25% cooler \u2022 Provides 25% more runtime \u2022 Versatility: Powers all 125+ M12\u2122 cordless solutions \u2022 REDLINK\u2122 Intelligence: Our battery circuitry provides optimized performance and overload protection using total system communication between tool, battery and charger \u2022 Best-in-class construction: Resistant housing designed to provide increased protection against exposure to common oils, greases, and solvents \u2022 All-weather performance: Delivers fade free power in extreme jobsite conditions \u2022 3 Year Warranty SPECIFICATIONS: \u2022 Amp-hour: 5.0 \u2022 Battery Chemistry: Lithium Ion \u2022 Battery Package Count: 1 \u2022 Battery Voltage: 12V \u2022 Color/Finish: Black, Red \u2022 Compatibility: Milwaukee M12 Tools \u2022 Housing Material: Plastic \u2022 Rechargeable: Yes \u2022 Battery Weight (lbs): 0.95 \u2022 Manufacturer Warranty: 3 Years The MILWAUKEE M12 REDLITHIUM\u2122 HIGH OUTPUT\u2122 XC5.0 Battery Pack delivers 25% more power and runs 25% cooler than other Milwaukee M12 REDLITHIUM\u2122 XC battery packs. The increase in power elevates the performance of the entire MILWAUKEE\u00ae M12\u2122 system and drives the next breakthrough in M12 FUEL\u2122. The lithium-ion battery delivers fade-free power and runs substantially cooler through demanding applications, allowing you to push your cordless power tools throughout a wide range of applications. Each battery pack is built for heavy-duty use, runs cooler, and performs in climates below 0\u00b0F/-18\u00b0C. In addition, the M12 REDLITHIUM\u2122 HIGH OUTPUT\u2122 XC5.0 is built with a resistant housing, increasing the protection against exposure to common oils, greases, and solvents found in transportation maintenance and manufacturing environments. The M12 REDLITHIUM\u2122 HIGH OUTPUT\u2122 XC5.0 is fully compatible with 125+ M12\u2122 solutions."
+                },
+                "url": "https://toolup.com/products/milwaukee-48-11-2450-m12-xc5-0-battery-2-pack-w-free-extra-48-11-2450-battery?variant=49795294888227",
+                "price": {
+                  "amount": 18276,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": false
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0717/0159/4403/files/48-11-2450-2-48-11-2450_01_515d3d41-9748-47de-a18f-b2f9b22a12ab.jpg",
+                    "alt_text": "Milwaukee 48-11-2450 M12 XC5.0 Battery 2-Pack W/ FREE EXTRA 48-11-2450 Battery"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/71701594403",
+                  "name": "Toolup",
+                  "url": "https://toolup.com",
+                  "domain": "toolupstore.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/71701594403/policies/38951026979.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/71701594403/policies/38951223587.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/71701594403/policies/38951158051.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/71701594403/policies/38951256355.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://toolup.com/cart/49795294888227:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 20
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 18276,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 18276,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/6ofWAwtuOXsK8ePV3eUT6c",
+            "title": "Milwaukee 48-11-1862 M18 XC6.0 Battery 2Pk w/ FREE 48-11-1850 M18 XC5.0 Battery",
+            "description": {
+              "plain": "High-output, extended-capacity M18 battery packs deliver powerful, reliable performance for Milwaukee cordless tools in demanding jobsite conditions."
+            },
+            "rating": {
+              "value": 5.0,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 8
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Includes two M18 Redlithium High Output XC6.0 batteries and a free M18 Redlithium XC5.0 battery, offering optimized power, overload protection, and extended runtime for a wide range of Milwaukee tools."
+              ],
+              "top_features": "Redlithium Intelligence system provides optimized performance and overload protection for tool, battery, and charger\nExtended runtime and high output for demanding jobsite applications\nPowers over 150 Milwaukee M18 cordless tools for versatile compatibility\nCompact 6.9 inch length allows access into tight spaces and reduces user fatigue\nLED on-foot light enhances visibility in dark work areas",
+              "tech_specs": "Battery Type: M18 Redlithium High Output XC6.0 and XC5.0\nQuantity: 2 packs (1 XC6.0, 1 XC5.0)\nTool Compatibility: Over 150 M18 cordless solutions\nDimensions: Height 3.22 in, Width 3.3 in, Weight 2.3 lbs (XC6.0)\nOperating Temperature: Performance in extreme cold below 0\u00b0F (-18\u00b0C)\nAccess: 6.9 in length for tight spaces"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/1155/2298/files/48-11-1862-48-11-1850_01.jpg",
+                "alt_text": "Milwaukee 48-11-1862 M18 XC6.0 Battery 2Pk w/ FREE 48-11-1850 M18 XC5.0 Battery"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/32931945840724?shop=11552298",
+                "title": "Milwaukee 48-11-1862 M18 XC6.0 Battery 2Pk w/ FREE 48-11-1850 M18 XC5.0 Battery",
+                "description": {
+                  "plain": "DETAILS: INCLUDES: \u2022 (2) M18 REDLITHIUM HIGH OUTPUT XC6.0 Battery Packs \u2022 (1) 48-11-1850 M18 Redlithium XC 5.0 Extended Capacity Battery Pack FEATURES: \u2022 REDLINK\u2122 Intelligence: Provides optimized performance and overload protection using total system communication between tool, battery and charger \u2022 Best-in-class construction: Offers long-lasting performance and the best protection against jobsite conditions \u2022 Fuel gauge onboard: Displays remaining run-time \u2022 Versatility: Powers more than 150 M18\u2122 cordless solutions \u2022 Only 6.9\" in length for access into tight spaces and reduced fatigue \u2022 LED on foot of tool for better lighting in dark spaces \u2022 Compatible with all M18 batteries & tools SPECIFICATIONS: \u2022 Height: 3.22\" \u2022 Width: 3.3\" \u2022 Weight: 2.3\" The M18\u2122 REDLITHIUM\u2122 HIGH OUTPUT\u2122 XC6.0 Battery Pack provides 50% more power and runs 50% cooler vs M18\u2122 REDLITHIUM\u2122 XC battery packs. The optimized combination of size and increased power provides a great solution for the entire range of M18\u2122 products. It delivers fade free power and runs substantially cooler through heavy applications, allowing tradesmen to push their cordless tools harder and longer than ever before. The M18\u2122 REDLITHIUM\u2122 HIGH OUTPUT\u2122 XC6.0 provides increased power in extreme cold weather conditions (below 0F / -18C) and delivers more work per charge, driving corded replacement on the jobsite. The REDLITHIUM\u2122 HIGH OUTPUT\u2122 XC6.0 battery is fully compatible with 150+ M18\u2122 solutions."
+                },
+                "url": "https://www.redtoolstore.com/products/milwaukee-48-11-1862-m18-xc6-0-battery-2pk-w-free-48-11-1850-m18-xc5-0-battery?variant=32931945840724",
+                "price": {
+                  "amount": 28490,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/1155/2298/files/48-11-1862-48-11-1850_01.jpg",
+                    "alt_text": "Milwaukee 48-11-1862 M18 XC6.0 Battery 2Pk w/ FREE 48-11-1850 M18 XC5.0 Battery"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/11552298",
+                  "name": "Red Tool Store",
+                  "url": "https://www.redtoolstore.com",
+                  "domain": "the-milwaukee-store.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/11552298/policies/19122822.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/11552298/policies/19122886.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/11552298/policies/19122758.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/11552298/policies/14308343892.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.redtoolstore.com/cart/32931945840724:1",
+                "rating": {
+                  "value": 5.0,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 8
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 28490,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 28490,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/6MnqCW8ibM1PVUnVGbfnHB",
+            "title": "Milwaukee 48-11-2450 M12\u2122 REDLITHIUM\u2122 High Output XC5.0 Battery Pack",
+            "description": {
+              "plain": "High-output lithium-ion battery pack delivering 25% more power and cooler runtime for demanding M12 cordless tools."
+            },
+            "rating": {
+              "value": 4.9,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 50
+            },
+            "options": [
+              {
+                "name": "Mpn",
+                "values": [
+                  {
+                    "label": "48-11-2450"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Delivers 25% more power and runs 25% cooler than standard M12 REDLITHIUM XC batteries, with enhanced protection against oils and solvents."
+              ],
+              "top_features": "Delivers 25% more power for enhanced tool performance in demanding tasks\nRuns 25% cooler to reduce heat buildup during extended use\nRedLink Intelligence provides optimized performance and overload protection via system communication\nResistant housing increases protection against oils, greases, and solvents\nAll-weather performance ensures fade-free power in extreme jobsite conditions",
+              "tech_specs": "Battery Type: 12V lithium-ion\nCapacity: 5 Ah\nBattery Line: High Output\nSystem Compatibility: M12\nWarranty: 3-year limited\nDimensions: 3.4 in (L) x 4.3 in (H) x 2.6 in (W)\nWeight: 0.95 lb"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0615/2706/4765/products/Milwaukee_48-11-2450.webp",
+                "alt_text": "Milwaukee 48-11-2450 M12\u2122 REDLITHIUM\u2122 HIGH OUTPUT\u2122 XC5.0 Battery Pack"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/42661401886909?shop=61527064765",
+                "title": "Milwaukee 48-11-2450 M12\u2122 REDLITHIUM\u2122 High Output XC5.0 Battery Pack",
+                "description": {
+                  "plain": "Milwaukee 48-11-2450 M12\u2122 REDLITHIUM\u2122 HIGH OUTPUT\u2122 XC5.0 Battery Pack Our M12 REDLITHIUM\u2122 HIGH OUTPUT\u2122 XC5.0 Battery Pack delivers 25% more power and runs 25% cooler than our other M12 REDLITHIUM\u2122 XC battery packs. The increase in power elevates the performance of the entire M12\u2122 system and drives the next breakthrough in M12 FUEL\u2122. The lithium-ion battery delivers fade-free power and runs substantially cooler through demanding applications, allowing you to push your cordless power tools throughout a wide range of applications. Each battery pack is built for heavy-duty use, runs cooler, and performs in climates below 0\u00b0F/-18\u00b0C. In addition, our M12 REDLITHIUM\u2122 HIGH OUTPUT\u2122 XC5.0 is built with a resistant housing, increasing the protection against exposure to common oils, greases, and solvents found in transportation maintenance and manufacturing environments. Our M12 REDLITHIUM\u2122 HIGH OUTPUT\u2122 XC5.0 is fully compatible with 125+ M12\u2122 solutions. INCLUDES (1) M12\u2122 REDLITHIUM\u2122 HIGH OUTPUT\u2122 XC5.0 Battery Pack (48-11-2450) KEY FEATURES Delivers 25% more power and runs 25% cooler Provides 25% more runtime Versatility: Powers all 125+ M12\u2122 cordless solutions REDLINK\u2122 Intelligence: Our battery circuitry provides optimized performance and overload protection using total system communication between tool, battery and charger Best-in-class construction: Resistant housing designed to provide increased protection against exposure to common oils, greases, and solvents All-weather performance: Delivers fade free power in extreme jobsite conditions 3 Year Warranty PRODUCT SPECIFICATIONS Battery Type: 12 Volt Lithium Ion Amp Hour: 5 Ah Battery Line: HIGH OUTPUT \u2122 Battery System: M12 Voltage: 12V Warranty: 3 Year Limited Warranty Length: 3.4 in Weight: 0.95 lb Height: 4.3 in Width: 2.6 in"
+                },
+                "url": "https://waysource.com/products/milwaukee-48-11-2450-m12%E2%84%A2-redlithium%E2%84%A2-high-output%E2%84%A2-xc5-0-battery-pack?variant=42661401886909",
+                "price": {
+                  "amount": 6599,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Mpn",
+                    "label": "48-11-2450"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0615/2706/4765/products/Milwaukee_48-11-2450.webp",
+                    "alt_text": "Milwaukee 48-11-2450 M12\u2122 REDLITHIUM\u2122 HIGH OUTPUT\u2122 XC5.0 Battery Pack"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/61527064765",
+                  "name": "Way Source",
+                  "url": "https://waysource.com",
+                  "domain": "safetysourcesupply.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/61527064765/policies/25683919037.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/61527064765/policies/25683951805.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/61527064765/policies/25683886269.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/61527064765/policies/25683984573.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://waysource.com/cart/42661401886909:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 50
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 6599,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 6599,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/5n7lM6o5cRzBRzPAhiDLJK",
+            "title": "48V 105Ah GEN3 Eco Thru Hole Battery Individual",
+            "description": {
+              "plain": "High-performance 48V 105Ah lithium battery bundle delivers more power, longer run times, and lighter weight for golf carts and vehicles."
+            },
+            "rating": {
+              "value": 4.9,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 58
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Provides up to 45% more range and higher output than competitors with a lightweight, maintenance-free lithium design."
+              ],
+              "top_features": "Higher output for increased power and longer run times\n600A max discharge for short bursts and 550A max for 10 seconds\n250A continuous discharge for extended use\n5x lighter than lead acid for easier installation and handling\nProprietary BMS ensures compatibility with motor controller upgrades",
+              "tech_specs": "Voltage: 48V\nCapacity: 105Ah\nMax Discharge Current: 600A (5 sec), 550A (10 sec), 250A (continuous)\nWeight: 5x lighter than lead acid\nWarranty: 10 years\nCompatibility: EZGO TXT, Express, RXV, Metal Tray, Yamaha G19, G22 (not compatible with factory lithium carts)"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0587/1114/6595/files/fd1fe9ee-00cf-4264-953f-e702fc31744a.jpg",
+                "alt_text": "48V 105Ah GEN3 Eco Thru Hole Battery Individual"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/42951593656419?shop=58711146595",
+                "title": "48V 105Ah GEN3 Eco Thru Hole Battery Individual",
+                "description": {
+                  "plain": "More power, zero maintenance The Eco Battery lithium bundle gives your cart the performance upgrade in torque and speed you've been looking for. Why stop there? Your cart won\u2019t. Upgrading your cart batteries to lithium can also increase your drive time up to 40-45 miles. With higher max and continuous amp output than its competitors, the Eco LifePo4 Battery is a top choice to pair with your high performance upgrades. Top Features Higher output for more power and longer run times: 600A max (5 sec), 550A max (10 sec), and 250A continuous discharge 5x lighter than lead acid 10 Year Warranty, backed by Eco's best in class Customer Support Easy Install, this battery bundle comes with everything you need to replace your battery Proprietary BMS (Battery Management System) guarantees it will work with your motor & controller upgrades Hookup 2 Batteries in parallel in order to maximize range, up to 90 miles! Note: EZGO TXT, Express, RXV (Metal Tray), and Yamaha G19/G22 should order the Eco 48V 105Ah Skinny Battery Individual. WILL NOT WORK WITH CARTS THAT HAVE A FACTORY LITHIUM BATTERY. 51V 105Ah Thru Hole Datasheet Eco Battery User Manual"
+                },
+                "url": "https://extremekartz.com/products/48v-105ah-eco-thru-hole-battery-individual?variant=42951593656419",
+                "price": {
+                  "amount": 220000,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0587/1114/6595/files/fd1fe9ee-00cf-4264-953f-e702fc31744a.jpg",
+                    "alt_text": "48V 105Ah GEN3 Eco Thru Hole Battery Individual"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/58711146595",
+                  "name": "Extreme Kartz",
+                  "url": "https://extremekartz.com",
+                  "domain": "a6460a-6f.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/58711146595/policies/29036085347.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/58711146595/policies/29036118115.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/58711146595/policies/29005348963.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://extremekartz.com/cart/42951593656419:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 58
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 220000,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 220000,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/66awGnU4jg9nNGZLmDzx7r",
+            "title": "WestCo WCP14 Platinum AGM Battery for BMW Motorcycles",
+            "description": {
+              "plain": "A sealed, high-performance AGM battery engineered specifically for BMW motorcycles, offering superior reliability and power."
+            },
+            "rating": {
+              "value": 5.0,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 6
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Sealed, spill-proof AGM battery designed for BMW motorcycles with superior CCA performance and extended shelf life."
+              ],
+              "top_features": "Sealed, spill-proof and leak-resistant design ensures long-term reliability and safety\nAdvanced AGM technology provides consistent power and durability in harsh conditions\nSuperior cold cranking amps (CCA) deliver strong starting power in cold weather\nEngineered to withstand high vibration and extreme temperatures for extended lifespan\nCompetitive pricing with extended shelf life and 18-month free replacement warranty",
+              "tech_specs": "Battery Type: AGM (Absorbent Glass Mat)\nVoltage: 12 V\nDimensions: 5 7/8 x 3 7/16 x 5 3/4 in\nCCA: 220\nFits: F650GS2, F800S, F800ST, F800GS, F800R, R1200R, R1200S, R1200GS ADV, R1200GS WC, R1200ST, R1200GS ADV WC, R1200ST, R1200GS, K1200S, K1200R, K1200R SPORT, K1300S, K1300R\nWarranty: 18 months free replacement"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0017/8765/8299/products/e084e76ba4202c56fccc3cf5901fc413.jpg",
+                "alt_text": "WestCo WCP14 Platinum AGM Battery for BMW Motorcycles"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/12733868277819?shop=1787658299",
+                "title": "WestCo WCP14 Platinum AGM Battery for BMW Motorcycles",
+                "description": {
+                  "plain": "Finally, a sealed battery that is built specifically for your BMW! Unlike most aftermarket attempts, this battery has enough power to run your bike and the ABS computer. WestCo Platinum Series - When only the best will do! -Superior CCA performance for more cranking power when you need it -Built to stringent quality control standards to ensure longest life -Advanced AGM technology -Engineered to perform in the harshest conditions -Better reliability over time -Competitively priced -Spill proof and leak resistant design -Higher vibration resistance -Standard shipping applies, not hazardous -Extended shelf life -Made in USA 18 month free replacement warranty Fits: F650GS2, F800S, F800ST, F800GS, F800R, R1200R, R1200S, R1200GS/ADV, R1200GS WC, R1200GS ADV WC, R1200ST, R nineT, K1200S, K1200R, K1200R Sport, K1300S, K1300R. Dimensions 5 7/8\" x 3 7/16\" x 5 3/4\", CA 220 WestCo WCP14 Platinum AGM Battery for BMW Motorcycles Produced by WestCo of USA"
+                },
+                "url": "https://www.shopbmwmotorcycle.com/products/westco-wcp14-platinum-agm-battery-for-bmw-motorcycles?variant=12733868277819",
+                "price": {
+                  "amount": 12995,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0017/8765/8299/products/e084e76ba4202c56fccc3cf5901fc413.jpg",
+                    "alt_text": "WestCo WCP14 Platinum AGM Battery for BMW Motorcycles"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/1787658299",
+                  "name": "Sierra BMW Motorcycle",
+                  "url": "https://www.shopbmwmotorcycle.com",
+                  "domain": "sierra-bmw-motorcycle.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/1787658299/policies/2566586427.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/1787658299/policies/2566619195.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/1787658299/policies/2566553659.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/1787658299/policies/13534199862.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.shopbmwmotorcycle.com/cart/12733868277819:1",
+                "rating": {
+                  "value": 5.0,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 6
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 12995,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 12995,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/5SFiAWDRiVr3NUIO1YuOdC",
+            "title": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER",
+            "description": {
+              "plain": "High-capacity 5120Wh lithium iron phosphate battery designed for F5000LFP systems, offering reliable backup power and fast charging."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "5120Wh capacity in a contained-detachable design for scalable, safe, and flexible backup power solutions."
+              ],
+              "top_features": "5120Wh high-capacity storage enables extended backup power for critical loads\nLithium iron phosphate (LiFePO4) technology ensures long cycle life and enhanced safety\nContained-detachable design allows for easy installation and maintenance\nFast charging capability reduces downtime and supports rapid power replenishment\nCompatible with F5000LFP systems for seamless integration",
+              "tech_specs": "Battery Type: Lithium iron phosphate (LiFePO4)\nCapacity: 5120Wh\nVoltage: 48V\nBattery Size: Built-in\nConnector Type: Contained-detachable, Contained-undetachable\nMaterial: Plastic"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0509/5263/4556/files/FP5000-48V.jpg",
+                "alt_text": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/46143252529340?shop=50952634556",
+                "title": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER",
+                "description": {
+                  "plain": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP 3+2 Years Warranty!"
+                },
+                "url": "https://www.pecron.com/products/pecron-fp5000-48v-expansion-battery-3840wh-for-f5000lfp-pre-order?variant=46143252529340",
+                "price": {
+                  "amount": 139900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0509/5263/4556/files/FP5000-48V.jpg",
+                    "alt_text": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/50952634556",
+                  "name": "PECRON LLC",
+                  "url": "https://www.pecron.com",
+                  "domain": "pecron.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032285884.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032318652.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032253116.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032351420.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.pecron.com/cart/46143252529340:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/46143252562108?shop=50952634556",
+                "title": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER",
+                "description": {
+                  "plain": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP 3+2 Years Warranty!"
+                },
+                "url": "https://www.pecron.com/products/pecron-fp5000-48v-expansion-battery-3840wh-for-f5000lfp-pre-order?variant=46143252562108",
+                "price": {
+                  "amount": 339800,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0509/5263/4556/files/1600x1600-2_5_1b98446f-5677-4dd4-9e5b-9e3ff3dbbb1d.jpg",
+                    "alt_text": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/50952634556",
+                  "name": "PECRON LLC",
+                  "url": "https://www.pecron.com",
+                  "domain": "pecron.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032285884.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032318652.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032253116.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032351420.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.pecron.com/cart/46143252562108:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/46143252594876?shop=50952634556",
+                "title": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER",
+                "description": {
+                  "plain": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP 3+2 Years Warranty!"
+                },
+                "url": "https://www.pecron.com/products/pecron-fp5000-48v-expansion-battery-3840wh-for-f5000lfp-pre-order?variant=46143252594876",
+                "price": {
+                  "amount": 479700,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0509/5263/4556/files/1600x1600-2_6_18131630-77d4-4f7a-b9b6-25c8adc65191.jpg",
+                    "alt_text": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/50952634556",
+                  "name": "PECRON LLC",
+                  "url": "https://www.pecron.com",
+                  "domain": "pecron.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032285884.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032318652.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032253116.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032351420.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.pecron.com/cart/46143252594876:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/46143252627644?shop=50952634556",
+                "title": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER",
+                "description": {
+                  "plain": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP 3+2 Years Warranty!"
+                },
+                "url": "https://www.pecron.com/products/pecron-fp5000-48v-expansion-battery-3840wh-for-f5000lfp-pre-order?variant=46143252627644",
+                "price": {
+                  "amount": 619600,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0509/5263/4556/files/1600x1600-2_7_f0fa5fcd-0664-46f4-8b94-5cab0667647d.jpg",
+                    "alt_text": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/50952634556",
+                  "name": "PECRON LLC",
+                  "url": "https://www.pecron.com",
+                  "domain": "pecron.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032285884.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032318652.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032253116.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032351420.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.pecron.com/cart/46143252627644:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/46143252660412?shop=50952634556",
+                "title": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER",
+                "description": {
+                  "plain": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP 3+2 Years Warranty!"
+                },
+                "url": "https://www.pecron.com/products/pecron-fp5000-48v-expansion-battery-3840wh-for-f5000lfp-pre-order?variant=46143252660412",
+                "price": {
+                  "amount": 759500,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0509/5263/4556/files/1600x1600-2_8.jpg",
+                    "alt_text": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/50952634556",
+                  "name": "PECRON LLC",
+                  "url": "https://www.pecron.com",
+                  "domain": "pecron.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032285884.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032318652.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032253116.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032351420.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.pecron.com/cart/46143252660412:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/46143252693180?shop=50952634556",
+                "title": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER",
+                "description": {
+                  "plain": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP 3+2 Years Warranty!"
+                },
+                "url": "https://www.pecron.com/products/pecron-fp5000-48v-expansion-battery-3840wh-for-f5000lfp-pre-order?variant=46143252693180",
+                "price": {
+                  "amount": 899400,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0509/5263/4556/files/1600x1600-2_9_d2e09522-b62a-4468-bb4b-eea289e07842.jpg",
+                    "alt_text": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/50952634556",
+                  "name": "PECRON LLC",
+                  "url": "https://www.pecron.com",
+                  "domain": "pecron.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032285884.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032318652.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032253116.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032351420.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.pecron.com/cart/46143252693180:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/46143252725948?shop=50952634556",
+                "title": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER",
+                "description": {
+                  "plain": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP 3+2 Years Warranty!"
+                },
+                "url": "https://www.pecron.com/products/pecron-fp5000-48v-expansion-battery-3840wh-for-f5000lfp-pre-order?variant=46143252725948",
+                "price": {
+                  "amount": 1039300,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0509/5263/4556/files/1600x1600-2_10_a0a7b6e2-1848-4f76-984a-6234bb5e7f40.jpg",
+                    "alt_text": "PECRON FP5000-48V Expansion Battery 5120Wh for F5000LFP PRE-ORDER"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/50952634556",
+                  "name": "PECRON LLC",
+                  "url": "https://www.pecron.com",
+                  "domain": "pecron.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032285884.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032318652.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032253116.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/50952634556/policies/22032351420.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.pecron.com/cart/46143252725948:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 139900,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 1039300,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/1GJ7tb9BhWoQLE4BjjSjEm",
+            "title": "12 Volt 5 Ah Battery for the Razor MX125 Dirt Rocket",
+            "description": {
+              "plain": "A sealed, maintenance-free 12V 5Ah battery designed for reliable power and easy installation in the Razor MX125 Dirt Rocket."
+            },
+            "rating": {
+              "value": 4.8,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 4
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Non-spillable, sealed lead acid battery with explosion-proof installation and deep discharge recovery for the Razor MX125 Dirt Rocket."
+              ],
+              "top_features": "Sealed and maintenance-free operation ensures hassle-free replacement and long-term reliability\nNon-spillable design enhances safety during installation and use\nSafety valve and explosion-proof installation provide added protection\nExceptional deep discharge recovery performance maintains battery health\nFlexible design allows multiple installation positions for user convenience",
+              "tech_specs": "Voltage: 12 V\nCapacity: 5 Ah\nBattery Type: Sealed lead acid (SLA)\nColor: Black\nManufacturer Type: Aftermarket\nWarranty: 1 year"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0627/6943/0690/files/x97-7331.jpg",
+                "alt_text": "12 Volt 5 Ah Battery for the Razor MX125 Dirt Rocket with visible red and white wires, close-up views of connectors, and a compact, sealed black box design."
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/44337860378786?shop=62769430690",
+                "title": "12 Volt 5 Ah Battery for the Razor MX125 Dirt Rocket",
+                "description": {
+                  "plain": "If the original battery on your Razor refuse to hold a charge, then Monster Scooter Parts is here to help. We offer this superb little 12 volt 5 Ah battery pack for the Razor MX125 Dirt Rocket to get that little dirt bike running its best. Sealed and maintenance-free operation. Non-spillable design Safety valve explosion-proof installation. High quality and reliability Exceptional deep discharge recovery performance Low self-discharge characteristic. Flexible design for multiple installation positions. Why buy replacement Razor batteries from Monster Scooter Parts? Monster Scooter Parts sells high quality sealed lead acid (SLA) batteries at affordable prices. Our battery packs use batteries from Universal Power Group (UPG), a leading supplier of battery and power related products in the United States for over 40 years. Based in Coppell, TX, UPG provides the OEM sealed lead batteries in critical applications such as medical mobility devices and equipment. If these batteries can meet the high standards set by the medical equipment manufacturers, you can be assured that they are of a higher quality than the batteries provided by the scooter manufacturers, Amazon dealers, or eBay sellers. All of our battery packs are backed by a one year warranty. Compare our batteries to the shoddy, cheap, and unreliable batteries sold by our competition and you will see why Monster Scooter Parts is the right choice. Universal Power Group (UPG): UB1250 Razor: W20136401003"
+                },
+                "url": "https://monsterscooterparts.com/products/12-volt-5-ah-battery-pack-for-the-razor-mx125?variant=44337860378786",
+                "price": {
+                  "amount": 2499,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0627/6943/0690/files/x97-7331.jpg",
+                    "alt_text": "12 Volt 5 Ah Battery for the Razor MX125 Dirt Rocket with visible red and white wires, close-up views of connectors, and a compact, sealed black box design."
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/62769430690",
+                  "name": "Monster Scooter Parts",
+                  "url": "https://monsterscooterparts.com",
+                  "domain": "02f994-4.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/62769430690/policies/27270774946.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/62769430690/policies/27270807714.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/62769430690/policies/27270742178.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/62769430690/policies/27270840482.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://monsterscooterparts.com/cart/44337860378786:1",
+                "rating": {
+                  "value": 4.75,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 4
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 2499,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 2499,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/1E3tQG0OTpwZ0Tdp19naT5",
+            "title": "PowerHobby 2s 5200mAh 50C EC3 Battery",
+            "description": {
+              "plain": "High-performance 2S 5200mAh LiPo battery with 50C discharge rate for demanding RC applications."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "50C discharge rate delivers exceptional power output for high-performance RC vehicles."
+              ],
+              "top_features": "50C discharge rate enables rapid power delivery for demanding RC motors\n5200mAh capacity supports extended run times and high current draws\nRechargeable lithium polymer technology ensures lightweight durability\nEC3 plug provides secure and easy connection to compatible RC equipment\nHardcase packaging protects battery during transport and storage",
+              "tech_specs": "Battery Type: 2S LiPo\nVoltage: 7.4V\nCapacity: 5200mAh\nDischarge Rate: 50C\nPlug Type: EC3\nColor: Black"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0669/8408/3749/products/PHB2S5200MAH50CEC3.jpg",
+                "alt_text": "PowerHobby 2s 5200mAh 50C EC3 Battery"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/44461298286885?shop=66984083749",
+                "title": "PowerHobby 2s 5200mAh 50C EC3 Battery",
+                "description": {
+                  "plain": "Power Hobby 2S 7.4v 5200mAh 50C LiPo Hardcase Battery Pack w/ EC3 Plug"
+                },
+                "url": "https://www.edsrc.com/products/powerhobby-2s-5200mah-50c-ec3-battery?variant=44461298286885",
+                "price": {
+                  "amount": 4499,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0669/8408/3749/products/PHB2S5200MAH50CEC3.jpg",
+                    "alt_text": "PowerHobby 2s 5200mAh 50C EC3 Battery"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/66984083749",
+                  "name": "Eds RC",
+                  "url": "https://www.edsrc.com",
+                  "domain": "edsrc-6484.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/66984083749/policies/29882122533.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/66984083749/policies/29882155301.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/66984083749/policies/29882089765.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/66984083749/policies/29882188069.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.edsrc.com/cart/44461298286885:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 4499,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 4499,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/7I9wk1uoIqv3bvi84HFefy",
+            "title": "MK Battery Deka DD5300 5.3kWh 100Ah 48V Lithium Iron Phospate Battery Module",
+            "description": {
+              "plain": "A modular 48V 5.3kWh lithium iron phosphate battery module designed for high power density, safety, and flexible installation."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "First industry module with dual voltage usage and flexible installation options for both low and high voltage applications."
+              ],
+              "top_features": "High power density modular design enables efficient energy storage in compact spaces\nLithium iron phosphate (LiFePO4) technology ensures enhanced safety and long cycle life\nProgrammable BMS provides advanced monitoring and protection for battery health\nDual voltage compatibility allows flexible use in both low and high voltage systems\nStackable and wall-mountable for versatile installation options",
+              "tech_specs": "Nominal Capacity: 5.3 kWh\nVoltage: 48V\nBattery Technology: Lithium iron phosphate (LiFePO4)\nBattery Type: Rechargeable\nColor: Black\nPattern: Solid"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0549/1857/8433/files/480-0030_1.default.jpg",
+                "alt_text": "MK Battery Deka DD5300 5.3kWh 100Ah 48V Lithium Iron Phospate Battery Module"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/47571872940289?shop=54918578433",
+                "title": "MK Battery Deka DD5300 5.3kWh 100Ah 48V Lithium Iron Phospate Battery Module",
+                "description": {
+                  "plain": "MK Battery, DEKA Duration, DD5300 5.3kWh/48V Nominal LFP Battery Module, DD5300 LiFePO4 Cells Established and Safe Lithium-Iron Technology High Power Density Modular for Less Space, Lighter Weight and Scalability Programmable BMS Increased Industry first for Dual Usage Low & High Voltage Applications Flexible Installation Wall Mount or Stackable Floor Mount Modules"
+                },
+                "url": "https://ware.solar/products/mk-battery-deka-dd5300-5-3kwh-100ah-48v-lithium-iron-phospate-battery-module?variant=47571872940289",
+                "price": {
+                  "amount": 225739,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0549/1857/8433/files/480-0030_1.default.jpg",
+                    "alt_text": "MK Battery Deka DD5300 5.3kWh 100Ah 48V Lithium Iron Phospate Battery Module"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/54918578433",
+                  "name": "WARE Solar",
+                  "url": "https://ware.solar",
+                  "domain": "we-are-renewable-energy.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/54918578433/policies/27905491201.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/54918578433/policies/27905523969.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/54918578433/policies/27905458433.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/54918578433/policies/27905556737.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://ware.solar/cart/47571872940289:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 225739,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 225739,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "messages": []
+      }
+    }
+  }
+}

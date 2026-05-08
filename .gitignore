@@ -1,0 +1,6 @@
+chrome-profile/
+data/submissions/
+data/chatgpt/
+__pycache__/
+.DS_Store
+*.pyc

@@ -1,0 +1,1464 @@
+{
+  "query": "ginger and garlic drink",
+  "fetched_at": 1778264721.227656,
+  "count": 10,
+  "products": [
+    {
+      "id": "gid://shopify/p/4UO2b471kZPVDzv2eZr31k",
+      "title": "3plus1 Ginger Garlic & Lemon Natural Drink",
+      "image_url": "https://cdn.shopify.com/s/files/1/1789/9441/files/tankcard_00_1.jpg",
+      "seller_name": "Yue Hwa Online Shop",
+      "seller_url": "https://en.shop.yuehwa.com",
+      "price_min": 128.0,
+      "price_max": 128.0,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://en.shop.yuehwa.com/cart/40545276100707:1",
+      "rating": 5.0,
+      "rating_count": 1
+    },
+    {
+      "id": "gid://shopify/p/6AMXgJxwb8z1zp1UOyfFmu",
+      "title": "Tong Xue Ling (Ginger Garlic Lemon Juice) and Products",
+      "image_url": "https://cdn.shopify.com/s/files/1/0676/9108/6003/files/gbt_black_garlic.jpg",
+      "seller_name": "Shun Dat ",
+      "seller_url": "https://www.shundat.com",
+      "price_min": 32.0,
+      "price_max": 39.0,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://www.shundat.com/cart/44041706111155:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/4oj1iws1nUfh5PjMwnQQ4T",
+      "title": "Pure Apple Cider Vinegar Drink with Ginger and Garlic",
+      "image_url": "https://cdn.shopify.com/s/files/1/0532/0061/7644/files/AppleCiderVinegarwithGinger_Garlic-FRONT.jpg",
+      "seller_name": "Aarshaveda",
+      "seller_url": "https://aarshaveda.com",
+      "price_min": 270.0,
+      "price_max": 270.0,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://aarshaveda.com/cart/42550857892012:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/4oIk83ArFTRpEm2yy1SEbl",
+      "title": "Ginger & Mint - 500ml [NO ADDED SUGAR]",
+      "image_url": "https://cdn.shopify.com/s/files/1/0573/5006/2128/files/Mint_500_ML_NS.png",
+      "seller_name": "Jinger drinks ",
+      "seller_url": "https://jingerdrinks.com",
+      "price_min": 34.0,
+      "price_max": 49.0,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://jingerdrinks.com/cart/40956220506160:1",
+      "rating": 5.0,
+      "rating_count": 11
+    },
+    {
+      "id": "gid://shopify/p/101RIy36Jrz0C4hEr4O22i",
+      "title": "Ginger & Turmeric 1 Litre",
+      "image_url": "https://cdn.shopify.com/s/files/1/0573/5006/2128/files/TUMERIC_1_Litre_3.png",
+      "seller_name": "Jinger drinks ",
+      "seller_url": "https://jingerdrinks.com",
+      "price_min": 63.0,
+      "price_max": 84.0,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://jingerdrinks.com/cart/40949120794672:1",
+      "rating": 5.0,
+      "rating_count": 103
+    },
+    {
+      "id": "gid://shopify/p/4TpkRldzo1WKSzgBOb8Vcy",
+      "title": "Natural Ginger Brew",
+      "image_url": "https://cdn.shopify.com/s/files/1/0884/9834/0004/files/Ginger-Brew-with-box.png",
+      "seller_name": "Al MALAKY FOOD STUFF PACKING L.L.C",
+      "seller_url": "https://www.almalaky.com",
+      "price_min": 47.0,
+      "price_max": 188.0,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://www.almalaky.com/cart/50778603618468:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/3kY5kFRtnSkHH9GHTf8uIt",
+      "title": "Ginger, Ginseng, Turmeric Shot & Ginger Brew \u2013 54 pcs",
+      "image_url": "https://cdn.shopify.com/s/files/1/0884/9834/0004/files/Collections2.png",
+      "seller_name": "Al MALAKY FOOD STUFF PACKING L.L.C",
+      "seller_url": "https://www.almalaky.com",
+      "price_min": 439.0,
+      "price_max": 439.0,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://www.almalaky.com/cart/50778656571556:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/6uGhpWFjb2NnXxJ9zpGcf2",
+      "title": "Ginger Shot & Ginger Brew \u2013 38 pcs",
+      "image_url": "https://cdn.shopify.com/s/files/1/0884/9834/0004/files/2Shot-1Brew.png",
+      "seller_name": "Al MALAKY FOOD STUFF PACKING L.L.C",
+      "seller_url": "https://www.almalaky.com",
+      "price_min": 259.0,
+      "price_max": 259.0,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://www.almalaky.com/cart/50778630553764:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/64DT9xYQ77wlVBcTCHbTWJ",
+      "title": "10 Ginger & Turmeric Tea",
+      "image_url": "https://cdn.shopify.com/s/files/1/0573/5006/2128/files/TEAGINGERANDTUMERIC10_44974-L.jpg",
+      "seller_name": "Jinger drinks ",
+      "seller_url": "https://jingerdrinks.com",
+      "price_min": 13.0,
+      "price_max": 21.0,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://jingerdrinks.com/cart/53619181420917:1",
+      "rating": 4.9,
+      "rating_count": 16
+    },
+    {
+      "id": "gid://shopify/p/aLxT1zdOpnJWplvbHMKRk",
+      "title": "Ginger Drinking Vinegar",
+      "image_url": "https://cdn.shopify.com/s/files/1/0644/6815/6668/files/stone-hollow-farmstead-ginger-drinking-vinegar-shf-food-in-jars-default-title-37503933612284.jpg",
+      "seller_name": "Stone Hollow Farmstead",
+      "seller_url": "https://www.stonehollowfarmstead.com",
+      "price_min": 18.5,
+      "price_max": 18.5,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://www.stonehollowfarmstead.com/cart/43091544015100:1",
+      "rating": null,
+      "rating_count": null
+    }
+  ],
+  "raw": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "result": {
+      "structuredContent": {
+        "ucp": {
+          "version": "2026-04-08",
+          "capabilities": {
+            "dev.ucp.shopping.catalog.search": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://ucp.dev/2026-04-08/specification/catalog",
+                "schema": "https://ucp.dev/2026-04-08/schemas/shopping/catalog_search.json"
+              }
+            ],
+            "dev.ucp.shopping.catalog.lookup": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://ucp.dev/2026-04-08/specification/catalog",
+                "schema": "https://ucp.dev/2026-04-08/schemas/shopping/catalog_lookup.json"
+              }
+            ],
+            "dev.shopify.catalog.global": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://shopify.dev/docs/agents/catalog/global-catalog",
+                "schema": "https://shopify.dev/ucp/schemas/2026-04-08/shopify_catalog_global.json",
+                "extends": [
+                  "dev.ucp.shopping.catalog.search",
+                  "dev.ucp.shopping.catalog.lookup"
+                ],
+                "requires": {
+                  "protocol": {
+                    "min": "2026-04-08"
+                  }
+                }
+              }
+            ]
+          },
+          "status": "success"
+        },
+        "products": [
+          {
+            "id": "gid://shopify/p/4UO2b471kZPVDzv2eZr31k",
+            "title": "3plus1 Ginger Garlic & Lemon Natural Drink",
+            "description": {
+              "plain": "A natural drink blend of ginger, garlic, lemon, and fruit vinegar for immune support, digestion, and overall wellness."
+            },
+            "rating": {
+              "value": 5.0,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 1
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Combines three natural juices and fruit vinegar in a gentle, additive-free formula inspired by traditional Chinese medicine."
+              ],
+              "top_features": "Contains ginger, garlic, and lemon for natural immune support and anti-inflammatory benefits\nFermented to reduce irritating properties, making it gentle on the stomach\nNo additives, preservatives, artificial colors, or flavors for a pure natural taste\nSupports digestion, metabolism, and healthy skin\nSuitable for daily consumption and easy to adjust serving size based on individual needs",
+              "tech_specs": "Serving Size: 50 ml per bottle\nPackaging: 6 bottles per box\nKey Ingredients: Water, monk fruit, vinegar, garlic, ginger, lemon, millet sprout, malt, polydextrose\nOrigin: China\nDietary Preferences: No preservatives, no artificial colors, no artificial flavors, vegetarian"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/1789/9441/files/tankcard_00_1.jpg",
+                "alt_text": "3plus1 Ginger Garlic & Lemon Natural Drink"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/40545276100707?shop=17899441",
+                "title": "3plus1 Ginger Garlic & Lemon Natural Drink",
+                "description": {
+                  "plain": "50ml x 6Bottles / Box Suggested Directions: Take one bottle 1-2 time(s) daily. Maximum 3 servings (3 bottles x 50ml) a day. Shake before drinking When to consume: Base on your own personal physique, life and eating habits, adjust the drinking time according to your own needs, and you can get more characteristic benefits. Drinking before breakfast helps to speed up gastrointestinal motility and promote metabolism; Drinking in the afternoon helps to enhance digestion, eliminate stagnation and aid detoxification, and is good for anti-fatigue; Drinking before bedtime can help relieve depression and fall asleep, keep body fit and lose weight, and beautify the skin. *Best served chilled Cautions: This product uses nature plants as raw materials, sedimentation is a natural phenomenon. Storage Condition: Keep in cool, ventilated and dry place. Pure natural with no additives Production strictly supervised under HACCP food manufacturer"
+                },
+                "url": "https://en.shop.yuehwa.com/products/3plus1-ginger-garlic-lemon-natural-drink?variant=40545276100707",
+                "price": {
+                  "amount": 12800,
+                  "currency": "HKD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/1789/9441/files/tankcard_00_1.jpg",
+                    "alt_text": "3plus1 Ginger Garlic & Lemon Natural Drink"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/17899441",
+                  "name": "Yue Hwa Online Shop",
+                  "url": "https://en.shop.yuehwa.com",
+                  "domain": "yue-hwa.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/17899441/policies/36415495.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/17899441/policies/36415559.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/17899441/policies/36415431.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/17899441/policies/14350942307.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://en.shop.yuehwa.com/cart/40545276100707:1",
+                "rating": {
+                  "value": 5.0,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 1
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/52506588217707?shop=64084246682",
+                "title": "3plus1 Ginger Garlic & Lemon Natural Drink",
+                "description": {
+                  "plain": "50ml x 6Bottles / Box Suggested Directions: Take one bottle 1-2 time(s) daily. Maximum 3 servings (3 bottles x 50ml) a day. Shake before drinking When to consume: Base on your own personal physique, life and eating habits, adjust the drinking time according to your own needs, and you can get more characteristic benefits. Drinking before breakfast helps to speed up gastrointestinal motility and promote metabolism; Drinking in the afternoon helps to enhance digestion, eliminate stagnation and aid detoxification, and is good for anti-fatigue; Drinking before bedtime can help relieve depression and fall asleep, keep body fit and lose weight, and beautify the skin. *Best served chilled Cautions: This product uses nature plants as raw materials, sedimentation is a natural phenomenon. Storage Condition: Keep in cool, ventilated and dry place. Pure natural with no additives Production strictly supervised under HACCP food manufacturer Highlight: May assist in: Boost immunity Reduce hypertension, hyperglycemia, hyperlipidemia and cholesterol levels Prevent cold hands and feet Soften blood vessels and promote heart health Lubricate intestine and facilitate bowel movement. Keep body slim and beautify the skin Improve and innovate while following the ancient prescription Originated from an ancient recipe for disease prevention and anti-inflammation, \"3 Plus 1\" is made from three kinds of juices (ginger juice, garlic juice, lemon juice) plus fruit vinegar. Such products have already been circulating in China and India regions for a very long time, and are widely used in health care for disease prevention and immunity enhancement. The \"3 Plus 1\" produced by our company follows the principle of \"Medicine and Food from the Same Source\". Base on the traditional production, we innovatively increased the fermentation process in order to enhance the therapeutic effects of ginger, garlic, lemon, and vinegar. We also adopted the principle of individual processing and fermentation, which greatly reduced the irritating properties of ginger, garlic, and vinegar to the stomach, creating a gentle yet refreshing drink. Suitable for People who: Concerned about cardiovascular and cerebrovascular health Concerned about hypertension, hyperglycemia, hyperlipidemia and cholesterol levels People care about spleen and gastrointestinal health Focus on improving immunity and promoting health Concerned about healthy diet but lack of exercise Pay attention to losing weight and beautifying skin Ingredients: Water, Monk Fruit Vinegar, Garlic, Ginger, Lemon, Millet Sprout, Malt, Polydextrose Origin: China"
+                },
+                "url": "https://ea2c8a-3c.myshopify.com/products/3plus1-ginger-garlic-lemon-natural-drink?variant=52506588217707",
+                "price": {
+                  "amount": 12800,
+                  "currency": "HKD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0640/8424/6682/files/53df9ac601cef7c3be162ccc2423a47a.jpg",
+                    "alt_text": "3plus1 Ginger Garlic & Lemon Natural Drink"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/64084246682",
+                  "name": "Yue Hwa Staging",
+                  "url": "https://ea2c8a-3c.myshopify.com",
+                  "domain": "ea2c8a-3c.myshopify.com"
+                },
+                "checkout_url": "https://ea2c8a-3c.myshopify.com/cart/52506588217707:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 12800,
+                "currency": "HKD"
+              },
+              "max": {
+                "amount": 12800,
+                "currency": "HKD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/6AMXgJxwb8z1zp1UOyfFmu",
+            "title": "Tong Xue Ling (Ginger Garlic Lemon Juice) and Products",
+            "description": {
+              "plain": "A traditional beverage blend of ginger, garlic, lemon, honey, and apple cider vinegar for natural wellness support."
+            },
+            "options": [
+              {
+                "name": "Flavour",
+                "values": [
+                  {
+                    "label": "gbt black garlic"
+                  },
+                  {
+                    "label": "tong xue ling"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Combines five natural ingredients with no artificial additives, offering a holistic wellness drink certified for quality and safety."
+              ],
+              "top_features": "Contains ginger, garlic, lemon, honey, and apple cider vinegar for a balanced blend of natural ingredients\nNo artificial flavors, colors, or preservatives for a clean, natural taste\nRich in vitamin C and antioxidants to support immune health and skin\nMay help reduce fatigue, numbness, and high blood pressure naturally\nCertified halal and free from hormone additives for peace of mind",
+              "tech_specs": "Serving Size: 15-30 ml per time\nPackage Size: 400 ml\nIngredients: Ginger, black garlic, lemon, apple cider vinegar, honey\nDietary Preferences: No artificial colors, no artificial flavors, no preservatives, halal\nCertifications: SGS, AVA (Singapore), Mesti (Malaysia)\nPackage Type: Bottle"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0676/9108/6003/files/gbt_black_garlic.jpg",
+                "alt_text": "Tong Xue Ling (Ginger Garlic Lemon Juice) and Products"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/44041706111155?shop=67691086003",
+                "title": "Tong Xue Ling (Ginger Garlic Lemon Juice) and Products",
+                "description": {
+                  "plain": "Tong Xue Ling \u901a\u8840\u7075 (Ginger Garlic Lemon Juice) Tong Xue Ling (Ginger Garlic Lemon Juice) is a traditional recipe made from 5 kinds of natural ingredients : ginger, garlic, lemon with apple cider vinegar & honey. No artificial flavors and colorings, no preservatives or other chemical addictive. \u901a\u8840\u7075(\u59dc\u849c\u67e0\u6aac\u6c41)\u91c7\u7528\u7eaf\u5929\u7136\u7684\u5927\u849c\uff0c\u59dc\uff0c\u82f9\u679c\u918b\uff0c\u67e0\u6aac\u548c\u8702\u871c\u5236\u4f5c\u800c\u6210\uff0c\u4e0d\u542b\u9632\u8150\u5242\u3001\u8272\u7d20\u3001\u7cd6\u7cbe\u6216\u4efb\u4f55\u5316\u5b66\u6dfb\u52a0\u5242\u3002\u5473\u9053\u9178\u9178\u751c\u751c\u6709\u70b9\u8fa3\uff0c\u53e3\u611f\u6781\u4f73\uff0c\u6bcf\u5929\u4e00\u5c0f\u5319\uff0c\u5065\u5eb7\u53c8\u4fdd\u5065~ Ginger : Relieve body inflammation, headache, pain, swelling, relieve joint pain, physical fitness Garlic : Contain Allicin, which is super antioxidant, promote blood circulation, anti-bacterial antiinflammatory disinfection Lemon Juice : Rich in vitamin C flavonoids, citric acid helps to remove body waste, reduce pigmentation Honey : Rich in amino acids, vitamins, minerals, fat burning, antibacterial and anti-inflammatory, nourish the skin Apple cider vinegar : Helps in fat burning, regulate blood sugar, regulate the body pH \u751f\u59dc\uff1a \u7f13\u89e3\u8eab\u4f53\u53d1\u708e\u75c7\u72b6\u3001\u8212\u7f13\u5934\u75db\u75bc\u75db\u80bf\u80c0\u3001\u7f13\u89e3\u5173\u8282\u75bc\u75db\u3001\u5f3a\u8eab\u5065\u4f53 \u5927\u849c\uff1a \u5927\u849c\u8fa3\u7d20 allicin \u8d85\u7ea7\u6297\u6c27\u5316\u7d20\u3001\u4fc3\u8fdb\u8840\u6db2\u5faa\u73af\u3001\u6297\u83cc\u6d88\u708e\u6d88\u6bd2 \u67e0\u6aac\uff1a \u5bcc\u542b\u7ef4\u751f\u7d20 C \u7c7b\u9ec4\u916e\u3001\u67e0\u6aac\u9178 citric acid \u6e05\u9664\u4f53\u5185\u5e9f\u7269\u3001\u51cf\u5c11\u8272\u7d20\u6c89\u6dc0 \u8702\u871c\uff1a \u4e30\u5bcc\u6c28\u57fa\u9178\u3001\u7ef4\u751f\u7d20\u3001\u77ff\u7269\u8d28\u3001\u8102\u80aa\u71c3\u70e7\u3001\u6297\u83cc\u4e0e\u6297\u708e\u3001\u6ecb\u517b\u808c\u80a4 \u82f9\u679c\u918b\uff1a \u5e2e\u52a9\u8102\u80aa\u71c3\u70e7\u3001\u8c03\u8282\u8840\u7cd6\u3001\u8c03\u8282\u4f53\u5185 pH \u503c Safety Standard & Quality Assurance: Tong Xue Ling does not contain any artificial flavour, colouring, saccharin, hormone, preservative or any other chemical additives. Product certifications issued by including SGS (the world\u2019s leading inspection company), AVA (Agri-Food & Veterinary Authority of Singapore No: V-021-2015-06-01094) The company has Halal certification, Mesti certification,and has been registered by the ministry of health of Malaysia ( No: J06P1150420-016615) \u98df\u54c1\u5b89\u5168\u4e0e\u54c1\u8d28\u4fdd\u8bc1: \u901a\u8840\u7075\u4e0d\u542b\u9632\u8150\u5242\u3001\u8272\u7d20\u3001\u7cd6\u7cbe\u3001\u6fc0\u7d20\u6216\u4efb\u4f55\u5316\u5b66\u6dfb\u52a0\u5242\u3002 \u4ea7\u54c1\u8d28\u91cf\u6807\u51c6\u8ba4\u8bc1\u5305\u62ec\u4e86SGS (\u56fd\u9645\u68c0\u9a8c\u548c\u8ba4\u8bc1\u673a\u6784)\u548c AVA (\u65b0\u52a0\u5761\u519c\u7cae\u517d\u533b\u5c40 No: V-021-2015-06-01094) \u516c\u53f8\u62e5\u6709\u6e05\u771f\u8ba4\u8bc1\u3001MeSTI\u8ba4\u8bc1\uff0c\u9a6c\u6765\u897f\u4e9a\u536b\u751f\u90e8\u98df\u54c1\u5b89\u5168\u4e0e\u8d28\u91cf\u6ce8\u518c\u8bc1 ( No: J06P1150420-016615) The efficiency: We have lots of positive\u2019s product testimonials, and it is still growing\u2026 Feedback from our appreciative customers, the product also does helps in sorts of health problems like: panting, constipation, numbness in hands & legs, insomnia, prostate\u2026 etc. and all these problems maybe caused by cardiovascular blockage. \u529f\u6548: \u6211\u4eec\u62e5\u6709\u8bb8\u591a\u771f\u5b9e\u6848\u4f8b\u7684\u4ea7\u54c1\u89c1\u8bc1, \u4e14\u8fd8\u5728\u6301\u7eed\u589e\u957f\u4e2d. \u4ece\u987e\u5ba2\u7684\u6b63\u9762\u53cd\u9988\u4e2d\u6211\u4eec\u5f97\u77e5, \u901a\u8840\u7075\u8fd8\u5bf9\u4e00\u4e9b\u7684\u770b\u8d77\u6765\u65e0\u5173\u7684\u5c0f\u6bdb\u75c5\u6709\u6240\u5e2e\u52a9\uff0c\u6bd4\u5982: \u6c14\u5598\u3001\u4fbf\u79d8\u3001\u624b\u811a\u9ebb\u75f9\u3001\u5931\u7720\u3001 \u524d\u5217\u817a\u3001\u7b49\u7b49\u3002\u3002\u800c\u8fd9\u4e9b\u5c0f\u6bdb\u75c5\u53ef\u80fd\u662f\u56e0\u5fc3\u8840\u7ba1\u963b\u585e\u6240\u9020\u6210\u7684\u3002 Serving Suggestion: 1 spoon(15ml) per serving, twice a day in the morning and evening. It tastes even better without mixing with water. Take after meal if you have gastric problem. Shake well before consume. \u5efa\u8bae\u559d\u6cd5\uff1a\u65e9\u665a\u5404\u4e00\u6c64\u5319(15ml)\uff0c\u4e0d\u63ba\u6c34\u559d\u66f4\u53ef\u53e3\uff01\u80c3\u9178\u60a3\u8005\u5efa\u8bae\u9910\u540e\u98df\u7528\u3002\u559d\u524d\u8bf7\u6447\u5747\u3002\u4f53\u8d28\u865a\u5bd2\u8005\u4e00\u6c64\u5319\u63ba\u6e29\u6c34\u559d Storage: Store in cool dry place. Avoid direct sunlight. \u50a8\u5b58\uff1a\u7f6e\u653e\u9634\u51c9\u5e72\u71e5\u5904\uff0c\u907f\u514d\u9633\u5149\u7167\u5c04 Serving : 750ml GBT Black Garlic Extract \u6587\u51ac\u751f\u59dc\u9ed1\u849c\u7cbe\u534e\u6d3b\u6027\u9175\u7d20 Malaysia Benefit : \uff0dImproving heart condition \uff0dSkin Whitening \uff0dReduce Fatigue \uff0dReduce Numbness \uff0dReduce high blood pressure \uff0dPrevent Risk of high attack \uff0dReduce cholesterol level \uff0dPrevention of cardiovascular blockage \uff0dImproving digestion Ingredients: Bentong Ginger, Black Garlic, Lemon, Apple Cider Vinegar, Honey Direction to use:15-30ml per time in the morning before meal. Shake well before drink 400ml"
+                },
+                "url": "https://www.shundat.com/products/tong-xue-ling-ginger-garlic-lemon-juice-and-products?variant=44041706111155",
+                "price": {
+                  "amount": 3200,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Flavour",
+                    "label": "gbt black garlic"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0676/9108/6003/files/gbt_black_garlic.jpg",
+                    "alt_text": "Tong Xue Ling (Ginger Garlic Lemon Juice) and Products"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/67691086003",
+                  "name": "Shun Dat ",
+                  "url": "https://www.shundat.com",
+                  "domain": "7f689f-5c.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/67691086003/policies/29145104563.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/67691086003/policies/29242032307.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/67691086003/policies/29241770163.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/67691086003/policies/37024596147.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.shundat.com/cart/44041706111155:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/44041706078387?shop=67691086003",
+                "title": "Tong Xue Ling (Ginger Garlic Lemon Juice) and Products",
+                "description": {
+                  "plain": "Tong Xue Ling \u901a\u8840\u7075 (Ginger Garlic Lemon Juice) Tong Xue Ling (Ginger Garlic Lemon Juice) is a traditional recipe made from 5 kinds of natural ingredients : ginger, garlic, lemon with apple cider vinegar & honey. No artificial flavors and colorings, no preservatives or other chemical addictive. \u901a\u8840\u7075(\u59dc\u849c\u67e0\u6aac\u6c41)\u91c7\u7528\u7eaf\u5929\u7136\u7684\u5927\u849c\uff0c\u59dc\uff0c\u82f9\u679c\u918b\uff0c\u67e0\u6aac\u548c\u8702\u871c\u5236\u4f5c\u800c\u6210\uff0c\u4e0d\u542b\u9632\u8150\u5242\u3001\u8272\u7d20\u3001\u7cd6\u7cbe\u6216\u4efb\u4f55\u5316\u5b66\u6dfb\u52a0\u5242\u3002\u5473\u9053\u9178\u9178\u751c\u751c\u6709\u70b9\u8fa3\uff0c\u53e3\u611f\u6781\u4f73\uff0c\u6bcf\u5929\u4e00\u5c0f\u5319\uff0c\u5065\u5eb7\u53c8\u4fdd\u5065~ Ginger : Relieve body inflammation, headache, pain, swelling, relieve joint pain, physical fitness Garlic : Contain Allicin, which is super antioxidant, promote blood circulation, anti-bacterial antiinflammatory disinfection Lemon Juice : Rich in vitamin C flavonoids, citric acid helps to remove body waste, reduce pigmentation Honey : Rich in amino acids, vitamins, minerals, fat burning, antibacterial and anti-inflammatory, nourish the skin Apple cider vinegar : Helps in fat burning, regulate blood sugar, regulate the body pH \u751f\u59dc\uff1a \u7f13\u89e3\u8eab\u4f53\u53d1\u708e\u75c7\u72b6\u3001\u8212\u7f13\u5934\u75db\u75bc\u75db\u80bf\u80c0\u3001\u7f13\u89e3\u5173\u8282\u75bc\u75db\u3001\u5f3a\u8eab\u5065\u4f53 \u5927\u849c\uff1a \u5927\u849c\u8fa3\u7d20 allicin \u8d85\u7ea7\u6297\u6c27\u5316\u7d20\u3001\u4fc3\u8fdb\u8840\u6db2\u5faa\u73af\u3001\u6297\u83cc\u6d88\u708e\u6d88\u6bd2 \u67e0\u6aac\uff1a \u5bcc\u542b\u7ef4\u751f\u7d20 C \u7c7b\u9ec4\u916e\u3001\u67e0\u6aac\u9178 citric acid \u6e05\u9664\u4f53\u5185\u5e9f\u7269\u3001\u51cf\u5c11\u8272\u7d20\u6c89\u6dc0 \u8702\u871c\uff1a \u4e30\u5bcc\u6c28\u57fa\u9178\u3001\u7ef4\u751f\u7d20\u3001\u77ff\u7269\u8d28\u3001\u8102\u80aa\u71c3\u70e7\u3001\u6297\u83cc\u4e0e\u6297\u708e\u3001\u6ecb\u517b\u808c\u80a4 \u82f9\u679c\u918b\uff1a \u5e2e\u52a9\u8102\u80aa\u71c3\u70e7\u3001\u8c03\u8282\u8840\u7cd6\u3001\u8c03\u8282\u4f53\u5185 pH \u503c Safety Standard & Quality Assurance: Tong Xue Ling does not contain any artificial flavour, colouring, saccharin, hormone, preservative or any other chemical additives. Product certifications issued by including SGS (the world\u2019s leading inspection company), AVA (Agri-Food & Veterinary Authority of Singapore No: V-021-2015-06-01094) The company has Halal certification, Mesti certification,and has been registered by the ministry of health of Malaysia ( No: J06P1150420-016615) \u98df\u54c1\u5b89\u5168\u4e0e\u54c1\u8d28\u4fdd\u8bc1: \u901a\u8840\u7075\u4e0d\u542b\u9632\u8150\u5242\u3001\u8272\u7d20\u3001\u7cd6\u7cbe\u3001\u6fc0\u7d20\u6216\u4efb\u4f55\u5316\u5b66\u6dfb\u52a0\u5242\u3002 \u4ea7\u54c1\u8d28\u91cf\u6807\u51c6\u8ba4\u8bc1\u5305\u62ec\u4e86SGS (\u56fd\u9645\u68c0\u9a8c\u548c\u8ba4\u8bc1\u673a\u6784)\u548c AVA (\u65b0\u52a0\u5761\u519c\u7cae\u517d\u533b\u5c40 No: V-021-2015-06-01094) \u516c\u53f8\u62e5\u6709\u6e05\u771f\u8ba4\u8bc1\u3001MeSTI\u8ba4\u8bc1\uff0c\u9a6c\u6765\u897f\u4e9a\u536b\u751f\u90e8\u98df\u54c1\u5b89\u5168\u4e0e\u8d28\u91cf\u6ce8\u518c\u8bc1 ( No: J06P1150420-016615) The efficiency: We have lots of positive\u2019s product testimonials, and it is still growing\u2026 Feedback from our appreciative customers, the product also does helps in sorts of health problems like: panting, constipation, numbness in hands & legs, insomnia, prostate\u2026 etc. and all these problems maybe caused by cardiovascular blockage. \u529f\u6548: \u6211\u4eec\u62e5\u6709\u8bb8\u591a\u771f\u5b9e\u6848\u4f8b\u7684\u4ea7\u54c1\u89c1\u8bc1, \u4e14\u8fd8\u5728\u6301\u7eed\u589e\u957f\u4e2d. \u4ece\u987e\u5ba2\u7684\u6b63\u9762\u53cd\u9988\u4e2d\u6211\u4eec\u5f97\u77e5, \u901a\u8840\u7075\u8fd8\u5bf9\u4e00\u4e9b\u7684\u770b\u8d77\u6765\u65e0\u5173\u7684\u5c0f\u6bdb\u75c5\u6709\u6240\u5e2e\u52a9\uff0c\u6bd4\u5982: \u6c14\u5598\u3001\u4fbf\u79d8\u3001\u624b\u811a\u9ebb\u75f9\u3001\u5931\u7720\u3001 \u524d\u5217\u817a\u3001\u7b49\u7b49\u3002\u3002\u800c\u8fd9\u4e9b\u5c0f\u6bdb\u75c5\u53ef\u80fd\u662f\u56e0\u5fc3\u8840\u7ba1\u963b\u585e\u6240\u9020\u6210\u7684\u3002 Serving Suggestion: 1 spoon(15ml) per serving, twice a day in the morning and evening. It tastes even better without mixing with water. Take after meal if you have gastric problem. Shake well before consume. \u5efa\u8bae\u559d\u6cd5\uff1a\u65e9\u665a\u5404\u4e00\u6c64\u5319(15ml)\uff0c\u4e0d\u63ba\u6c34\u559d\u66f4\u53ef\u53e3\uff01\u80c3\u9178\u60a3\u8005\u5efa\u8bae\u9910\u540e\u98df\u7528\u3002\u559d\u524d\u8bf7\u6447\u5747\u3002\u4f53\u8d28\u865a\u5bd2\u8005\u4e00\u6c64\u5319\u63ba\u6e29\u6c34\u559d Storage: Store in cool dry place. Avoid direct sunlight. \u50a8\u5b58\uff1a\u7f6e\u653e\u9634\u51c9\u5e72\u71e5\u5904\uff0c\u907f\u514d\u9633\u5149\u7167\u5c04 Serving : 750ml GBT Black Garlic Extract \u6587\u51ac\u751f\u59dc\u9ed1\u849c\u7cbe\u534e\u6d3b\u6027\u9175\u7d20 Malaysia Benefit : \uff0dImproving heart condition \uff0dSkin Whitening \uff0dReduce Fatigue \uff0dReduce Numbness \uff0dReduce high blood pressure \uff0dPrevent Risk of high attack \uff0dReduce cholesterol level \uff0dPrevention of cardiovascular blockage \uff0dImproving digestion Ingredients: Bentong Ginger, Black Garlic, Lemon, Apple Cider Vinegar, Honey Direction to use:15-30ml per time in the morning before meal. Shake well before drink 400ml"
+                },
+                "url": "https://www.shundat.com/products/tong-xue-ling-ginger-garlic-lemon-juice-and-products?variant=44041706078387",
+                "price": {
+                  "amount": 3900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Flavour",
+                    "label": "tong xue ling"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0676/9108/6003/files/tong_xue_ling.jpg",
+                    "alt_text": "Tong Xue Ling (Ginger Garlic Lemon Juice) and Products"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/67691086003",
+                  "name": "Shun Dat ",
+                  "url": "https://www.shundat.com",
+                  "domain": "7f689f-5c.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/67691086003/policies/29145104563.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/67691086003/policies/29242032307.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/67691086003/policies/29241770163.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/67691086003/policies/37024596147.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.shundat.com/cart/44041706078387:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 3200,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 3900,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/4oj1iws1nUfh5PjMwnQQ4T",
+            "title": "Pure Apple Cider Vinegar Drink with Ginger and Garlic",
+            "description": {
+              "plain": "A potent organic drink blend of apple cider vinegar, ginger, and garlic for digestive, immune, and detox support."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Combines certified organic apple cider vinegar, ginger, and garlic for multi-benefit wellness support."
+              ],
+              "top_features": "Digestive support: Stimulates digestive enzymes for improved gut health and relief from discomfort\nImmune system boost: Antioxidants and antimicrobial properties strengthen the body's defenses\nDetoxification: Apple cider vinegar aids in cleansing and supports liver function\nWeight management: Promotes fullness, stabilizes blood sugar, and boosts metabolism\nHeart health: Garlic supports cholesterol, blood pressure, and cardiovascular wellness",
+              "tech_specs": "Ingredients: Certified organic apple juice (4-8% acidity), organic ginger, organic garlic\nVinegar Drink Variety: Shrub\nDietary Preferences: Organic\nFlavor: Apple, Ginger\nBrand: Aarshaveda"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0532/0061/7644/files/AppleCiderVinegarwithGinger_Garlic-FRONT.jpg",
+                "alt_text": "Pure Apple Cider Vinegar"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/42550857892012?shop=53200617644",
+                "title": "Pure Apple Cider Vinegar Drink with Ginger and Garlic",
+                "description": {
+                  "plain": "Product Description: Aarshaveda\u2019s Pure Apple Cider Vinegar Drink with Ginger and Garlic is a potent elixir crafted to invigorate your senses and boost your well-being. Made from the finest ingredients, this concoction packs a punch of flavor and health benefits. Product Benefits: 1. Digestive Support: The combination of apple cider vinegar, ginger, and garlic aids in digestion by stimulating the production of digestive enzymes, promoting gut health, and alleviating digestive discomfort. 2. Immune System Boost: Packed with antioxidants and antimicrobial properties, this drink helps strengthen the immune system, protecting the body against infections and illnesses. 3. Detoxification: Apple cider vinegar acts as a natural detoxifier, helping to cleanse the body of toxins and impurities, while ginger and garlic support liver function, aiding in the elimination of waste from the body. 4. Weight Management: Incorporating this drink into your daily regimen may support weight loss efforts by promoting feelings of fullness, stabilizing blood sugar levels, and boosting metabolism. 5. Heart Health: The components of this drink, particularly garlic, are known for their heart-healthy properties. They help lower cholesterol levels, regulate blood pressure, and improve overall cardiovascular health. Ingredients: It consist of Certified organic apple juice brewed to 4.8% acidity & Organic Ginger and Garlic. How to Use: Start your day by mixing 1-2 tablespoons of Pure Apple Cider Vinegar Drink with Ginger and Garlic into a glass of warm water. Sip it slowly on an empty stomach for a refreshing and energizing boost."
+                },
+                "url": "https://aarshaveda.com/products/apple-cider-vinegar-vinegar-with-the-mother-naturally-infused-with-ginger-garlic?variant=42550857892012",
+                "price": {
+                  "amount": 27000,
+                  "currency": "INR"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0532/0061/7644/files/AppleCiderVinegarwithGinger_Garlic-FRONT.jpg",
+                    "alt_text": "Pure Apple Cider Vinegar"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/53200617644",
+                  "name": "Aarshaveda",
+                  "url": "https://aarshaveda.com",
+                  "domain": "aarshaveda.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/53200617644/policies/23575068844.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/53200617644/policies/23575101612.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/53200617644/policies/23575036076.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/53200617644/policies/23575134380.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://aarshaveda.com/cart/42550857892012:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 27000,
+                "currency": "INR"
+              },
+              "max": {
+                "amount": 27000,
+                "currency": "INR"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/4oIk83ArFTRpEm2yy1SEbl",
+            "title": "Ginger & Mint - 500ml [NO ADDED SUGAR]",
+            "description": {
+              "plain": "A cold-pressed ginger and mint concentrate offering digestive support, immunity, and inflammation relief in a natural, sugar-free elixir."
+            },
+            "rating": {
+              "value": 5.0,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 11
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "No added sugar, organic, and a blend of ginger, mint, and vitamins for holistic wellness."
+              ],
+              "top_features": "Cold-pressed superfood elixir delivers concentrated wellness benefits for daily use\nContains ginger and mint for natural digestive support and relief from heartburn, reflux, and bloating\nRich in gingerol and essential vitamins to promote immune health and inflammation relief\nNo added sugar, preservatives, artificial colors, or flavors for a clean, natural beverage\nVersatile consumption options: drink neat, mix with water, or create cocktails",
+              "tech_specs": "Volume: 500 ml\nIngredients: Water (38%), ginger (lemon lime), mint, herbs and spices (organic origin)\nShelf Life: 60 days refrigerated after opening\nDietary Preferences: Alcohol-free, vegan, vegetarian, organic, no preservatives, no artificial colors, no artificial flavors, no artificial sweeteners\nPackage Type: Glass bottle"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0573/5006/2128/files/Mint_500_ML_NS.png",
+                "alt_text": "Ginger & Mint - 500ml [NO ADDED SUGAR]"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/40956220506160?shop=57350062128",
+                "title": "Ginger & Mint - 500ml [NO ADDED SUGAR]",
+                "description": {
+                  "plain": "Elevate Your Well-being with Our Ginger and Mint Concentrate. Discover the daily wellness benefits of ginger and mint, expertly blended in our cold-pressed superfood elixir. This potent concoction is brimming with vitamins, gingerol, and the soothing properties of mint, offering you: Gentle Digestion: Ease discomfort from heartburn, reflux, and bloating while promoting digestive health. Inflammation Relief: Combat inflammation, making it an excellent choice for arthritis. Boost Immunity: Take 20-30ml neat to alleviate hangover, indigestion, or when feeling under the weather, strengthening your immune system. Elevate your daily well-being with the harmonious blend of ginger and mint \u2013 your wellness ally in every sip. A refrigerated shelf life of 60 days after opening, ensures long-lasting freshness. Ingredients: Water, 38% Ginger*, Lemon*, Lime*, 3% Mint*, Herbs, and Spices* (*Organic Origin)."
+                },
+                "url": "https://jingerdrinks.com/products/ginger-mint-500ml-no-added-sugar?variant=40956220506160",
+                "price": {
+                  "amount": 4900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0573/5006/2128/files/Mint_500_ML_NS.png",
+                    "alt_text": "Ginger & Mint - 500ml [NO ADDED SUGAR]"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/57350062128",
+                  "name": "Jinger drinks ",
+                  "url": "https://jingerdrinks.com",
+                  "domain": "jinger-drinks.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413503536.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413536304.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413470768.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413569072.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://jingerdrinks.com/cart/40956220506160:1",
+                "rating": {
+                  "value": 5.0,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 11
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/47068849209659?shop=27690008689",
+                "title": "Ginger & Mint - 500ml [NO ADDED SUGAR]",
+                "description": {
+                  "plain": "Elevate Your Well-being with Our Ginger and Mint Concentrate. Discover the daily wellness benefits of ginger and mint, expertly blended in our cold-pressed superfood elixir. This potent concoction is brimming with vitamins, gingerol, and the soothing properties of mint, offering you: Gentle Digestion: Ease discomfort from heartburn, reflux, and bloating while promoting digestive health. Inflammation Relief: Combat inflammation, making it an excellent choice for arthritis. Cholesterol Management: Support heart health by regulating cholesterol levels. Enjoy in Three Ways: Detox and Hydrate: Mix 20-30ml in hot water, add fresh mint and a slice of lemon for a revitalizing, hydrating detox. Refreshing Sip: Combine 20ml with tonic water, soda water, or sparkling water, on the rocks or off, for a delightful beverage. Boost Immunity: Take 20-30ml neat to alleviate hangover, indigestion, or when feeling under the weather, strengthening your immune system. A refrigerated shelf life of 60 days after opening, ensures long-lasting freshness. Ingredients: Water, 38% Ginger*, Lemon*, Lime*, 3% Mint* Herbs and Spices* (*Organic Origin)."
+                },
+                "url": "https://guiltlesswines.com/products/ginger-mint-500ml-no-added-sugar?variant=47068849209659",
+                "price": {
+                  "amount": 3400,
+                  "currency": "GBP"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0276/9000/8689/files/jinger-mint-no-sugar-500-ml.jpg",
+                    "alt_text": "Ginger & Mint - 500ml [NO ADDED SUGAR]"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/27690008689",
+                  "name": "Guiltless Wines (CarpediemsfinestLTD)",
+                  "url": "https://guiltlesswines.com",
+                  "domain": "carpe-diem-finest.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/27690008689/policies/13745193073.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/27690008689/policies/13745225841.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/27690008689/policies/13745160305.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/27690008689/policies/13745258609.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://guiltlesswines.com/cart/47068849209659:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 4900,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 4900,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/101RIy36Jrz0C4hEr4O22i",
+            "title": "Ginger & Turmeric 1 Litre",
+            "description": {
+              "plain": "A 1 litre concentrate blending ginger and turmeric for daily wellness, supporting digestion and inflammation relief."
+            },
+            "rating": {
+              "value": 5.0,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 103
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "High-potency ginger and turmeric concentrate with 470,000 mg ginger and 130,000 mg turmeric per litre, ideal for daily wellness and immune support."
+              ],
+              "top_features": "Contains 470,000 mg ginger per litre for robust anti-inflammatory action\nIncludes 130,000 mg turmeric per litre to support gut health and immunity\nAlcohol-free, vegan, and free from preservatives for clean consumption\nConvenient 50 individually dosed 20 ml shots in a single 1 litre bottle\nLong shelf life of up to 60 days after opening for lasting freshness",
+              "tech_specs": "Volume: 1 litre\nGinger content: 470,000 mg per litre\nTurmeric content: 130,000 mg per litre\nIngredients: Water (47%), ginger (13%), turmeric (10%), cane sugar, black pepper, herbs and spices\nPackage: 50 x 20 ml shots in glass bottle\nShelf life after opening: up to 60 days"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0573/5006/2128/files/TUMERIC_1_Litre_3.png",
+                "alt_text": "Ginger & Turmeric 1 Litre"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/40949120794672?shop=57350062128",
+                "title": "Ginger & Turmeric 1 Litre",
+                "description": {
+                  "plain": "Exprience the Wellness Benefits of Our Ginger and Turmeric Concentrate Our Ginger and Turmeric concentrate is a daily dose of vitality, brimming with the natural goodness of gingerol and curcumin, renowned for their powerful anti-inflammatory and antibacterial properties. Embrace the daily advantages of ginger and turmeric, known to: Enhance Digestion: Promote healthy digestion and gut comfort. Combat Inflammation: Lower inflammation, especially beneficial for arthritis. Manage Cholesterol: Support heart health by regulating cholesterol levels. Boost Immunity: Take 20-30ml neat when facing a hangover, indigestion, or feeling under the weather to strengthen your immune system. You get 50 x 20ml shots from the 1 Litre bottle. With a shelf life of up to 60 days after opening, store in the fridge for lasting freshness. Ingredients: Water, 47% Ginger*, Lemon*, Lime*, 13% Turmeric*, 10% Cane Sugar*, Black Pepper*, Herbs and Spices* (*Organic Origin). Elevate your daily wellness routine with the wholesome power of ginger and turmeric \u2013 your daily wellness elixir in a bottle. Ginger: 470,000 mg Turmeric: 130,000 mg"
+                },
+                "url": "https://jingerdrinks.com/products/ginger-turmeric-1litre?variant=40949120794672",
+                "price": {
+                  "amount": 8400,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0573/5006/2128/files/TUMERIC_1_Litre_3.png",
+                    "alt_text": "Ginger & Turmeric 1 Litre"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/57350062128",
+                  "name": "Jinger drinks ",
+                  "url": "https://jingerdrinks.com",
+                  "domain": "jinger-drinks.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413503536.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413536304.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413470768.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413569072.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://jingerdrinks.com/cart/40949120794672:1",
+                "rating": {
+                  "value": 5.0,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 72
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/40776486518832?shop=57350062128",
+                "title": "Ginger & Turmeric 700ml",
+                "description": {
+                  "plain": "Experience the Wellness Benefits of Our Ginger and Turmeric Concentrate Our Ginger and Turmeric concentrate is a daily dose of vitality, brimming with the natural goodness of gingerol and curcumin, renowned for their powerful anti-inflammatory and antibacterial properties. Embrace the daily advantages of ginger and turmeric, known to: Enhance Digestion: Promotes healthy digestion and gut comfort. Combat Inflammation: helps lower inflammation, especially beneficial for arthritis and autoimmune disease. Manage Cholesterol: Supports heart health by regulating cholesterol levels. Boost Immunity: Take 20-30ml neat when facing a hangover, indigestion, or feeling under the weather to strengthen your immune system. With a shelf life of up to 60 days after opening, store in the fridge for lasting freshness. Ginger: 329,000 mg Turmeric: 91,000 mg Ingredients: Water, 47% Ginger*, Lemon*, Lime*, 13% Turmeric*, 10% Cane Sugar*, Black Pepper*, Herbs and Spices* (*Organic Origin)"
+                },
+                "url": "https://jingerdrinks.com/products/jinger-turmeric-700ml?variant=40776486518832",
+                "price": {
+                  "amount": 6300,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0573/5006/2128/files/TUMERIC_700ML__2.png",
+                    "alt_text": "Ginger & Turmeric 700ml"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/57350062128",
+                  "name": "Jinger drinks ",
+                  "url": "https://jingerdrinks.com",
+                  "domain": "jinger-drinks.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413503536.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413536304.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413470768.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413569072.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://jingerdrinks.com/cart/40776486518832:1",
+                "rating": {
+                  "value": 4.87,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 31
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 6300,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 8400,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/4TpkRldzo1WKSzgBOb8Vcy",
+            "title": "Natural Ginger Brew",
+            "description": {
+              "plain": "A natural ginger and lemon beverage with no artificial additives, offering a refreshing and healthy alternative to traditional soft drinks."
+            },
+            "options": [
+              {
+                "name": "Ginger brew drink",
+                "values": [
+                  {
+                    "label": "pack of 24"
+                  },
+                  {
+                    "label": "pack of 6"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "100 percent natural formula with fresh ginger and lemon juice, free from artificial additives."
+              ],
+              "top_features": "100 percent natural ingredients for a clean, healthy beverage experience\nBalanced blend of fresh ginger and lemon juice delivers a refreshing taste\nNo artificial colors, flavors, or preservatives for a pure drink\nVegan and vegetarian friendly to suit diverse dietary needs\nSupports digestion and metabolism for daily wellness",
+              "tech_specs": "Allergen Information: None\nDietary Preferences: Vegan, Vegetarian, No artificial colors, No artificial flavors, No preservatives\nDietary Supplements: None\nSweetener: Cane sugar\nFlavor: Fresh ginger and lemon juice"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0884/9834/0004/files/Ginger-Brew-with-box.png",
+                "alt_text": "Pack of 24"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/50778603618468?shop=88498340004",
+                "title": "Natural Ginger Brew",
+                "description": {
+                  "plain": "100% natural formula with no artificial additives Balanced blend of fresh ginger and lemon juice A healthy alternative to traditional soft drinks Practical design for daily enjoyment Al Malaky Royal\u2019s Ginger Brew delivers a refreshing fusion of natural ginger flavor, cane sugar sweetness, and lemon zest , all made without any artificial additives. This invigorating beverage may support digestion, metabolism, and daily energy. With its smooth taste and natural sparkle, it\u2019s a perfect everyday choice for those seeking balance and wellness, a drink that reflects your natural taste and mindful lifestyle."
+                },
+                "url": "https://www.almalaky.com/products/ginger-brew?variant=50778603618468",
+                "price": {
+                  "amount": 18800,
+                  "currency": "AED"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Ginger brew drink",
+                    "label": "pack of 24"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0884/9834/0004/files/Ginger-Brew-with-box.png",
+                    "alt_text": "Pack of 24"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/88498340004",
+                  "name": "Al MALAKY FOOD STUFF PACKING L.L.C",
+                  "url": "https://www.almalaky.com",
+                  "domain": "almalaky-dubai.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/88498340004/policies/40169832612.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/88498340004/policies/40808612004.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/88498340004/policies/40808644772.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/88498340004/policies/40808677540.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.almalaky.com/cart/50778603618468:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/50778603651236?shop=88498340004",
+                "title": "Natural Ginger Brew",
+                "description": {
+                  "plain": "100% natural formula with no artificial additives Balanced blend of fresh ginger and lemon juice A healthy alternative to traditional soft drinks Practical design for daily enjoyment Al Malaky Royal\u2019s Ginger Brew delivers a refreshing fusion of natural ginger flavor, cane sugar sweetness, and lemon zest , all made without any artificial additives. This invigorating beverage may support digestion, metabolism, and daily energy. With its smooth taste and natural sparkle, it\u2019s a perfect everyday choice for those seeking balance and wellness, a drink that reflects your natural taste and mindful lifestyle."
+                },
+                "url": "https://www.almalaky.com/products/ginger-brew?variant=50778603651236",
+                "price": {
+                  "amount": 4700,
+                  "currency": "AED"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Ginger brew drink",
+                    "label": "pack of 6"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0884/9834/0004/files/Ginger-Brew-set-6-web.png",
+                    "alt_text": "Pack of 6"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/88498340004",
+                  "name": "Al MALAKY FOOD STUFF PACKING L.L.C",
+                  "url": "https://www.almalaky.com",
+                  "domain": "almalaky-dubai.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/88498340004/policies/40169832612.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/88498340004/policies/40808612004.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/88498340004/policies/40808644772.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/88498340004/policies/40808677540.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.almalaky.com/cart/50778603651236:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 4700,
+                "currency": "AED"
+              },
+              "max": {
+                "amount": 18800,
+                "currency": "AED"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/3kY5kFRtnSkHH9GHTf8uIt",
+            "title": "Ginger, Ginseng, Turmeric Shot & Ginger Brew \u2013 54 pcs",
+            "description": {
+              "plain": "A curated set of natural wellness drinks featuring ginger, ginseng, turmeric, and ginger brew to support digestion, vitality, and immunity."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Combines four functional shot and ginger beverage formulas made from premium natural ingredients with no preservatives or artificial additives."
+              ],
+              "top_features": "Ginger shot aids digestion and boosts metabolism for daily vitality\nGinseng shot enhances mental clarity and supports immune system\nTurmeric shot provides anti-inflammatory benefits for physical comfort\nGinger brew offers a refreshing, antioxidant-rich beverage with citrus and herbal notes\nAll drinks are made with premium natural ingredients and free from preservatives, artificial flavors, and colors",
+              "tech_specs": "Pack Size: 54 pieces (3 shots + 1 ginger brew)\nShot Volume: 30 ml each (16 bottles)\nGinger Brew Volume: 330 ml (6 bottles)\nBottle Material: BPA-free plastic\nAllergen Information: None\nDietary Preferences: Vegan, Vegetarian, No preservatives, No artificial flavors, No artificial colors"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0884/9834/0004/files/Collections2.png",
+                "alt_text": "Ginger, Ginseng, Turmeric Shot & Ginger Brew \u2013 54 pcs"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/50778656571556?shop=88498340004",
+                "title": "Ginger, Ginseng, Turmeric Shot & Ginger Brew \u2013 54 pcs",
+                "description": {
+                  "plain": "Offer content: Each Ginger Shot delivers a zesty, refreshing taste that supports digestive comfort and daily vitality ,30 ml \u00d7 16 BPA-free bottles. Ginseng Shots help sharpen focus and promote physical vitality \u2013 30 ml \u00d7 16 BPA free bottle. Turmeric Shots offer calming and anti-inflammatory support \u2013 30 ml \u00d7 16 BPA free bottle. Ginger Brew provides daily refreshment with citrus and herbal notes \u2013 330 ml \u00d7 6. This variety pack is crafted to promote vitality, immunity, and digestive comfort , a practical choice for today\u2019s health-conscious lifestyle. Al Malaky Royal presents this curated combo of natural wellness drinks featuring three functional shot formulas and a sparkling ginger beverage all made from premium, natural ingredients. The Ginger Shot blends fresh ginger juice, sidr honey, and lemon juice to help aid digestion, boost metabolism, and ease stomach discomfort naturally. The Ginseng Shot is made with pure Korean red ginseng extract to enhance mental clarity, support circulation, and naturally strengthen the immune system. Turmeric Shot features fresh turmeric, ginger, sidr honey, lemon, and mandarin offering anti-inflammatory properties that promote balance and physical comfort. Completing the combo is our fizzy Ginger Brew: a naturally refreshing drink made without preservatives or additives, rich in antioxidants from citrus and ginger, ideal for hydration and energy at any time. This pack is a smart, complete solution for energizing your daily routine and embracing wellness in every sip. You can take up to 3 shots daily"
+                },
+                "url": "https://www.almalaky.com/products/ginger-beverages-set-16pc-ginger-shot-30ml-with-16pc-ginseng-shot-30ml-with-16pc-turmeric-shot-and-6pc-ginger-brew-330ml?variant=50778656571556",
+                "price": {
+                  "amount": 43900,
+                  "currency": "AED"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0884/9834/0004/files/Collections2.png",
+                    "alt_text": "Ginger, Ginseng, Turmeric Shot & Ginger Brew \u2013 54 pcs"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/88498340004",
+                  "name": "Al MALAKY FOOD STUFF PACKING L.L.C",
+                  "url": "https://www.almalaky.com",
+                  "domain": "almalaky-dubai.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/88498340004/policies/40169832612.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/88498340004/policies/40808612004.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/88498340004/policies/40808644772.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/88498340004/policies/40808677540.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.almalaky.com/cart/50778656571556:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 43900,
+                "currency": "AED"
+              },
+              "max": {
+                "amount": 43900,
+                "currency": "AED"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/6uGhpWFjb2NnXxJ9zpGcf2",
+            "title": "Ginger Shot & Ginger Brew \u2013 38 pcs",
+            "description": {
+              "plain": "A natural ginger drink set combining ginger shot and sparkling ginger beverage for digestive support and daily hydration."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Combines fresh ginger juice, honey, and lemon in both shot and sparkling formats for a natural, functional alternative to artificial beverages."
+              ],
+              "top_features": "Contains fresh ginger juice, honey, and lemon juice for natural flavor and wellness benefits\nIncludes both ginger shot (30 ml, 32 pcs) and ginger brew (330 ml, 6 pcs) for versatile consumption\nNo artificial colors, flavors, or preservatives for a clean, natural beverage\nRich in antioxidants and anti-inflammatory properties to support overall health\nConvenient BPA-free plastic bottles for safe, everyday use",
+              "tech_specs": "Ginger Shot Volume: 30 ml per bottle\nGinger Shot Count: 32 bottles\nGinger Brew Volume: 330 ml per bottle\nGinger Brew Count: 6 bottles\nFlavor: Ginger, Lemon\nPackage Type: Plastic bottle"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0884/9834/0004/files/2Shot-1Brew.png",
+                "alt_text": "Ginger Shot & Ginger Brew \u2013 38 pcs"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/50778630553764?shop=88498340004",
+                "title": "Ginger Shot & Ginger Brew \u2013 38 pcs",
+                "description": {
+                  "plain": "Offer content: Ginger Shot 30Ml - 32 Pc in BPA Free bottle Ginger Brew 330Ml - 6 Pc This combination is an ideal choice for those seeking a natural alternative to artificial beverages with a rich taste and functional benefits. This Al Malaky Royal set combines concentrated ginger shots and fizzy ginger drinks in a versatile collection suitable for everyday use. The ginger shot blends fresh ginger juice, sidr honey, and lemon juice helping support digestion, soothe the stomach, and stimulate physical and mental energy. The sparkling ginger drink, made from natural cane juice, ginger, and lemon, offers refreshing hydration, rich in antioxidants and anti-inflammatory properties. It\u2019s a wholesome alternative to sweetened or artificial drinks. This set integrates smoothly into any daily routine at home, at work, or on the go representing Al Malaky Royal\u2019s commitment to quality and natural wellness."
+                },
+                "url": "https://www.almalaky.com/products/ginger-beverages-set-32pc-ginger-shot-30ml-and-6pc-ginger-brew-330ml?variant=50778630553764",
+                "price": {
+                  "amount": 25900,
+                  "currency": "AED"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0884/9834/0004/files/2Shot-1Brew.png",
+                    "alt_text": "Ginger Shot & Ginger Brew \u2013 38 pcs"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/88498340004",
+                  "name": "Al MALAKY FOOD STUFF PACKING L.L.C",
+                  "url": "https://www.almalaky.com",
+                  "domain": "almalaky-dubai.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/88498340004/policies/40169832612.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/88498340004/policies/40808612004.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/88498340004/policies/40808644772.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/88498340004/policies/40808677540.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.almalaky.com/cart/50778630553764:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 25900,
+                "currency": "AED"
+              },
+              "max": {
+                "amount": 25900,
+                "currency": "AED"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/64DT9xYQ77wlVBcTCHbTWJ",
+            "title": "10 Ginger & Turmeric Tea",
+            "description": {
+              "plain": "A vibrant organic ginger and turmeric tea blend with lemon and lime for a zesty, energizing cup."
+            },
+            "rating": {
+              "value": 4.9,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 16
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Combines organic Peruvian ginger and turmeric with real lemon and lime for a flavorful, health-focused tea experience."
+              ],
+              "top_features": "Organic Peruvian ginger and turmeric blend: Delivers natural warmth and digestive support\nInfused with organic lemons and limes: Adds a bright, zesty citrus flavor\nSugar-free and preservative-free: Supports clean, healthy drinking\nVegan and vegetarian friendly: Suitable for a wide range of dietary needs\nNo artificial colors or flavors: Ensures a pure, natural beverage experience",
+              "tech_specs": "Ingredients: Organic Peruvian ginger, Peruvian turmeric, organic lemons, organic limes\nTea Input Type: Bags\nDietary Preferences: Organic, Vegan, Vegetarian\nAllergen Information: None\nDietary Supplements: Vitamin A, Vitamin C, Selenium\nShelf Life: Use within 3 months"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0573/5006/2128/files/TEAGINGERANDTUMERIC10_44974-L.jpg",
+                "alt_text": "10 Ginger & Turmeric Tea"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/53619181420917?shop=57350062128",
+                "title": "10 Ginger & Turmeric Tea",
+                "description": {
+                  "plain": "Explore life with our Peruvian ginger and turmeric herbal tea. A colourful cup zinging with juicy lemon and a warming kick of turmeric and ginger. This cup is vibrant, zesty and packs a punch. With flavours and ingredients from far and wide this blend will ignite your soul. Take a deep breath and start again. Don\u2019t fear adventure. Live bold with every sip of nature\u2019s most wholesome form \u2013 this herbal tea will leave you energised. Ingredients Made from organic Peruvian ginger, Peruvian turmeric, organic lemons and limes. Add a tea bag to hot boiling water and Infuse for 5mins then enjoy the real flavours of spice and earth combined into Jinger tea. Use within 3 months."
+                },
+                "url": "https://jingerdrinks.com/products/turmeric-and-ginger-herbal-tea-20-tea-bags?variant=53619181420917",
+                "price": {
+                  "amount": 1300,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0573/5006/2128/files/TEAGINGERANDTUMERIC10_44974-L.jpg",
+                    "alt_text": "10 Ginger & Turmeric Tea"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/57350062128",
+                  "name": "Jinger drinks ",
+                  "url": "https://jingerdrinks.com",
+                  "domain": "jinger-drinks.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413503536.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413536304.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413470768.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413569072.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://jingerdrinks.com/cart/53619181420917:1",
+                "rating": {
+                  "value": 4.93,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 14
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/56397481148789?shop=57350062128",
+                "title": "20 Ginger & Turmeric Tea",
+                "description": {
+                  "plain": "Explore life with our Peruvian ginger and turmeric herbal tea. A colourful cup zinging with juicy lemon and a warming kick of turmeric and ginger. This cup is vibrant, zesty and packs a punch. With flavours and ingredients from far and wide this blend will ignite your soul. Take a deep breath and start again. Don\u2019t fear adventure. Live bold with every sip of nature\u2019s most wholesome form \u2013 this herbal tea will leave you energised. Ingredients Made from organic Peruvian ginger, Peruvian turmeric, organic lemons and limes. Add a tea bag to hot boiling water and Infuse for 5mins then enjoy the real flavours of spice and earth combined into Jinger tea. Use within 3 months."
+                },
+                "url": "https://jingerdrinks.com/products/20-ginger-turmeric-tea?variant=56397481148789",
+                "price": {
+                  "amount": 2100,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0573/5006/2128/files/TEAGINGERANDTUMERIC20_44943-L.jpg",
+                    "alt_text": "20 Ginger & Turmeric Tea"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/57350062128",
+                  "name": "Jinger drinks ",
+                  "url": "https://jingerdrinks.com",
+                  "domain": "jinger-drinks.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413503536.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413536304.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413470768.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/57350062128/policies/24413569072.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://jingerdrinks.com/cart/56397481148789:1",
+                "rating": {
+                  "value": 5.0,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 2
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 1300,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 2100,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/aLxT1zdOpnJWplvbHMKRk",
+            "title": "Ginger Drinking Vinegar",
+            "description": {
+              "plain": "A zesty, organic ginger-infused apple cider vinegar drink with a balance of spices for digestive and immune support."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Made with locally sourced organic ingredients and a unique blend of ginger, lemongrass, and spices for a flavorful, healthful vinegar drink."
+              ],
+              "top_features": "Infused with fresh Hawaiian ginger root for a spicy, aromatic flavor and digestive benefits\nMade with organic apple cider vinegar and raw honey for a balanced, natural taste\nContains a blend of lemongrass hydrosol, honey, lemon, and spices for a complex, aromatic profile\nSelf-preserving and shelf-stable, requiring no refrigeration\nGluten-free, non-GMO, and vegetarian for dietary inclusivity",
+              "tech_specs": "Ingredients: Fresh Hawaiian ginger root, organic cider vinegar, raw honey, lemongrass hydrosol, fresh lemon juice, cracked pepper, garlic, clove, cinnamon, star anise\nDietary Preferences: Gluten-free, vegetarian, non-GMO\nVinegar Drink Variety: Shrub\nFlavor Profile: Hot, zesty, sweet, warm, earthy, spice-driven\nShelf Life: Self-preserving, shelf-stable\nBatch Size: Made in small batches"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0644/6815/6668/files/stone-hollow-farmstead-ginger-drinking-vinegar-shf-food-in-jars-default-title-37503933612284.jpg",
+                "alt_text": "Ginger Drinking Vinegar - Stone Hollow Farmstead"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/43091544015100?shop=64468156668",
+                "title": "Ginger Drinking Vinegar",
+                "description": {
+                  "plain": "Your mouth might start to water before you even pour your first shot. Your tongue will probably start doing a happy dance as you crack the seal on the bottle. Your brain knows what\u2019s coming, even before your tastebuds do. That is the power of this ginger-infused apple cider vinegar. Our organic apple cider vinegar base gets its peppery jolt from organic ginger root grown on our Harpersville farm. Not content to stop there, we layer in our signature lemongrass hydrosol, honey, lemon and red pepper which gives this vinegar a balance that is only complemented by the addition of garlic, cinnamon, clove, star anise and cardamom. Digestive Relief & Anti-inflammatory Create healthy beverages, signature cocktails and non-alcohol mocktails with Stone Hollow Farmstead\u2019s infused drinking vinegars. Concentrated for health benefits and will mix into creative cocktails and sodas wonderfully. Made with raw organic apple cider vinegar. Made with locally sourced or Stone Hollow grown ingredients. Self-preserving, shelf stable, non-GMO, gluten free, vegetarian. Made in small batches with fresh seasonal ingredients. Ginger Drinking Vinegar benefits: Rich in citral Reduces inflammation Promotes healthy digestion Good source of gingerols Boosts Immunity DIRECTIONS | Add one ounce to six ounces of still or sparkling water once or twice per day Take a shot (about 1-2 Tablespoons) straight up, Dilute with warm water, juice or apple cider. Use in Bloody Marys\u2019. Use as a hangover cure. FLAVOR PROFILE | Hot and zesty, yet sweet and warm, as aromatic as flavorful TASTING NOTES | Earthy and spice-driven; ginger is omnipresent here, but you\u2019ll get notes of garlic, lemongrass and honey as well. KITCHEN PAIRINGS | Ginger is a widely used ingredient so think of using it anywhere you\u2019d use the spice itself to give acidity and greater depth to a dish. Swap vinegar in a salad dressing for ginger vinegar, add to fried rice, drizzle over steamed veggies, use as a marinade for tofu, meat, etc., add to soup or chili. BAR PAIRINGS | Gin and Vodka friendly; use in Vodka/Gin & Tonics, carbonated beverages, sparkling wine. Ginger Drinking Vinegar Ingredients | Fresh Hawaiian ginger root, organic cider vinegar, raw honey, lemongrass hydrosol, fresh lemon juice, cracked pepper, garlic, clove, cinnamon, star anise"
+                },
+                "url": "https://www.stonehollowfarmstead.com/products/ginger-drinking-vinegar?variant=43091544015100",
+                "price": {
+                  "amount": 1850,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0644/6815/6668/files/stone-hollow-farmstead-ginger-drinking-vinegar-shf-food-in-jars-default-title-37503933612284.jpg",
+                    "alt_text": "Ginger Drinking Vinegar - Stone Hollow Farmstead"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/64468156668",
+                  "name": "Stone Hollow Farmstead",
+                  "url": "https://www.stonehollowfarmstead.com",
+                  "domain": "shf-retail-test.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/64468156668/policies/27644756220.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/64468156668/policies/27644788988.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/64468156668/policies/27644723452.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/64468156668/policies/27644821756.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.stonehollowfarmstead.com/cart/43091544015100:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 1850,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 1850,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "messages": []
+      }
+    }
+  }
+}

@@ -1,0 +1,2273 @@
+{
+  "query": "desk lamp",
+  "fetched_at": 1778264718.3326988,
+  "count": 10,
+  "products": [
+    {
+      "id": "gid://shopify/p/3lpAsimzbK80q4zN4ccM87",
+      "title": "Lume Cube Edge Light 2.0 Black LED Desk Lamp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0078/6628/6137/files/edge-light-2-0-lume-cube-led-desk-lamp_01.jpg",
+      "seller_name": "Lume Cube, Inc.",
+      "seller_url": "https://lumecube.com",
+      "price_min": 119.99,
+      "price_max": 119.99,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://lumecube.com/cart/42035779272761:1",
+      "rating": 4.8,
+      "rating_count": 1038
+    },
+    {
+      "id": "gid://shopify/p/11sD4KpLKc4X0AYHN6BNv9",
+      "title": "Lume Cube Edge Light 2.0 with Base Black LED Desk Lamp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0078/6628/6137/files/231017_EdgeLightBaseEdition_Shopify_PDPImages_Main_01.jpg",
+      "seller_name": "Lume Cube, Inc.",
+      "seller_url": "https://lumecube.com",
+      "price_min": 135.99,
+      "price_max": 135.99,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://lumecube.com/cart/41623838523449:1",
+      "rating": 4.9,
+      "rating_count": 314
+    },
+    {
+      "id": "gid://shopify/p/26SQWSRtovI3SwgIToyHO6",
+      "title": "Circadian Rhythm Desk Lamp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0075/2923/4522/files/MainImage_21ac8262-5012-4895-8b35-1a5be000af15.png",
+      "seller_name": "Hooga",
+      "seller_url": "https://hoogahealth.com",
+      "price_min": 30.0,
+      "price_max": 30.0,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://hoogahealth.com/cart/44534793208055:1",
+      "rating": 5.0,
+      "rating_count": 4
+    },
+    {
+      "id": "gid://shopify/p/5nAljRqcuVBLZaGr93XrL6",
+      "title": "Spin Lamp 2.0",
+      "image_url": "https://cdn.shopify.com/s/files/1/0585/9763/8229/files/product_1x1_google.jpg",
+      "seller_name": "Outwitt Creations",
+      "seller_url": "https://outwittcreations.com",
+      "price_min": 60.0,
+      "price_max": 64.0,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://outwittcreations.com/cart/42067495059541:1",
+      "rating": 4.9,
+      "rating_count": 23
+    },
+    {
+      "id": "gid://shopify/p/7Jd5kJhTqJXcyXNbbag0Lh",
+      "title": "LED Wood Brass Elegant Desk Table Light - Bedroom Study Banker Adjustable Lamp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0193/3346/files/SleekBrassAndWoodDesignTableLamp.png",
+      "seller_name": "12VMonster Lighting ",
+      "seller_url": "https://12vmonster.com",
+      "price_min": 69.99,
+      "price_max": 69.99,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://12vmonster.com/cart/31785408331824:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/1hkedBhkBgKWQyYDCjneaK",
+      "title": "Lepro Touch-Control LED Desk Lamp \u2013 Dimmable with 3 Color Modes for Home & Office (Black)",
+      "image_url": "https://cdn.shopify.com/s/files/1/0687/7980/2669/files/51aiEGGoX5L._AC_SL1500.jpg",
+      "seller_name": "Lepro US",
+      "seller_url": "https://www.lepro.com",
+      "price_min": 28.74,
+      "price_max": 28.74,
+      "available": true,
+      "variant_count": 1,
+      "url": "https://www.lepro.com/cart/44037112299565:1",
+      "rating": 4.8,
+      "rating_count": 37
+    },
+    {
+      "id": "gid://shopify/p/2jlVhHAbujIaaQvWXvR4b3",
+      "title": "Modern Dimmable Desk Lamp with Gooseneck Frosted Glass White",
+      "image_url": "https://cdn.shopify.com/s/files/1/0957/8178/1850/files/Modern_Dimmable_Desk_Lamp_with_Gooseneck_Frosted_Glass_White_99.png",
+      "seller_name": "Stack and Clear",
+      "seller_url": "https://stackandclear.com",
+      "price_min": 178.0,
+      "price_max": 178.0,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://stackandclear.com/cart/53865159393626:1",
+      "rating": null,
+      "rating_count": null
+    },
+    {
+      "id": "gid://shopify/p/1m61xHrM5xoP3IyEYn3qD2",
+      "title": "Lume Cube Edge Light Go Task Light with Red Light Mode",
+      "image_url": "https://cdn.shopify.com/s/files/1/0078/6628/6137/files/Sand.jpg",
+      "seller_name": "Lume Cube, Inc.",
+      "seller_url": "https://lumecube.com",
+      "price_min": 159.2,
+      "price_max": 159.2,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://lumecube.com/cart/45440439648313:1",
+      "rating": 4.9,
+      "rating_count": 17
+    },
+    {
+      "id": "gid://shopify/p/2LlbW6iOD4wO8QjvcBab4A",
+      "title": "Murano Mushroom Table Lamp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0224/9457/6712/products/800-4.jpg",
+      "seller_name": "Nordic Peace",
+      "seller_url": "https://www.nordicpeace.com",
+      "price_min": 39.0,
+      "price_max": 39.0,
+      "available": true,
+      "variant_count": 10,
+      "url": "https://www.nordicpeace.com/cart/42988097011956:1",
+      "rating": 4.9,
+      "rating_count": 64
+    },
+    {
+      "id": "gid://shopify/p/16QYfbLPKWq1To1LFF7PlS",
+      "title": "Desk Lamp Modern Industrial 100% Metal Table Lamp 22\", Soft White Light (3000K) with Adjustable Switch, Ideal for Office Bedroom Study Room Living Room Nightstand Bedside Lamps Nickel",
+      "image_url": "https://cdn.shopify.com/s/files/1/0725/6267/1805/files/51wnm6Mv_iL._AC_SX679.jpg",
+      "seller_name": "ERAFORM",
+      "seller_url": "https://eraformhome.com",
+      "price_min": 124.19,
+      "price_max": 150.99,
+      "available": true,
+      "variant_count": 2,
+      "url": "https://eraformhome.com/cart/46382262976701:1",
+      "rating": null,
+      "rating_count": null
+    }
+  ],
+  "raw": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "result": {
+      "structuredContent": {
+        "ucp": {
+          "version": "2026-04-08",
+          "capabilities": {
+            "dev.ucp.shopping.catalog.search": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://ucp.dev/2026-04-08/specification/catalog",
+                "schema": "https://ucp.dev/2026-04-08/schemas/shopping/catalog_search.json"
+              }
+            ],
+            "dev.ucp.shopping.catalog.lookup": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://ucp.dev/2026-04-08/specification/catalog",
+                "schema": "https://ucp.dev/2026-04-08/schemas/shopping/catalog_lookup.json"
+              }
+            ],
+            "dev.shopify.catalog.global": [
+              {
+                "version": "2026-04-08",
+                "spec": "https://shopify.dev/docs/agents/catalog/global-catalog",
+                "schema": "https://shopify.dev/ucp/schemas/2026-04-08/shopify_catalog_global.json",
+                "extends": [
+                  "dev.ucp.shopping.catalog.search",
+                  "dev.ucp.shopping.catalog.lookup"
+                ],
+                "requires": {
+                  "protocol": {
+                    "min": "2026-04-08"
+                  }
+                }
+              }
+            ]
+          },
+          "status": "success"
+        },
+        "products": [
+          {
+            "id": "gid://shopify/p/3lpAsimzbK80q4zN4ccM87",
+            "title": "Lume Cube Edge Light 2.0 Black LED Desk Lamp",
+            "description": {
+              "plain": "A modern clamp-on LED desk lamp with edge-lit technology, adjustable brightness, and color temperature control for optimal focus and workspace ambiance."
+            },
+            "rating": {
+              "value": 4.8,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 1038
+            },
+            "options": [
+              {
+                "name": "Color",
+                "values": [
+                  {
+                    "label": "Black"
+                  },
+                  {
+                    "label": "White"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Edge-lit LED technology delivers even, flicker-free illumination with 270-degree rotating head and USB-C/USB-A charging."
+              ],
+              "top_features": "Edge-lit LED technology provides even, flicker-free illumination for a distraction-free workspace\n270-degree rotating light head allows flexible positioning to suit any workflow\nColor temperature control lets users adjust ambiance from cool to warm white for personalized comfort\nDimmable LED brightness enables precise control over light intensity\nRobust clamp-on design with five adjustable pivot points ensures secure and customizable mounting",
+              "tech_specs": "Bulb Type: LED\nLighting Modes: Cool white, Daylight, Warm white\nLight Pattern: Solid\nColor Options: Black, White\nCharging Ports: USB-C, USB-A\nAdjustable Pivot Points: 5"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0078/6628/6137/files/edge-light-2-0-lume-cube-led-desk-lamp_01.jpg",
+                "alt_text": "Lume Cube Edge Light 2.0 LED Desk Lamp LC-EDGE2"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/42035779272761?shop=7866286137",
+                "title": "Lume Cube Edge Light 2.0 Black LED Desk Lamp",
+                "description": {
+                  "plain": "Introducing the Lume Cube Edge 2.0 Black LED Desk Lamp - your versatile, modern LED light companion that's a game-changer for both productivity and video appearance. Crafted to elevate your focus, flow, and ambiance. This intuitive clamp on desk lamp is the ultimate desk lighting solution for creative designers, content creators, and go-getter entrepreneurs alike. With state-of-the-art Edge-Lit LED technology, it offers evenly diffused, flicker-free illumination, creating an ideal sanctuary for focus and creativity. The minimalistic yet sturdy clamp on desk lamp design harmonizes seamlessly with your workspace's aesthetic, allowing you to keep your home or office setup distraction-free and position it wherever your workflow demands. Intuitive button controls adapt your ambiance on the fly, making it an intuitive and functional black LED desk lamp that will light up your vision. Additional Features: Color Temperature Control Dimmable LED Brightness 270\u00b0 Rotating Light Head for video streaming lighting Robust Clamp Attachment 5 Adjustable Pivot Points USB-C & USB-A Charging Ports"
+                },
+                "url": "https://lumecube.com/products/edge-light-2-0-black-led-desk-lamp?variant=42035779272761",
+                "price": {
+                  "amount": 11999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0078/6628/6137/files/edge-light-2-0-lume-cube-led-desk-lamp_01.jpg",
+                    "alt_text": "Lume Cube Edge Light 2.0 LED Desk Lamp LC-EDGE2"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/7866286137",
+                  "name": "Lume Cube, Inc.",
+                  "url": "https://lumecube.com",
+                  "domain": "lumecube.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783112249.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783145017.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783079481.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/25883476025.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://lumecube.com/cart/42035779272761:1",
+                "rating": {
+                  "value": 4.8,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 519
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/42035774193721?shop=7866286137",
+                "title": "Lume Cube Edge Light 2.0 White LED Desk Lamp",
+                "description": {
+                  "plain": "Introducing the Lume Cube Edge 2.0 White LED Desk Lamp - your versatile, modern LED light companion that's a game-changer for both productivity, video conferencing and live streaming. Crafted to elevate your focus, flow, and ambiance. This intuitive clamp on desk lamp is the ultimate desk lighting solution for creative designers, content creators, and go-getter entrepreneurs alike. With state-of-the-art Edge-Lit LED technology, it offers evenly diffused, flicker-free illumination, creating an ideal sanctuary for focus and creativity. The minimalistic yet sturdy clamp on desk lamp design harmonizes seamlessly with your workspace's aesthetic, allowing you to keep your setup distraction-free and position it wherever your workflow demands. Intuitive button controls adapt your ambiance on the fly, making it an intuitive and functional black LED desk lamp that will light up your vision. Additional Features: Color Temperature Control Dimmable LED Brightness 270\u00b0 Rotating Light Head for video streaming lighting Robust Clamp Attachment 5 Adjustable Pivot Points USB-C & USB-A Charging Ports"
+                },
+                "url": "https://lumecube.com/products/edge-light-2-0-white-led-desk-lamp?variant=42035774193721",
+                "price": {
+                  "amount": 11999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "White"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0078/6628/6137/files/231020_Shopify_EdgeLightWhite_02_1160x1450_5211e5cb-56e9-46ff-9f0f-f10ba830fc88.jpg",
+                    "alt_text": "Lume Cube Edge Light with computer monitor LC-EDGE2-W"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/7866286137",
+                  "name": "Lume Cube, Inc.",
+                  "url": "https://lumecube.com",
+                  "domain": "lumecube.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783112249.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783145017.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783079481.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/25883476025.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://lumecube.com/cart/42035774193721:1",
+                "rating": {
+                  "value": 4.8,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 519
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 11999,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 11999,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/11sD4KpLKc4X0AYHN6BNv9",
+            "title": "Lume Cube Edge Light 2.0 with Base Black LED Desk Lamp",
+            "description": {
+              "plain": "A modern LED desk lamp with touch-sensitive controls and a weighted base for customizable, flicker-free illumination in any workspace."
+            },
+            "rating": {
+              "value": 4.9,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 314
+            },
+            "options": [
+              {
+                "name": "Color",
+                "values": [
+                  {
+                    "label": "Black"
+                  },
+                  {
+                    "label": "White"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Edge-lit LED technology with touch-based color and brightness adjustment in a minimalistic weighted base."
+              ],
+              "top_features": "Edge-lit LED technology provides even, flicker-free illumination for comfortable, uninterrupted work\nTouch-sensitive slide controls allow intuitive adjustment of color temperature and brightness\nWeighted base with four adjustable pivot points enables stable, customizable desk positioning\nRotating light head supports video streaming and flexible lighting angles\nDual USB-C and USB-A charging ports offer convenient power options",
+              "tech_specs": "Bulb Type: LED\nColor Temperature: 2700K, 5000K, 7500K (adjustable)\nDimmable: Yes\nLight Head: 270-degree rotating\nBase: Weighted, 4 adjustable pivot points\nCharging Ports: USB-C, USB-A"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0078/6628/6137/files/231017_EdgeLightBaseEdition_Shopify_PDPImages_Main_01.jpg",
+                "alt_text": "Lume Cube Edge Light With Base #color_edge light 2.0 - with base LC-EDGEBASE"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/41623838523449?shop=7866286137",
+                "title": "Lume Cube Edge Light 2.0 with Base Black LED Desk Lamp",
+                "description": {
+                  "plain": "Introducing the Lume Cube Edge 2.0 Desk Lamp with Base: your creative workspace companion. With limitless possibilities the new Lume Cube Edge 2.0 Desk Lamp is a beacon of inspiration that supercharges your artistic flair, sharpens your work productivity and radiates your entrepreneurial drive. Crafted to be your unwavering ally, this adjustable desk light elevates your focus, ambiance, and desk aesthetics. Whether you\u2019re mastering your design, curating that perfect shot, or delivering your latest pitch on a video call, the Edge 2.0 is the ultimate desk lamp for the modern workflow. Featuring state-of-the-art Edge-Lit LED technology, this professional desk lamp offers an evenly diffused, flicker-free illumination, ensuring that your home or office desk space remains a sanctuary of productivity and creativity. No more squinting or discomfort; just pure uninterrupted brilliance for any mood. Exclusive to the Edge Light 2.0 with Base, our minimalistic weighted base blends seamlessly with your workspace\u2019s aesthetic, allowing you to position your multi-functional desk lamp wherever your workflow demands. Adjust your ambiance on the fly with an intuitive touch-based control base. From creators, designers to entrepreneurs and everyone in between, the Lume Cube Edge 2.0 Desk Lamp is the perfect modern LED desk lamp with base that you\u2019ve been asking for. Illuminate your vision and adapt to any task."
+                },
+                "url": "https://lumecube.com/products/edge-light-desk-lamp-with-base?variant=41623838523449",
+                "price": {
+                  "amount": 13599,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0078/6628/6137/files/231017_EdgeLightBaseEdition_Shopify_PDPImages_Main_01.jpg",
+                    "alt_text": "Lume Cube Edge Light With Base #color_edge light 2.0 - with base LC-EDGEBASE"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/7866286137",
+                  "name": "Lume Cube, Inc.",
+                  "url": "https://lumecube.com",
+                  "domain": "lumecube.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783112249.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783145017.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783079481.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/25883476025.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://lumecube.com/cart/41623838523449:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 157
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/43603721158713?shop=7866286137",
+                "title": "Lume Cube Edge Light 2.0 with Base White LED Desk Lamp",
+                "description": {
+                  "plain": "Discover the Lume Cube Edge Light 2.0 with Base White LED Desk Lamp - your versatile, modern LED desk light that's a game-changer for both work productivity and video appearance. Designed to elevate your focus, flow, and workspace ambiance. This intuitive office desk lamp is the ultimate office lighting solution for creative professionals, content creators, and business entrepreneurs alike. With state-of-the-art Edge-Lit LED technology, this premium office lamp offers evenly diffused, flicker-free illumination, creating an ideal sanctuary for focus and creativity. The minimalistic yet sturdy lamp design harmonizes seamlessly with your workspace's aesthetic, allowing you to keep your home or office desk setup distraction-free and position it wherever your workflow demands. Touch sensitive base slide controls adjust your color and brightness on the fly, making it an intuitive and multi-functional white LED desk lamp that will light up your vision. Additional Features: Touch-Sensitive Slide Controls Color Temperature Adjustment (2700K - 7500K) Dimmable LED Brightness 270\u00b0 Rotating Light Head for video streaming Weighted Base 4 Adjustable Pivot Points USB-C & USB-A Charging Ports"
+                },
+                "url": "https://lumecube.com/products/lume-cube-edge-light-2-0-with-base-white-led-desk-lamp?variant=43603721158713",
+                "price": {
+                  "amount": 13599,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "White"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0078/6628/6137/files/Lume-Cube-Edge-Light-Base-White-LED-Desk-Lamp.jpg",
+                    "alt_text": "#color_edge light 2.0 - white with base LC-EDGE2"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/7866286137",
+                  "name": "Lume Cube, Inc.",
+                  "url": "https://lumecube.com",
+                  "domain": "lumecube.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783112249.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783145017.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783079481.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/25883476025.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://lumecube.com/cart/43603721158713:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 157
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 13599,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 13599,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/26SQWSRtovI3SwgIToyHO6",
+            "title": "Circadian Rhythm Desk Lamp",
+            "description": {
+              "plain": "A portable, rechargeable desk lamp with three blue light-free modes and a flexible gooseneck for customizable, circadian-friendly lighting."
+            },
+            "rating": {
+              "value": 5.0,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 4
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Three color modes, including virtually blue light-free amber and red, plus full spectrum white, for tailored circadian and sleep support."
+              ],
+              "top_features": "Three light modes: Amber 1600K, Red 625nm, Full Spectrum 4000K\u2014each tailored for different circadian needs and activities\nVirtually or completely blue light-free amber and red modes\u2014minimizes disruption of melatonin production for better sleep\nFlexible 360-degree gooseneck\u2014places light exactly where needed for reading, work, or bedside tasks\nRechargeable 2500mAh battery\u2014provides up to 10 hours of use on full brightness and longer at dimmer settings\nLightweight, travel-friendly design\u2014easy to carry for use at home, in the office, or while traveling",
+              "tech_specs": "Light Modes: Amber 1600K, Red 625nm, Full Spectrum 4000K\nBattery Capacity: 2500mAh rechargeable lithium-ion\nLED Count: 30 non-flickering LEDs\nUsage Time: Up to 10 hours at full brightness, longer at dimmer settings\nCharging: USB-C, 0-100% in ~4.5 hours\nWeight: Lightweight (exact weight not specified)"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0075/2923/4522/files/MainImage_21ac8262-5012-4895-8b35-1a5be000af15.png",
+                "alt_text": "Circadian Rhythm Desk Lamp"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/44534793208055?shop=7529234522",
+                "title": "Circadian Rhythm Desk Lamp",
+                "description": {
+                  "plain": "Support your natural sleep-wake cycle with the Hooga Circadian Rhythm Desk Lamp, designed to promote better rest, focus, and well-being. This portable, lightweight lamp offers three light modes\u2014amber (1600K), red (625nm), and full-spectrum white (4000K)\u2014to suit your needs throughout the day and night. The amber and red light settings are virtually or completely free of blue light, making them ideal for use after sunset when it's important to avoid bright, blue-rich light that can suppress melatonin production and disrupt sleep. Whether you're winding down at night, tending to a baby, or reading in bed, this lamp creates a calm, sleep-friendly environment that won\u2019t disturb your circadian rhythm\u2014or your partner's. The flexible, 360-degree gooseneck allows you to position the light exactly where you need it, while the compact design makes it easy to take with you anywhere\u2014from hotel rooms to campsites. A built-in 2500mAh rechargeable battery powers 30 non-flickering LEDs for up to 10 hours on full brightness, with even longer runtimes at dimmer settings. It recharges fully in about 4.5 hours via the included USB-C cable. Whether you're working late, studying, or simply prefer not to wear blue light blocking glasses, this desk lamp offers a healthier, more natural way to light your space\u2014anytime, anywhere."
+                },
+                "url": "https://hoogahealth.com/products/tri-color-desk-lamp-amber-red-white?variant=44534793208055",
+                "price": {
+                  "amount": 3000,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0075/2923/4522/files/MainImage_21ac8262-5012-4895-8b35-1a5be000af15.png",
+                    "alt_text": "Circadian Rhythm Desk Lamp"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/7529234522",
+                  "name": "Hooga",
+                  "url": "https://hoogahealth.com",
+                  "domain": "hooga-health.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/7529234522/policies/13568639066.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/7529234522/policies/13568671834.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/7529234522/policies/13568606298.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/7529234522/policies/13568704602.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://hoogahealth.com/cart/44534793208055:1",
+                "rating": {
+                  "value": 5.0,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 4
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 3000,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 3000,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/5nAljRqcuVBLZaGr93XrL6",
+            "title": "Spin Lamp 2.0",
+            "description": {
+              "plain": "A rotary desk lamp that is both larger and brighter, offering customizable lighting for any space."
+            },
+            "rating": {
+              "value": 4.9,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 23
+            },
+            "options": [
+              {
+                "name": "Cord length",
+                "values": [
+                  {
+                    "label": "3ft / 1m"
+                  },
+                  {
+                    "label": "6ft / 2m"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "World's first rotary desk lamp with enhanced brightness and size."
+              ],
+              "top_features": "Rotary design allows for adjustable light direction for focused or ambient lighting\nBigger and brighter than previous models for improved illumination\nTabletop mount provides stable and easy placement on desks or tables\nAC-powered for consistent and reliable operation",
+              "tech_specs": "Power Source: AC-powered\nMounting Type: Tabletop\nLight Color: White\nLight Pattern: Solid\nBulb Type: Not specified\nBulb Size: Not specified"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0585/9763/8229/files/product_1x1_google.jpg",
+                "alt_text": "Spin Lamp 2.0"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/42067495059541?shop=58597638229",
+                "title": "Spin Lamp 2.0",
+                "description": {
+                  "plain": "The worlds first rotary desk lamp \u2014 now bigger & brighter!"
+                },
+                "url": "https://outwittcreations.com/products/spin-lamp-2-0?variant=42067495059541",
+                "price": {
+                  "amount": 6000,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Cord length",
+                    "label": "3ft / 1m"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0585/9763/8229/files/product_1x1_google.jpg",
+                    "alt_text": "Spin Lamp 2.0"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/58597638229",
+                  "name": "Outwitt Creations",
+                  "url": "https://outwittcreations.com",
+                  "domain": "1gsnsu-qx.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/58597638229/policies/26679443541.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/58597638229/policies/27004731477.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/58597638229/policies/27004665941.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://outwittcreations.com/cart/42067495059541:1",
+                "rating": {
+                  "value": 4.87,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 23
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/42067495092309?shop=58597638229",
+                "title": "Spin Lamp 2.0",
+                "description": {
+                  "plain": "The worlds first rotary desk lamp \u2014 now bigger & brighter!"
+                },
+                "url": "https://outwittcreations.com/products/spin-lamp-2-0?variant=42067495092309",
+                "price": {
+                  "amount": 6400,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Cord length",
+                    "label": "6ft / 2m"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0585/9763/8229/files/product_1x1_google.jpg",
+                    "alt_text": "Spin Lamp 2.0"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/58597638229",
+                  "name": "Outwitt Creations",
+                  "url": "https://outwittcreations.com",
+                  "domain": "1gsnsu-qx.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/58597638229/policies/26679443541.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/58597638229/policies/27004731477.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/58597638229/policies/27004665941.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://outwittcreations.com/cart/42067495092309:1",
+                "rating": {
+                  "value": 4.87,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 23
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 6000,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 6400,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/7Jd5kJhTqJXcyXNbbag0Lh",
+            "title": "LED Wood Brass Elegant Desk Table Light - Bedroom Study Banker Adjustable Lamp",
+            "description": {
+              "plain": "Elegant faux wood and polished brass desk lamp with adjustable LED lighting for versatile use in home or office."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Timeless design with adjustable LED angle and minimalist faux wood and brass construction."
+              ],
+              "top_features": "Adjustable LED light angle for personalized illumination and flexibility\nMinimalist faux wood and polished brass design enhances any decor\nLightweight build allows easy repositioning in any space\nQuick and easy assembly for immediate use\nVersatile placement suitable for bedroom, study, office, or bedside table",
+              "tech_specs": "Material: Faux wood and polished brass\nBulb Type: LED\nColor: Brown and gold\nPattern: Solid\nDimensions: 17.72 x 45 cm\nAssembly: Quick and easy"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0193/3346/files/SleekBrassAndWoodDesignTableLamp.png",
+                "alt_text": "LED Wood Brass Elegant Desk Table Light - Bedroom Study Banker Adjustable Lamp"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/31785408331824?shop=1933346",
+                "title": "LED Wood Brass Elegant Desk Table Light - Bedroom Study Banker Adjustable Lamp",
+                "description": {
+                  "plain": "This aesthetically-designed desk lamp will make a ton of difference. Perfect for your home or your office. Whether you're a designer that works from home or an executive in your office, it has always been a fact that aesthetics are extremely significant to both morale and productivity. The LED Wooden Style Brass Elegant Desk Table Light - Bedroom Study Adjustable Light will definitely set the tone with its timeless design. Made from high-quality faux wood and polished brass, this Desk lamp\u2019s minimalist approach sets the mood throughout the day. Product Dimensions Diameter 17.72\" Height 17.72\" BEAUTIFULLY CRAFTED - With an elegant faux wooden LED lamp and polished brass base. VERSATILE - A nice addition to either your study, office or bedside table. ADJUSTABLE - The light angle can be adjusted for ultimate functionality. PERFECT SIZE - 17.72\u201d x 45cm / 17.72\u201d x 45cm LIGHTWEIGHT - for easy positioning in any environment. MOODSETTER - perfect for readers or highly productive people EASY ASSEMBLY - Quick and easy installation in less than 10 minutes"
+                },
+                "url": "https://12vmonster.com/products/led-wood-brass-elegant-desk-table-light-bedroom-study-adjustable-light?variant=31785408331824",
+                "price": {
+                  "amount": 6999,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0193/3346/files/SleekBrassAndWoodDesignTableLamp.png",
+                    "alt_text": "LED Wood Brass Elegant Desk Table Light - Bedroom Study Banker Adjustable Lamp"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/1933346",
+                  "name": "12VMonster Lighting ",
+                  "url": "https://12vmonster.com",
+                  "domain": "12vmonster.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/1933346/policies/1389849.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/1933346/policies/1389845.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/1933346/policies/1389841.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://12vmonster.com/cart/31785408331824:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 6999,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 6999,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/1hkedBhkBgKWQyYDCjneaK",
+            "title": "Lepro Touch-Control LED Desk Lamp \u2013 Dimmable with 3 Color Modes for Home & Office (Black)",
+            "description": {
+              "plain": "A dimmable LED desk lamp with 3 color modes and touch control for customizable, energy-efficient lighting at home or office."
+            },
+            "rating": {
+              "value": 4.8,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 37
+            },
+            "options": [
+              {
+                "name": "Color",
+                "values": [
+                  {
+                    "label": "Black"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Touch-sensitive control with memory function and 15 lighting combinations for personalized comfort and energy savings."
+              ],
+              "top_features": "Touch-sensitive control allows easy adjustment of brightness and color temperature for instant customization\nMemory function recalls last used settings for a seamless user experience\nThree color modes and five brightness levels provide 15 unique lighting combinations to suit any mood or task\nDiffused frosted shade and long lamp head deliver even, non-flickering lighting to reduce eye strain\nEnergy-saving LED technology reduces electricity bill by up to 75% and prevents overheating",
+              "tech_specs": "Power: 9 W\nBrightness: 450 lm\nColor Temperature: 3000K, 4200K, 6500K\nDimmable: 3 levels (white, yellow, white, yellow)\nInput Voltage: 100-240 V\nWorking Voltage: 12 V\nMaterial: Aluminum, plastic"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0687/7980/2669/files/51aiEGGoX5L._AC_SL1500.jpg",
+                "alt_text": "Lepro Touch-Control LED Desk Lamp \u2013 Dimmable with 3 Color Modes for Home & Office (Black)"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/44037112299565?shop=68779802669",
+                "title": "Lepro Touch-Control LED Desk Lamp \u2013 Dimmable with 3 Color Modes for Home & Office (Black)",
+                "description": {
+                  "plain": "Multiple Lighting Choices. This led desktop lamp offers 5 lighting modes that can each be paired with one of the 5 brightness levels for a total of 25 different light settings. Eye Care Diffused Non-Flickering Lighting. With frosted shade and a long lamp head, it cast a broader span of soft light, efficiently reduce the contrast between your monitor and the surrounding area, creating a more comfortable environment for your eyes. Sleek and Minimalist. It won\u2019t hog space on your desk, fits nicely in any desk, work bench, sewing table, bedside nightstands, nail station etc. Energy Saving LED Lamp No Heat Up. Reduce the electricity bill by 75% and do not overheat like other traditional lights. Keep your workspace cool and comfortable. Fully Adjustable Angle. Flexible to bend the main body of the lamp and the top light bar. You can focus the light exactly where you need it."
+                },
+                "url": "https://www.lepro.com/products/lepro-touch-control-led-desk-lamp-dimmable-with-3-color-modes-for-home-office?variant=44037112299565",
+                "price": {
+                  "amount": 2874,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0687/7980/2669/files/51aiEGGoX5L._AC_SL1500.jpg",
+                    "alt_text": "Lepro Touch-Control LED Desk Lamp \u2013 Dimmable with 3 Color Modes for Home & Office (Black)"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/68779802669",
+                  "name": "Lepro US",
+                  "url": "https://www.lepro.com",
+                  "domain": "bea8q8-nt.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/68779802669/policies/33815265325.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/68779802669/policies/34265595949.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/68779802669/policies/34265628717.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/68779802669/policies/34265563181.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.lepro.com/cart/44037112299565:1",
+                "rating": {
+                  "value": 4.81,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 37
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 2874,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 2874,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/2jlVhHAbujIaaQvWXvR4b3",
+            "title": "Modern Dimmable Desk Lamp with Gooseneck Frosted Glass White",
+            "description": {
+              "plain": "A modern desk lamp with a flexible gooseneck and five-level dimming for customizable workspace lighting."
+            },
+            "options": [
+              {
+                "name": "Colour",
+                "values": [
+                  {
+                    "label": "Black"
+                  },
+                  {
+                    "label": "White"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Combines a flexible gooseneck and five-level dimmable halogen lighting in a modern frosted glass design."
+              ],
+              "top_features": "Flexible gooseneck allows precise positioning for targeted lighting\nFive-level dimmable brightness adapts to different tasks and moods\nAdjustable height from 35.5 cm to 57 cm for versatile desk use\nDurable ABS body and frosted glass shade provide a modern, stylish look\nHalogen bulbs included for bright, even illumination",
+              "tech_specs": "Maximum Height: 57 cm\nMinimum Height: 35.5 cm\nMaterial: ABS body, frosted glass shade\nPower Source: DC 12V\nWattage: 6-10W\nSwitch Type: Push button\nLight Source: Halogen bulbs included"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0957/8178/1850/files/Modern_Dimmable_Desk_Lamp_with_Gooseneck_Frosted_Glass_White_99.png",
+                "alt_text": "Modern Dimmable Desk Lamp with Gooseneck Frosted Glass White 99"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/53865159393626?shop=95781781850",
+                "title": "Modern Dimmable Desk Lamp with Gooseneck Frosted Glass White",
+                "description": {
+                  "plain": "Desk Lamp for Enhanced Workspace Lighting This modern desk lamp is designed to elevate your workspace with its flexible gooseneck and adjustable height. With 5-level dimmable brightness, it ensures optimal lighting for reading, working, or relaxing, making it an essential addition to any home or office. Key Features Flexible Gooseneck: Easily adjust the lamp's position for targeted lighting. Dimmable: 5 brightness levels to suit various tasks and moods. Adjustable Height: Max height of 57cm and min height of 35.5cm for versatile use. Material: Durable ABS body with a frosted glass shade for a modern look. Light Source: Halogen bulbs included for bright illumination. Specifications Dimensions: Max. Height: 57cm / 22.4\", Min. Height: 35.5cm / 14\" Materials: ABS body, frosted glass shade Power Source: DC, 12V Wattage: 6-10W Switch Type: Push button"
+                },
+                "url": "https://stackandclear.com/products/modern-dimmable-desk-lamp-with-gooseneck-frosted-glass-white?variant=53865159393626",
+                "price": {
+                  "amount": 17800,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Colour",
+                    "label": "Black"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0957/8178/1850/files/Modern_Dimmable_Desk_Lamp_with_Gooseneck_Frosted_Glass_White_99.png",
+                    "alt_text": "Modern Dimmable Desk Lamp with Gooseneck Frosted Glass White 99"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/95781781850",
+                  "name": "Stack and Clear",
+                  "url": "https://stackandclear.com",
+                  "domain": "60zpt7-p0.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/95781781850/policies/46657601882.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/95781781850/policies/47452062042.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/95781781850/policies/47451308378.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/95781781850/policies/47452193114.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://stackandclear.com/cart/53865159393626:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/53865159426394?shop=95781781850",
+                "title": "Modern Dimmable Desk Lamp with Gooseneck Frosted Glass White",
+                "description": {
+                  "plain": "Desk Lamp for Enhanced Workspace Lighting This modern desk lamp is designed to elevate your workspace with its flexible gooseneck and adjustable height. With 5-level dimmable brightness, it ensures optimal lighting for reading, working, or relaxing, making it an essential addition to any home or office. Key Features Flexible Gooseneck: Easily adjust the lamp's position for targeted lighting. Dimmable: 5 brightness levels to suit various tasks and moods. Adjustable Height: Max height of 57cm and min height of 35.5cm for versatile use. Material: Durable ABS body with a frosted glass shade for a modern look. Light Source: Halogen bulbs included for bright illumination. Specifications Dimensions: Max. Height: 57cm / 22.4\", Min. Height: 35.5cm / 14\" Materials: ABS body, frosted glass shade Power Source: DC, 12V Wattage: 6-10W Switch Type: Push button"
+                },
+                "url": "https://stackandclear.com/products/modern-dimmable-desk-lamp-with-gooseneck-frosted-glass-white?variant=53865159426394",
+                "price": {
+                  "amount": 17800,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Colour",
+                    "label": "White"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0957/8178/1850/files/Modern_Dimmable_Desk_Lamp_with_Gooseneck_Frosted_Glass_White_2.jpg",
+                    "alt_text": "Modern Dimmable Desk Lamp with Gooseneck Frosted Glass White 2"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/95781781850",
+                  "name": "Stack and Clear",
+                  "url": "https://stackandclear.com",
+                  "domain": "60zpt7-p0.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/95781781850/policies/46657601882.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/95781781850/policies/47452062042.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/95781781850/policies/47451308378.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/95781781850/policies/47452193114.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://stackandclear.com/cart/53865159426394:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 17800,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 17800,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/1m61xHrM5xoP3IyEYn3qD2",
+            "title": "Lume Cube Edge Light Go Task Light with Red Light Mode",
+            "description": {
+              "plain": "A portable, cordless desk lamp with advanced edge LED technology for precise, flattering illumination and customizable lighting modes."
+            },
+            "rating": {
+              "value": 4.9,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 17
+            },
+            "options": [
+              {
+                "name": "Color",
+                "values": [
+                  {
+                    "label": "Black"
+                  },
+                  {
+                    "label": "Sand"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Edge lit LED technology delivers even, flattering light with adjustable warmth and red light mode for eye comfort and focus."
+              ],
+              "top_features": "Edge lit LED technology provides even, flattering illumination for focused work and creative tasks\nAdjustable warmth and precision dimming allow customization for energy efficiency or relaxation\nIntegrated red light mode reduces eye strain and supports circadian rhythm\nFour precision pivot points enable exact light placement for targeted tasks\nRechargeable design with wireless charging offers cordless freedom and clutter-free workspace",
+              "tech_specs": "Bulb Type: LED\nLight Color: Red, White\nLight Temperature: Daylight, Warm white\nLight Pattern: Solid\nColor: Black\nEnergy Efficiency Class: Not specified"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0078/6628/6137/files/Sand.jpg",
+                "alt_text": "Lume Cube Edge Light Go Task Light with Red Light Mode"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/45440439648313?shop=7866286137",
+                "title": "Lume Cube Edge Light Go Task Light with Red Light Mode",
+                "description": {
+                  "plain": "The Edge Light Go is a portable desk lamp that delivers professional-grade cordless lighting engineered for soft, high-accuracy illumination. Advanced edge lit LED technology produces even, flattering light that is easy on the eyes and ideal for focused work, creative tasks, and video calls. Adjustable warmth, precision dimming, and integrated red light mode allow you to tailor your lighting to your environment, reduce eye strain, and support focus throughout the day. Four precision pivot points give you exact control over placement so the light hits precisely where you need it. This rechargeable desk lamp moves effortlessly between spaces, making it easy to reposition lighting anywhere in your workspace. Edge Light Go is more than a lamp. It is a performance lighting solution for modern workspaces. Key Benefits: \u2022 Professional-grade illumination \u2013 soft, well-diffused light with high color accuracy \u2022 Adaptive warmth & red light mode \u2013 tune light for energy or relaxation \u2022 Precision positioning \u2013 four pivot points for exact light placement \u2022 Wireless freedom \u2013 rechargeable with wireless charging for devices \u2022 Clutter-free design \u2013 no cords, no permanent setup"
+                },
+                "url": "https://lumecube.com/products/edge-light-go?variant=45440439648313",
+                "price": {
+                  "amount": 15920,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Sand"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0078/6628/6137/files/Sand.jpg",
+                    "alt_text": "Lume Cube Edge Light Go Task Light with Red Light Mode"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/7866286137",
+                  "name": "Lume Cube, Inc.",
+                  "url": "https://lumecube.com",
+                  "domain": "lumecube.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783112249.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783145017.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783079481.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/25883476025.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://lumecube.com/cart/45440439648313:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 17
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/45440439844921?shop=7866286137",
+                "title": "Lume Cube Edge Light Go Task Light with Red Light Mode",
+                "description": {
+                  "plain": "The Edge Light Go is a portable desk lamp that delivers professional-grade cordless lighting engineered for soft, high-accuracy illumination. Advanced edge lit LED technology produces even, flattering light that is easy on the eyes and ideal for focused work, creative tasks, and video calls. Adjustable warmth, precision dimming, and integrated red light mode allow you to tailor your lighting to your environment, reduce eye strain, and support focus throughout the day. Four precision pivot points give you exact control over placement so the light hits precisely where you need it. This rechargeable desk lamp moves effortlessly between spaces, making it easy to reposition lighting anywhere in your workspace. Edge Light Go is more than a lamp. It is a performance lighting solution for modern workspaces. Key Benefits: \u2022 Professional-grade illumination \u2013 soft, well-diffused light with high color accuracy \u2022 Adaptive warmth & red light mode \u2013 tune light for energy or relaxation \u2022 Precision positioning \u2013 four pivot points for exact light placement \u2022 Wireless freedom \u2013 rechargeable with wireless charging for devices \u2022 Clutter-free design \u2013 no cords, no permanent setup"
+                },
+                "url": "https://lumecube.com/products/edge-light-go?variant=45440439844921",
+                "price": {
+                  "amount": 15920,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Color",
+                    "label": "Black"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0078/6628/6137/files/EG_BLK.jpg",
+                    "alt_text": "Lume Cube Edge Light Go Task Light with Red Light Mode"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/7866286137",
+                  "name": "Lume Cube, Inc.",
+                  "url": "https://lumecube.com",
+                  "domain": "lumecube.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783112249.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783145017.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/4783079481.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/7866286137/policies/25883476025.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://lumecube.com/cart/45440439844921:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 17
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 15920,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 15920,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/2LlbW6iOD4wO8QjvcBab4A",
+            "title": "Murano Mushroom Table Lamp",
+            "description": {
+              "plain": "A retro-inspired glass mushroom lamp with LED bulb, available in five colors and multiple plug styles for stylish, energy-efficient lighting."
+            },
+            "rating": {
+              "value": 4.9,
+              "scale_min": 1,
+              "scale_max": 5,
+              "count": 64
+            },
+            "options": [
+              {
+                "name": "Color",
+                "values": [
+                  {
+                    "label": "Lemon Striped"
+                  },
+                  {
+                    "label": "Matcha Striped"
+                  },
+                  {
+                    "label": "Pink Striped"
+                  },
+                  {
+                    "label": "White Striped"
+                  }
+                ]
+              },
+              {
+                "name": "Style",
+                "values": [
+                  {
+                    "label": "Au Plug"
+                  },
+                  {
+                    "label": "Eu Plug"
+                  },
+                  {
+                    "label": "Uk Plug"
+                  },
+                  {
+                    "label": "Us Plug"
+                  },
+                  {
+                    "label": "Usb Plug"
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "unique_selling_points": [
+                "Combines 1970s retro design with modern LED efficiency and customizable color and plug options."
+              ],
+              "top_features": "Glass mushroom-shaped shade adds vintage flair to any room\nLED bulb provides energy-efficient, long-lasting illumination\nAvailable in five colors to match diverse decor styles\nMultiple plug styles (USB, AU, US, EU, UK) for global compatibility\nCompact tabletop design ideal for desks, nightstands, or accent lighting",
+              "tech_specs": "Material: Glass\nDimensions: 19 cm x 10 cm\nBulb Type: LED\nPlug Styles: USB, AU, US, EU, UK\nAvailable Colors: Lime, Pink, White, Matcha, Purple\nMounting Type: Tabletop"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0224/9457/6712/products/800-4.jpg",
+                "alt_text": "Mushroom-shaped lamp next to wooden arched and wavy decor."
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/42988097011956?shop=22494576712",
+                "title": "Murano Mushroom Table Lamp",
+                "description": {
+                  "plain": "Discover our cute mushroom lamp and add some seventies flair to your decor! Looking for a unique lamp to add some extra light and personality to your space? Check out our Murano mushroom lamp, the trendiest 70s item to come back in style. The shade is available in multiple colors, so you can choose the perfect one to match your decor. Cute & Beautiful The Mushroom Lamp also comes with a LED bulb, making it energy-efficient. Plus, the Murano Mushroom Table Lamp makes a great desk lamp, night light, or accent light. So if you're looking for a one-of-a-kind lighting option, the Murano Mushroom Table Lamp is a perfect choice! The perfect minimal home decor piece that you can use to upgrade any corner of your home. Available in five colors, the mushroom lamp will add a little light and color to your life and make your home as pretty as possible. Product details Material: Glass Dimensions: 19cm * 10cm Available in five colors and five plug styles: Choose from lime, pink, white, matcha, or purple, and USB, AU, US, EU, or UK plugs. We have a mushroom lamp in stock for everyone. Satisfaction Guaranteed If you are not satisfied with your product, please contact us and we will do whatever it takes to make sure you are 100% satisfied with your order. We are a proud member of 1% for the Planet. We donate 1% of our annual sales to environmental non-profits in the goal of saving wildlife. Thank you for supporting us and helping save our planet. Learn more about our sustainable mission here."
+                },
+                "url": "https://www.nordicpeace.com/products/mushroom-lamp?variant=42988097011956",
+                "price": {
+                  "amount": 3900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Style",
+                    "label": "Usb Plug"
+                  },
+                  {
+                    "name": "Color",
+                    "label": "Lemon Striped"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0224/9457/6712/products/800-4.jpg",
+                    "alt_text": "Mushroom-shaped lamp next to wooden arched and wavy decor."
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/22494576712",
+                  "name": "Nordic Peace",
+                  "url": "https://www.nordicpeace.com",
+                  "domain": "nordic-peace.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862605896.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862638664.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862573128.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862671432.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.nordicpeace.com/cart/42988097011956:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 64
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/42988097044724?shop=22494576712",
+                "title": "Murano Mushroom Table Lamp",
+                "description": {
+                  "plain": "Discover our cute mushroom lamp and add some seventies flair to your decor! Looking for a unique lamp to add some extra light and personality to your space? Check out our Murano mushroom lamp, the trendiest 70s item to come back in style. The shade is available in multiple colors, so you can choose the perfect one to match your decor. Cute & Beautiful The Mushroom Lamp also comes with a LED bulb, making it energy-efficient. Plus, the Murano Mushroom Table Lamp makes a great desk lamp, night light, or accent light. So if you're looking for a one-of-a-kind lighting option, the Murano Mushroom Table Lamp is a perfect choice! The perfect minimal home decor piece that you can use to upgrade any corner of your home. Available in five colors, the mushroom lamp will add a little light and color to your life and make your home as pretty as possible. Product details Material: Glass Dimensions: 19cm * 10cm Available in five colors and five plug styles: Choose from lime, pink, white, matcha, or purple, and USB, AU, US, EU, or UK plugs. We have a mushroom lamp in stock for everyone. Satisfaction Guaranteed If you are not satisfied with your product, please contact us and we will do whatever it takes to make sure you are 100% satisfied with your order. We are a proud member of 1% for the Planet. We donate 1% of our annual sales to environmental non-profits in the goal of saving wildlife. Thank you for supporting us and helping save our planet. Learn more about our sustainable mission here."
+                },
+                "url": "https://www.nordicpeace.com/products/mushroom-lamp?variant=42988097044724",
+                "price": {
+                  "amount": 3900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Style",
+                    "label": "Au Plug"
+                  },
+                  {
+                    "name": "Color",
+                    "label": "Lemon Striped"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0224/9457/6712/products/800-4.jpg",
+                    "alt_text": "Mushroom-shaped lamp next to wooden arched and wavy decor."
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/22494576712",
+                  "name": "Nordic Peace",
+                  "url": "https://www.nordicpeace.com",
+                  "domain": "nordic-peace.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862605896.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862638664.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862573128.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862671432.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.nordicpeace.com/cart/42988097044724:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 64
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/42988097077492?shop=22494576712",
+                "title": "Murano Mushroom Table Lamp",
+                "description": {
+                  "plain": "Discover our cute mushroom lamp and add some seventies flair to your decor! Looking for a unique lamp to add some extra light and personality to your space? Check out our Murano mushroom lamp, the trendiest 70s item to come back in style. The shade is available in multiple colors, so you can choose the perfect one to match your decor. Cute & Beautiful The Mushroom Lamp also comes with a LED bulb, making it energy-efficient. Plus, the Murano Mushroom Table Lamp makes a great desk lamp, night light, or accent light. So if you're looking for a one-of-a-kind lighting option, the Murano Mushroom Table Lamp is a perfect choice! The perfect minimal home decor piece that you can use to upgrade any corner of your home. Available in five colors, the mushroom lamp will add a little light and color to your life and make your home as pretty as possible. Product details Material: Glass Dimensions: 19cm * 10cm Available in five colors and five plug styles: Choose from lime, pink, white, matcha, or purple, and USB, AU, US, EU, or UK plugs. We have a mushroom lamp in stock for everyone. Satisfaction Guaranteed If you are not satisfied with your product, please contact us and we will do whatever it takes to make sure you are 100% satisfied with your order. We are a proud member of 1% for the Planet. We donate 1% of our annual sales to environmental non-profits in the goal of saving wildlife. Thank you for supporting us and helping save our planet. Learn more about our sustainable mission here."
+                },
+                "url": "https://www.nordicpeace.com/products/mushroom-lamp?variant=42988097077492",
+                "price": {
+                  "amount": 3900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Style",
+                    "label": "Us Plug"
+                  },
+                  {
+                    "name": "Color",
+                    "label": "Lemon Striped"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0224/9457/6712/products/800-4.jpg",
+                    "alt_text": "Mushroom-shaped lamp next to wooden arched and wavy decor."
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/22494576712",
+                  "name": "Nordic Peace",
+                  "url": "https://www.nordicpeace.com",
+                  "domain": "nordic-peace.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862605896.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862638664.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862573128.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862671432.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.nordicpeace.com/cart/42988097077492:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 64
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/42988097110260?shop=22494576712",
+                "title": "Murano Mushroom Table Lamp",
+                "description": {
+                  "plain": "Discover our cute mushroom lamp and add some seventies flair to your decor! Looking for a unique lamp to add some extra light and personality to your space? Check out our Murano mushroom lamp, the trendiest 70s item to come back in style. The shade is available in multiple colors, so you can choose the perfect one to match your decor. Cute & Beautiful The Mushroom Lamp also comes with a LED bulb, making it energy-efficient. Plus, the Murano Mushroom Table Lamp makes a great desk lamp, night light, or accent light. So if you're looking for a one-of-a-kind lighting option, the Murano Mushroom Table Lamp is a perfect choice! The perfect minimal home decor piece that you can use to upgrade any corner of your home. Available in five colors, the mushroom lamp will add a little light and color to your life and make your home as pretty as possible. Product details Material: Glass Dimensions: 19cm * 10cm Available in five colors and five plug styles: Choose from lime, pink, white, matcha, or purple, and USB, AU, US, EU, or UK plugs. We have a mushroom lamp in stock for everyone. Satisfaction Guaranteed If you are not satisfied with your product, please contact us and we will do whatever it takes to make sure you are 100% satisfied with your order. We are a proud member of 1% for the Planet. We donate 1% of our annual sales to environmental non-profits in the goal of saving wildlife. Thank you for supporting us and helping save our planet. Learn more about our sustainable mission here."
+                },
+                "url": "https://www.nordicpeace.com/products/mushroom-lamp?variant=42988097110260",
+                "price": {
+                  "amount": 3900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Style",
+                    "label": "Eu Plug"
+                  },
+                  {
+                    "name": "Color",
+                    "label": "Lemon Striped"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0224/9457/6712/products/800-4.jpg",
+                    "alt_text": "Mushroom-shaped lamp next to wooden arched and wavy decor."
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/22494576712",
+                  "name": "Nordic Peace",
+                  "url": "https://www.nordicpeace.com",
+                  "domain": "nordic-peace.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862605896.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862638664.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862573128.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862671432.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.nordicpeace.com/cart/42988097110260:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 64
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/42988097143028?shop=22494576712",
+                "title": "Murano Mushroom Table Lamp",
+                "description": {
+                  "plain": "Discover our cute mushroom lamp and add some seventies flair to your decor! Looking for a unique lamp to add some extra light and personality to your space? Check out our Murano mushroom lamp, the trendiest 70s item to come back in style. The shade is available in multiple colors, so you can choose the perfect one to match your decor. Cute & Beautiful The Mushroom Lamp also comes with a LED bulb, making it energy-efficient. Plus, the Murano Mushroom Table Lamp makes a great desk lamp, night light, or accent light. So if you're looking for a one-of-a-kind lighting option, the Murano Mushroom Table Lamp is a perfect choice! The perfect minimal home decor piece that you can use to upgrade any corner of your home. Available in five colors, the mushroom lamp will add a little light and color to your life and make your home as pretty as possible. Product details Material: Glass Dimensions: 19cm * 10cm Available in five colors and five plug styles: Choose from lime, pink, white, matcha, or purple, and USB, AU, US, EU, or UK plugs. We have a mushroom lamp in stock for everyone. Satisfaction Guaranteed If you are not satisfied with your product, please contact us and we will do whatever it takes to make sure you are 100% satisfied with your order. We are a proud member of 1% for the Planet. We donate 1% of our annual sales to environmental non-profits in the goal of saving wildlife. Thank you for supporting us and helping save our planet. Learn more about our sustainable mission here."
+                },
+                "url": "https://www.nordicpeace.com/products/mushroom-lamp?variant=42988097143028",
+                "price": {
+                  "amount": 3900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Style",
+                    "label": "Uk Plug"
+                  },
+                  {
+                    "name": "Color",
+                    "label": "Lemon Striped"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0224/9457/6712/products/800-4.jpg",
+                    "alt_text": "Mushroom-shaped lamp next to wooden arched and wavy decor."
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/22494576712",
+                  "name": "Nordic Peace",
+                  "url": "https://www.nordicpeace.com",
+                  "domain": "nordic-peace.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862605896.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862638664.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862573128.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862671432.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.nordicpeace.com/cart/42988097143028:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 64
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/42988097175796?shop=22494576712",
+                "title": "Murano Mushroom Table Lamp",
+                "description": {
+                  "plain": "Discover our cute mushroom lamp and add some seventies flair to your decor! Looking for a unique lamp to add some extra light and personality to your space? Check out our Murano mushroom lamp, the trendiest 70s item to come back in style. The shade is available in multiple colors, so you can choose the perfect one to match your decor. Cute & Beautiful The Mushroom Lamp also comes with a LED bulb, making it energy-efficient. Plus, the Murano Mushroom Table Lamp makes a great desk lamp, night light, or accent light. So if you're looking for a one-of-a-kind lighting option, the Murano Mushroom Table Lamp is a perfect choice! The perfect minimal home decor piece that you can use to upgrade any corner of your home. Available in five colors, the mushroom lamp will add a little light and color to your life and make your home as pretty as possible. Product details Material: Glass Dimensions: 19cm * 10cm Available in five colors and five plug styles: Choose from lime, pink, white, matcha, or purple, and USB, AU, US, EU, or UK plugs. We have a mushroom lamp in stock for everyone. Satisfaction Guaranteed If you are not satisfied with your product, please contact us and we will do whatever it takes to make sure you are 100% satisfied with your order. We are a proud member of 1% for the Planet. We donate 1% of our annual sales to environmental non-profits in the goal of saving wildlife. Thank you for supporting us and helping save our planet. Learn more about our sustainable mission here."
+                },
+                "url": "https://www.nordicpeace.com/products/mushroom-lamp?variant=42988097175796",
+                "price": {
+                  "amount": 3900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Style",
+                    "label": "Usb Plug"
+                  },
+                  {
+                    "name": "Color",
+                    "label": "Pink Striped"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0224/9457/6712/products/ezgif.com-webp-to-jpg-10.jpg",
+                    "alt_text": "Pink mushroom lamp on table with tulips"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/22494576712",
+                  "name": "Nordic Peace",
+                  "url": "https://www.nordicpeace.com",
+                  "domain": "nordic-peace.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862605896.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862638664.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862573128.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862671432.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.nordicpeace.com/cart/42988097175796:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 64
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/42988097208564?shop=22494576712",
+                "title": "Murano Mushroom Table Lamp",
+                "description": {
+                  "plain": "Discover our cute mushroom lamp and add some seventies flair to your decor! Looking for a unique lamp to add some extra light and personality to your space? Check out our Murano mushroom lamp, the trendiest 70s item to come back in style. The shade is available in multiple colors, so you can choose the perfect one to match your decor. Cute & Beautiful The Mushroom Lamp also comes with a LED bulb, making it energy-efficient. Plus, the Murano Mushroom Table Lamp makes a great desk lamp, night light, or accent light. So if you're looking for a one-of-a-kind lighting option, the Murano Mushroom Table Lamp is a perfect choice! The perfect minimal home decor piece that you can use to upgrade any corner of your home. Available in five colors, the mushroom lamp will add a little light and color to your life and make your home as pretty as possible. Product details Material: Glass Dimensions: 19cm * 10cm Available in five colors and five plug styles: Choose from lime, pink, white, matcha, or purple, and USB, AU, US, EU, or UK plugs. We have a mushroom lamp in stock for everyone. Satisfaction Guaranteed If you are not satisfied with your product, please contact us and we will do whatever it takes to make sure you are 100% satisfied with your order. We are a proud member of 1% for the Planet. We donate 1% of our annual sales to environmental non-profits in the goal of saving wildlife. Thank you for supporting us and helping save our planet. Learn more about our sustainable mission here."
+                },
+                "url": "https://www.nordicpeace.com/products/mushroom-lamp?variant=42988097208564",
+                "price": {
+                  "amount": 3900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Style",
+                    "label": "Au Plug"
+                  },
+                  {
+                    "name": "Color",
+                    "label": "Pink Striped"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0224/9457/6712/products/ezgif.com-webp-to-jpg-10.jpg",
+                    "alt_text": "Pink mushroom lamp on table with tulips"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/22494576712",
+                  "name": "Nordic Peace",
+                  "url": "https://www.nordicpeace.com",
+                  "domain": "nordic-peace.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862605896.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862638664.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862573128.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862671432.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.nordicpeace.com/cart/42988097208564:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 64
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/42988097241332?shop=22494576712",
+                "title": "Murano Mushroom Table Lamp",
+                "description": {
+                  "plain": "Discover our cute mushroom lamp and add some seventies flair to your decor! Looking for a unique lamp to add some extra light and personality to your space? Check out our Murano mushroom lamp, the trendiest 70s item to come back in style. The shade is available in multiple colors, so you can choose the perfect one to match your decor. Cute & Beautiful The Mushroom Lamp also comes with a LED bulb, making it energy-efficient. Plus, the Murano Mushroom Table Lamp makes a great desk lamp, night light, or accent light. So if you're looking for a one-of-a-kind lighting option, the Murano Mushroom Table Lamp is a perfect choice! The perfect minimal home decor piece that you can use to upgrade any corner of your home. Available in five colors, the mushroom lamp will add a little light and color to your life and make your home as pretty as possible. Product details Material: Glass Dimensions: 19cm * 10cm Available in five colors and five plug styles: Choose from lime, pink, white, matcha, or purple, and USB, AU, US, EU, or UK plugs. We have a mushroom lamp in stock for everyone. Satisfaction Guaranteed If you are not satisfied with your product, please contact us and we will do whatever it takes to make sure you are 100% satisfied with your order. We are a proud member of 1% for the Planet. We donate 1% of our annual sales to environmental non-profits in the goal of saving wildlife. Thank you for supporting us and helping save our planet. Learn more about our sustainable mission here."
+                },
+                "url": "https://www.nordicpeace.com/products/mushroom-lamp?variant=42988097241332",
+                "price": {
+                  "amount": 3900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Style",
+                    "label": "Us Plug"
+                  },
+                  {
+                    "name": "Color",
+                    "label": "Pink Striped"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0224/9457/6712/products/ezgif.com-webp-to-jpg-10.jpg",
+                    "alt_text": "Pink mushroom lamp on table with tulips"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/22494576712",
+                  "name": "Nordic Peace",
+                  "url": "https://www.nordicpeace.com",
+                  "domain": "nordic-peace.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862605896.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862638664.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862573128.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862671432.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.nordicpeace.com/cart/42988097241332:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 64
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/42988097274100?shop=22494576712",
+                "title": "Murano Mushroom Table Lamp",
+                "description": {
+                  "plain": "Discover our cute mushroom lamp and add some seventies flair to your decor! Looking for a unique lamp to add some extra light and personality to your space? Check out our Murano mushroom lamp, the trendiest 70s item to come back in style. The shade is available in multiple colors, so you can choose the perfect one to match your decor. Cute & Beautiful The Mushroom Lamp also comes with a LED bulb, making it energy-efficient. Plus, the Murano Mushroom Table Lamp makes a great desk lamp, night light, or accent light. So if you're looking for a one-of-a-kind lighting option, the Murano Mushroom Table Lamp is a perfect choice! The perfect minimal home decor piece that you can use to upgrade any corner of your home. Available in five colors, the mushroom lamp will add a little light and color to your life and make your home as pretty as possible. Product details Material: Glass Dimensions: 19cm * 10cm Available in five colors and five plug styles: Choose from lime, pink, white, matcha, or purple, and USB, AU, US, EU, or UK plugs. We have a mushroom lamp in stock for everyone. Satisfaction Guaranteed If you are not satisfied with your product, please contact us and we will do whatever it takes to make sure you are 100% satisfied with your order. We are a proud member of 1% for the Planet. We donate 1% of our annual sales to environmental non-profits in the goal of saving wildlife. Thank you for supporting us and helping save our planet. Learn more about our sustainable mission here."
+                },
+                "url": "https://www.nordicpeace.com/products/mushroom-lamp?variant=42988097274100",
+                "price": {
+                  "amount": 3900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Style",
+                    "label": "Eu Plug"
+                  },
+                  {
+                    "name": "Color",
+                    "label": "Pink Striped"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0224/9457/6712/products/ezgif.com-webp-to-jpg-10.jpg",
+                    "alt_text": "Pink mushroom lamp on table with tulips"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/22494576712",
+                  "name": "Nordic Peace",
+                  "url": "https://www.nordicpeace.com",
+                  "domain": "nordic-peace.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862605896.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862638664.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862573128.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862671432.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.nordicpeace.com/cart/42988097274100:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 64
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/42988097306868?shop=22494576712",
+                "title": "Murano Mushroom Table Lamp",
+                "description": {
+                  "plain": "Discover our cute mushroom lamp and add some seventies flair to your decor! Looking for a unique lamp to add some extra light and personality to your space? Check out our Murano mushroom lamp, the trendiest 70s item to come back in style. The shade is available in multiple colors, so you can choose the perfect one to match your decor. Cute & Beautiful The Mushroom Lamp also comes with a LED bulb, making it energy-efficient. Plus, the Murano Mushroom Table Lamp makes a great desk lamp, night light, or accent light. So if you're looking for a one-of-a-kind lighting option, the Murano Mushroom Table Lamp is a perfect choice! The perfect minimal home decor piece that you can use to upgrade any corner of your home. Available in five colors, the mushroom lamp will add a little light and color to your life and make your home as pretty as possible. Product details Material: Glass Dimensions: 19cm * 10cm Available in five colors and five plug styles: Choose from lime, pink, white, matcha, or purple, and USB, AU, US, EU, or UK plugs. We have a mushroom lamp in stock for everyone. Satisfaction Guaranteed If you are not satisfied with your product, please contact us and we will do whatever it takes to make sure you are 100% satisfied with your order. We are a proud member of 1% for the Planet. We donate 1% of our annual sales to environmental non-profits in the goal of saving wildlife. Thank you for supporting us and helping save our planet. Learn more about our sustainable mission here."
+                },
+                "url": "https://www.nordicpeace.com/products/mushroom-lamp?variant=42988097306868",
+                "price": {
+                  "amount": 3900,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "options": [
+                  {
+                    "name": "Style",
+                    "label": "Uk Plug"
+                  },
+                  {
+                    "name": "Color",
+                    "label": "Pink Striped"
+                  }
+                ],
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0224/9457/6712/products/ezgif.com-webp-to-jpg-10.jpg",
+                    "alt_text": "Pink mushroom lamp on table with tulips"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/22494576712",
+                  "name": "Nordic Peace",
+                  "url": "https://www.nordicpeace.com",
+                  "domain": "nordic-peace.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862605896.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862638664.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862573128.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/22494576712/policies/11862671432.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.nordicpeace.com/cart/42988097306868:1",
+                "rating": {
+                  "value": 4.9,
+                  "scale_min": 1,
+                  "scale_max": 5,
+                  "count": 64
+                },
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 3900,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 3900,
+                "currency": "USD"
+              }
+            }
+          },
+          {
+            "id": "gid://shopify/p/16QYfbLPKWq1To1LFF7PlS",
+            "title": "Desk Lamp Modern Industrial 100% Metal Table Lamp 22\", Soft White Light (3000K) with Adjustable Switch, Ideal for Office Bedroom Study Room Living Room Nightstand Bedside Lamps Nickel",
+            "description": {
+              "plain": "A tall, all-metal desk lamp with adjustable dimming and a warm white LED for versatile, energy-efficient lighting in any room."
+            },
+            "metadata": {
+              "unique_selling_points": [
+                "Stepless dimming switch and adjustable height for customizable lighting in any setting."
+              ],
+              "top_features": "All-metal construction blends industrial and modern aesthetics for versatile home decor\nStepless dimming switch allows precise control of light intensity for any mood or task\nAdjustable high and low positions provide flexible lighting range and height\nWarm 3000K LED bulb delivers comfortable, energy-saving illumination\nSturdy electroplated metal base with rubber anti-slip pads ensures stability and safety",
+              "tech_specs": "Material: Electroplated metal\nFinish: Nickel\nBulb Type: LED\nBulb Size: E26\nLight Color: Warm white (3000K)\nProduct Dimensions: 19.49 D x 9.45 W x 22 H inches\nItem Weight: 4.5 pounds"
+            },
+            "media": [
+              {
+                "type": "image",
+                "url": "https://cdn.shopify.com/s/files/1/0725/6267/1805/files/51wnm6Mv_iL._AC_SX679.jpg",
+                "alt_text": "Desk Lamp Modern Industrial 100% Metal Table Lamp 22\", Soft White Light (3000K) with Adjustable Switch, Ideal for Office Bedroom Study Room Living Room Nightstand Bedside Lamps Nickel"
+              }
+            ],
+            "variants": [
+              {
+                "id": "gid://shopify/ProductVariant/46382262976701?shop=72562671805",
+                "title": "Desk Lamp Modern Industrial 100% Metal Table Lamp 22\", Soft White Light (3000K) with Adjustable Switch, Ideal for Office Bedroom Study Room Living Room Nightstand Bedside Lamps Nickel",
+                "description": {
+                  "plain": "About This Unique Metal Table Lamp: Unique design, all metal material blends industrial style with modern fashion aesthetics, finding a balance between retro and modern. Its smooth lines and modern aesthetics can be integrated into more decorations, enhancing the taste of your home decoration High Quality Materials: Our desk lamp is made of high-quality metal, combining elegance and durability. A sturdy and heavy solid circular base, with rubber anti slip pads installed at the bottom, keeps the desk lamp stable and safe in the desired position, creating a fashionable and high-quality atmosphere in your space Dimmable Switch: This tall desk lamp is equipped with a UL stepless dimming switch on the power cord, with a dimming range of 100% -0%. It is easy and fast to use, and can be controlled freely to meet your various needs for ambient light Energy Saving and Comfortable Lighting: The desk lamp is equipped with a 5W LED dimmable bulb with a soothing 3000K color temperature, providing warm and comfortable lighting for your reading and home office needs. Compared to traditional light bulbs, our energy-saving LED bulbs can save up to 85% of energy costs Your Life Partner: Modern desk lamps are designed with adjustable high and low positions, which can be adjusted according to your needs to obtain the height and light range you want to illuminate, it can work properly in many places. It is particularly suitable as a reading light for your work lamp, bedside table, and bedside table, or as a key light on the top of the coffee table in the guest room Overview Finish Type : Nickel Base Material : Electroplated metal surface Bulb Base : E26 Product Dimensions : 19.49\"D x 9.45\"W x 22\"H Item Weight : 4.5 Pounds"
+                },
+                "url": "https://eraformhome.com/products/b0f294ymsm?variant=46382262976701",
+                "price": {
+                  "amount": 12419,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0725/6267/1805/files/51wnm6Mv_iL._AC_SX679.jpg",
+                    "alt_text": "Desk Lamp Modern Industrial 100% Metal Table Lamp 22\", Soft White Light (3000K) with Adjustable Switch, Ideal for Office Bedroom Study Room Living Room Nightstand Bedside Lamps Nickel"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/72562671805",
+                  "name": "ERAFORM",
+                  "url": "https://eraformhome.com",
+                  "domain": "c89xfy-wx.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/72562671805/policies/36358914237.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/72562671805/policies/39572078781.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/72562671805/policies/39572046013.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/72562671805/policies/39572144317.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://eraformhome.com/cart/46382262976701:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              },
+              {
+                "id": "gid://shopify/ProductVariant/53893461672308?shop=94573199732",
+                "title": "Desk Lamp Modern Industrial 100% Metal Table Lamp 22\", Soft White Light (3000K) with Adjustable Switch, Ideal for Office Bedroom Study Room Living Room Nightstand Bedside Lamps Nickel",
+                "description": {
+                  "plain": "About This Unique Metal Table Lamp: Unique design, all metal material blends industrial style with modern fashion aesthetics, finding a balance between retro and modern. Its smooth lines and modern aesthetics can be integrated into more decorations, enhancing the taste of your home decoration High Quality Materials: Our desk lamp is made of high-quality metal, combining elegance and durability. A sturdy and heavy solid circular base, with rubber anti slip pads installed at the bottom, keeps the desk lamp stable and safe in the desired position, creating a fashionable and high-quality atmosphere in your space Dimmable Switch: This tall desk lamp is equipped with a UL stepless dimming switch on the power cord, with a dimming range of 100% -0%. It is easy and fast to use, and can be controlled freely to meet your various needs for ambient light Energy Saving and Comfortable Lighting: The desk lamp is equipped with a 5W LED dimmable bulb with a soothing 3000K color temperature, providing warm and comfortable lighting for your reading and home office needs. Compared to traditional light bulbs, our LED bulbs can save up to 85% of energy costs Your Life Partner: Modern desk lamps are designed with adjustable high and low positions, which can be adjusted according to your needs to obtain the height and light range you want to illuminate, it can work properly in many places. It is particularly suitable as a reading light for your work lamp, bedside table, and bedside table, or as a key light on the top of the coffee table in the guest room Overview Finish Type : Nickel Base Material : Electroplated metal surface Bulb Base : E26 Product Dimensions : 19.49\"D x 9.45\"W x 22\"H Item Weight : 4.5 Pounds"
+                },
+                "url": "https://www.glow-havenshop.com/products/b0f294ymsm?variant=53893461672308",
+                "price": {
+                  "amount": 15099,
+                  "currency": "USD"
+                },
+                "availability": {
+                  "available": true
+                },
+                "media": [
+                  {
+                    "type": "image",
+                    "url": "https://cdn.shopify.com/s/files/1/0945/7319/9732/files/51wnm6Mv_iL._AC_SX679.jpg",
+                    "alt_text": "Desk Lamp Modern Industrial 100% Metal Table Lamp 22\", Soft White Light (3000K) with Adjustable Switch, Ideal for Office Bedroom Study Room Living Room Nightstand Bedside Lamps Nickel"
+                  }
+                ],
+                "seller": {
+                  "id": "gid://shopify/Shop/94573199732",
+                  "name": "GlowHaven",
+                  "url": "https://www.glow-havenshop.com",
+                  "domain": "rmf6jq-b6.myshopify.com",
+                  "links": [
+                    {
+                      "type": "privacy_policy",
+                      "url": "https://checkout.shopify.com/94573199732/policies/47689498996.html"
+                    },
+                    {
+                      "type": "terms_of_service",
+                      "url": "https://checkout.shopify.com/94573199732/policies/47710208372.html"
+                    },
+                    {
+                      "type": "refund_policy",
+                      "url": "https://checkout.shopify.com/94573199732/policies/47710175604.html"
+                    },
+                    {
+                      "type": "shipping_policy",
+                      "url": "https://checkout.shopify.com/94573199732/policies/47714632052.html"
+                    }
+                  ]
+                },
+                "checkout_url": "https://www.glow-havenshop.com/cart/53893461672308:1",
+                "condition": [
+                  "new"
+                ],
+                "eligible": {
+                  "native_checkout": false
+                }
+              }
+            ],
+            "price_range": {
+              "min": {
+                "amount": 12419,
+                "currency": "USD"
+              },
+              "max": {
+                "amount": 15099,
+                "currency": "USD"
+              }
+            }
+          }
+        ],
+        "messages": []
+      }
+    }
+  }
+}
