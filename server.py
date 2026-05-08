@@ -274,7 +274,40 @@ async def submit_comparison(req: SubmitReq, request: Request):
     SUBMISSIONS_DIR.mkdir(parents=True, exist_ok=True)
     (SUBMISSIONS_DIR / f"{sid}.json").write_text(json.dumps(record, indent=2))
 
-    return {"id": sid, "url": f"/?view=community&id={sid}"}
+    # Bonus: if this query matches one of the 40 baseline queries (case-insensitive,
+    # whitespace-trimmed), also save it as the baseline ChatGPT file so the
+    # "Browse 40" view picks it up. Lets us populate the baseline by clicking
+    # the bookmarklet on each query, no Playwright needed.
+    matched_baseline_idx = None
+    try:
+        baselines = json.loads(QUERIES_FILE.read_text())
+        normalized_q = req.query.strip().lower()
+        for i, bq in enumerate(baselines):
+            if bq.strip().lower() == normalized_q:
+                matched_baseline_idx = i
+                break
+    except Exception:
+        pass
+
+    if matched_baseline_idx is not None:
+        CHATGPT_DIR.mkdir(parents=True, exist_ok=True)
+        baseline_record = {
+            "query": baselines[matched_baseline_idx],
+            "scraped_at": ts,
+            "source": "bookmarklet",
+            "count": len(products[:15]),
+            "products": products[:15],
+            "reply_text": reply_text[:8000],
+        }
+        (CHATGPT_DIR / f"{matched_baseline_idx}.json").write_text(
+            json.dumps(baseline_record, indent=2)
+        )
+
+    return {
+        "id": sid,
+        "url": f"/?view=community&id={sid}",
+        "matched_baseline_idx": matched_baseline_idx,
+    }
 
 
 @app.get("/api/submissions")

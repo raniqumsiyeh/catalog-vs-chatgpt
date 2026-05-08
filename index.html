@@ -144,6 +144,7 @@
     </div>
     <div class="tabs">
       <button data-tab="browse" class="active">Browse 40</button>
+      <button data-tab="baseline">Baseline capture</button>
       <button data-tab="compare">Compare your own</button>
       <button data-tab="community">Community</button>
     </div>
@@ -217,6 +218,25 @@
     </div>
   </section>
 
+  <!-- BASELINE CAPTURE PANE -->
+  <section id="view-baseline" class="pane hidden">
+    <h2>Capture the 40-query ChatGPT baseline</h2>
+    <p class="lede">Run each query yourself in your normal ChatGPT tab, then click the bookmarklet. The server auto-detects baseline matches and stores them under <code>data/chatgpt/{idx}.json</code>. No automation, no captcha.</p>
+
+    <div class="step">
+      <h3>Setup (do once)</h3>
+      <p>1. Drag the bookmarklet from the <strong>Compare your own</strong> tab into your bookmarks bar. (It POSTs to this local server.)</p>
+      <p>2. Open <a href="https://chatgpt.com/" target="_blank">chatgpt.com</a> in another tab — your normal logged-in browser, no automation.</p>
+      <p>3. Come back here for the queue.</p>
+    </div>
+
+    <div class="step">
+      <h3>Progress <span id="baseline-progress" style="color: var(--muted); font-weight: normal;"></span></h3>
+      <p style="font-size: 13px; color: var(--muted); margin-top: 4px;">For each pending query: <strong>Copy</strong> → paste into ChatGPT → wait for response → click bookmarklet. Page auto-refreshes every 5 seconds.</p>
+      <div id="baseline-list" style="margin-top: 14px;"></div>
+    </div>
+  </section>
+
   <!-- COMMUNITY PANE -->
   <section id="view-community" class="pane hidden">
     <h2>Community submissions</h2>
@@ -235,10 +255,12 @@ function show(tab) {
   document.getElementById('view-browse').classList.toggle('hidden', tab !== 'browse' && tab !== 'submission');
   document.getElementById('view-compare').classList.toggle('hidden', tab !== 'compare');
   document.getElementById('view-community').classList.toggle('hidden', tab !== 'community');
+  document.getElementById('view-baseline').classList.toggle('hidden', tab !== 'baseline');
   document.getElementById('browse-controls').classList.toggle('hidden', tab !== 'browse');
 
   if (tab === 'compare') initCompareTab();
   if (tab === 'community') loadCommunity();
+  if (tab === 'baseline') startBaselineRefresh(); else stopBaselineRefresh();
 }
 
 document.querySelectorAll('.tabs button').forEach(b => {
@@ -478,6 +500,48 @@ async function loadSubmission(id) {
     catalog: d.catalog,
     chatgpt: d.chatgpt,
   });
+}
+
+// ── Baseline capture mode ───────────────────────────────────────────
+let baselineTimer = null;
+async function renderBaseline() {
+  const r = await fetch('/api/queries');
+  const d = await r.json();
+  const captured = d.queries.filter(q => q.has_chatgpt).length;
+  document.getElementById('baseline-progress').textContent = `— ${captured} / ${d.total} captured`;
+  const el = document.getElementById('baseline-list');
+  el.innerHTML = d.queries.map(q => {
+    const status = q.has_chatgpt
+      ? `<span style="color:var(--green); font-weight:600;">✓ captured</span>`
+      : `<span style="color:var(--muted);">⏳ pending</span>`;
+    return `
+      <div style="display:flex; gap:12px; align-items:center; background:#fff; border:1px solid var(--border); border-radius:6px; padding:10px 14px; margin-bottom:6px;">
+        <span style="color:var(--muted); font-variant-numeric:tabular-nums; min-width:32px;">#${String(q.idx).padStart(2,'0')}</span>
+        <span style="flex:1; ${q.has_chatgpt ? '' : 'font-weight:500;'}">${escapeHtml(q.query)}</span>
+        <button class="copy-btn" data-q="${escapeHtml(q.query)}" style="padding:4px 10px; border:1px solid var(--border); background:#fff; border-radius:5px; font-size:12px;">Copy</button>
+        ${status}
+      </div>`;
+  }).join('');
+  el.querySelectorAll('.copy-btn').forEach(b => {
+    b.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(b.dataset.q);
+        const old = b.textContent;
+        b.textContent = 'Copied ✓';
+        setTimeout(() => { b.textContent = old; }, 1200);
+      } catch (e) {
+        alert('Copy failed: ' + e.message);
+      }
+    });
+  });
+}
+function startBaselineRefresh() {
+  renderBaseline();
+  if (baselineTimer) clearInterval(baselineTimer);
+  baselineTimer = setInterval(renderBaseline, 5000);
+}
+function stopBaselineRefresh() {
+  if (baselineTimer) { clearInterval(baselineTimer); baselineTimer = null; }
 }
 
 // ── Boot ────────────────────────────────────────────────────────────
