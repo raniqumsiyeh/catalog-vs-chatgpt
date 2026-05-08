@@ -26,11 +26,35 @@ Notes:
 import argparse
 import json
 import re
+import subprocess
 import sys
 import time
 from pathlib import Path
 
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
+
+
+def ensure_chromium_installed():
+    """Download the Playwright chromium browser if it's missing.
+
+    Playwright installs the python package via pip but doesn't bundle the
+    browser binary; first-time runs need `playwright install chromium`.
+    """
+    try:
+        with sync_playwright() as p:
+            # Cheap probe: ask for the executable path and try to stat it
+            exe = p.chromium.executable_path
+            if Path(exe).exists():
+                return
+    except Exception:
+        pass
+
+    print("Playwright chromium browser not found — downloading (~150MB, ~30s)...")
+    subprocess.run(
+        [sys.executable, "-m", "playwright", "install", "chromium"],
+        check=True,
+    )
+    print("Browser installed.\n")
 
 ROOT = Path(__file__).parent
 QUERIES_FILE = ROOT / "data" / "queries.json"
@@ -46,6 +70,7 @@ SHOPPING_PROMPT = (
 
 def setup_browser():
     """First-time setup: open chatgpt, let user log in."""
+    ensure_chromium_installed()
     print("\n=== ChatGPT Setup ===")
     print("Opening Chrome — please log into ChatGPT in the browser window.")
     print("After you're logged in and on chatgpt.com, come back here and press ENTER.\n")
@@ -246,6 +271,7 @@ def main():
         print("ERROR: no chrome profile yet. Run with --setup first.", file=sys.stderr)
         sys.exit(1)
 
+    ensure_chromium_installed()
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     queries = json.loads(QUERIES_FILE.read_text())
 
