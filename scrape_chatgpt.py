@@ -68,6 +68,44 @@ SHOPPING_PROMPT = (
 )
 
 
+STEALTH_ARGS = [
+    "--disable-blink-features=AutomationControlled",
+    "--no-default-browser-check",
+    "--no-first-run",
+    "--disable-features=Translate,InterestFeedContentSuggestions",
+]
+STEALTH_INIT = """
+// Hide the most obvious automation tell
+Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+// Plausible chrome runtime
+window.chrome = window.chrome || { runtime: {} };
+// Languages + plugin shape
+Object.defineProperty(navigator, 'languages', { get: () => ['en-US','en'] });
+Object.defineProperty(navigator, 'plugins', { get: () => [1,2,3,4,5] });
+"""
+
+
+def open_context(p, headless=False):
+    """Launch persistent context. Prefer real Chrome over bundled Chromium —
+    Cloudflare on chatgpt.com flags Chromium-for-Testing fingerprints."""
+    common = dict(
+        headless=headless,
+        viewport={"width": 1280, "height": 900},
+        args=STEALTH_ARGS,
+        ignore_default_args=["--enable-automation"],
+    )
+    try:
+        ctx = p.chromium.launch_persistent_context(
+            str(PROFILE_DIR), channel="chrome", **common,
+        )
+        print("Using real Google Chrome.")
+    except Exception as e:
+        print(f"Real Chrome unavailable ({e}); falling back to bundled chromium.")
+        ctx = p.chromium.launch_persistent_context(str(PROFILE_DIR), **common)
+    ctx.add_init_script(STEALTH_INIT)
+    return ctx
+
+
 def setup_browser():
     """First-time setup: open chatgpt, let user log in."""
     ensure_chromium_installed()
@@ -76,11 +114,7 @@ def setup_browser():
     print("After you're logged in and on chatgpt.com, come back here and press ENTER.\n")
 
     with sync_playwright() as p:
-        ctx = p.chromium.launch_persistent_context(
-            str(PROFILE_DIR),
-            headless=False,
-            viewport={"width": 1280, "height": 900},
-        )
+        ctx = open_context(p, headless=False)
         page = ctx.pages[0] if ctx.pages else ctx.new_page()
         page.goto(CHATGPT_URL)
         input("Press ENTER once you're logged in and ChatGPT is loaded...")
@@ -278,11 +312,7 @@ def main():
     indices = [args.idx] if args.idx is not None else range(len(queries))
 
     with sync_playwright() as p:
-        ctx = p.chromium.launch_persistent_context(
-            str(PROFILE_DIR),
-            headless=args.headless,
-            viewport={"width": 1280, "height": 900},
-        )
+        ctx = open_context(p, headless=args.headless)
         page = ctx.pages[0] if ctx.pages else ctx.new_page()
 
         for idx in indices:
