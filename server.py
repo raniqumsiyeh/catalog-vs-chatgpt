@@ -330,6 +330,18 @@ async def list_submissions():
     return {"total": len(rows), "submissions": rows}
 
 
+@app.delete("/api/baseline/{idx}")
+async def reset_baseline(idx: int):
+    """Delete a captured baseline so it shows as pending again."""
+    queries = json.loads(QUERIES_FILE.read_text())
+    if idx < 0 or idx >= len(queries):
+        raise HTTPException(404, "index out of range")
+    path = CHATGPT_DIR / f"{idx}.json"
+    if path.exists():
+        path.unlink()
+    return {"idx": idx, "cleared": True}
+
+
 @app.get("/api/submissions/{sid}")
 async def get_submission(sid: str):
     path = SUBMISSIONS_DIR / f"{sid}.json"

@@ -511,14 +511,24 @@ async function renderBaseline() {
   document.getElementById('baseline-progress').textContent = `— ${captured} / ${d.total} captured`;
   const el = document.getElementById('baseline-list');
   el.innerHTML = d.queries.map(q => {
-    const status = q.has_chatgpt
-      ? `<span style="color:var(--green); font-weight:600;">✓ captured</span>`
+    const captured = q.has_chatgpt;
+    const count = q.chatgpt_count || 0;
+    const status = captured
+      ? `<span style="color:var(--green); font-weight:600;">✓ ${count} prod${count===1?'':'s'}</span>`
       : `<span style="color:var(--muted);">⏳ pending</span>`;
+    const previewBtn = captured
+      ? `<button class="preview-btn" data-idx="${q.idx}" style="padding:4px 10px; border:1px solid var(--border); background:#fff; border-radius:5px; font-size:12px;">View</button>`
+      : '';
+    const resetBtn = captured
+      ? `<button class="reset-btn" data-idx="${q.idx}" data-q="${escapeHtml(q.query)}" style="padding:4px 8px; border:1px solid var(--border); background:#fff; border-radius:5px; font-size:12px; color:var(--muted);" title="Clear this capture so you can re-do it">↺</button>`
+      : '';
     return `
-      <div style="display:flex; gap:12px; align-items:center; background:#fff; border:1px solid var(--border); border-radius:6px; padding:10px 14px; margin-bottom:6px;">
+      <div style="display:flex; gap:8px; align-items:center; background:#fff; border:1px solid var(--border); border-radius:6px; padding:10px 14px; margin-bottom:6px;">
         <span style="color:var(--muted); font-variant-numeric:tabular-nums; min-width:32px;">#${String(q.idx).padStart(2,'0')}</span>
-        <span style="flex:1; ${q.has_chatgpt ? '' : 'font-weight:500;'}">${escapeHtml(q.query)}</span>
+        <span style="flex:1; ${captured ? '' : 'font-weight:500;'}">${escapeHtml(q.query)}</span>
         <button class="copy-btn" data-q="${escapeHtml(q.query)}" style="padding:4px 10px; border:1px solid var(--border); background:#fff; border-radius:5px; font-size:12px;">Copy</button>
+        ${previewBtn}
+        ${resetBtn}
         ${status}
       </div>`;
   }).join('');
@@ -529,9 +539,28 @@ async function renderBaseline() {
         const old = b.textContent;
         b.textContent = 'Copied ✓';
         setTimeout(() => { b.textContent = old; }, 1200);
-      } catch (e) {
-        alert('Copy failed: ' + e.message);
-      }
+      } catch (e) { alert('Copy failed: ' + e.message); }
+    });
+  });
+  el.querySelectorAll('.preview-btn').forEach(b => {
+    b.addEventListener('click', async () => {
+      const idx = parseInt(b.dataset.idx, 10);
+      const r = await fetch(`/api/result/${idx}`);
+      const d = await r.json();
+      const products = (d.chatgpt && d.chatgpt.products) || [];
+      const lines = products.map((p, i) =>
+        `${String(i+1).padStart(2)}. ${(p.title || '(no title)').slice(0, 60)}${p.price_text ? ' — ' + p.price_text : ''}`
+      ).join('\n');
+      alert(`Query: ${d.query}\n\nCaptured ${products.length} products:\n\n${lines || '(none)'}\n\nNot good? Click ↺ to reset, then re-run the query.`);
+    });
+  });
+  el.querySelectorAll('.reset-btn').forEach(b => {
+    b.addEventListener('click', async () => {
+      const idx = parseInt(b.dataset.idx, 10);
+      if (!confirm(`Clear capture for "${b.dataset.q}"?\n\nIt'll show as pending until you re-capture.`)) return;
+      const r = await fetch(`/api/baseline/${idx}`, { method: 'DELETE' });
+      if (r.ok) renderBaseline();
+      else alert('Reset failed: HTTP ' + r.status);
     });
   });
 }
