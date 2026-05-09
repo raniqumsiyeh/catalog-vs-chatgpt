@@ -38,6 +38,7 @@ QUERIES_FILE = ROOT / "data" / "queries.json"
 CATALOG_DIR = ROOT / "data" / "catalog"
 CHATGPT_DIR = ROOT / "data" / "chatgpt"
 SUBMISSIONS_DIR = ROOT / "data" / "submissions"
+CUSTOM_DIR = ROOT / "data" / "custom"
 INDEX_HTML = ROOT / "index.html"
 BOOKMARKLET_JS = ROOT / "bookmarklet.js"
 
@@ -303,10 +304,30 @@ async def submit_comparison(req: SubmitReq, request: Request):
             json.dumps(baseline_record, indent=2)
         )
 
+    # Also try matching against pending custom queue items — fill them in.
+    matched_custom_id = None
+    CUSTOM_DIR.mkdir(parents=True, exist_ok=True)
+    normalized_q2 = req.query.strip().lower()
+    for path in CUSTOM_DIR.glob("*.json"):
+        d = _load_json(path)
+        if not d or d.get("status") == "complete":
+            continue
+        if (d.get("query") or "").strip().lower() == normalized_q2:
+            d["status"] = "complete"
+            d["chatgpt"] = {
+                "products": products[:15],
+                "reply_text": reply_text[:8000],
+                "captured_at": ts,
+            }
+            path.write_text(json.dumps(d, indent=2))
+            matched_custom_id = d.get("id")
+            break
+
     return {
         "id": sid,
         "url": f"/?view=community&id={sid}",
         "matched_baseline_idx": matched_baseline_idx,
+        "matched_custom_id": matched_custom_id,
     }
 
 
@@ -328,6 +349,81 @@ async def list_submissions():
         })
     rows.sort(key=lambda r: r.get("submitted_at") or 0, reverse=True)
     return {"total": len(rows), "submissions": rows}
+
+
+class QueueReq(BaseModel):
+    queries: list[str]
+
+
+@app.post("/api/queue")
+async def queue_custom_queries(req: QueueReq):
+    """Add one or more user queries to the queue. For each, fetch the catalog
+    side immediately so the comparison is half-done before ChatGPT capture."""
+    cleaned = [q.strip() for q in req.queries if q.strip()]
+    if not cleaned:
+        raise HTTPException(400, "no queries")
+
+    CUSTOM_DIR.mkdir(parents=True, exist_ok=True)
+    out = []
+    for q in cleaned:
+        ts = time.time()
+        cid = _submission_id(q, ts)
+        try:
+            cat = await call_catalog_api(q, limit=10)
+            catalog_payload = {"products": cat["products"], "raw_count": cat["raw_count"]}
+        except Exception as e:
+            catalog_payload = {"products": [], "error": str(e)}
+        record = {
+            "id": cid,
+            "query": q,
+            "created_at": ts,
+            "status": "pending_chatgpt",
+            "catalog": catalog_payload,
+            "chatgpt": None,
+        }
+        (CUSTOM_DIR / f"{cid}.json").write_text(json.dumps(record, indent=2))
+        out.append({"id": cid, "query": q, "status": record["status"]})
+    return {"added": out}
+
+
+@app.get("/api/queue")
+async def list_queue(status: Optional[str] = None):
+    """List custom queries (queue). status filter: 'pending_chatgpt' | 'complete' | None."""
+    CUSTOM_DIR.mkdir(parents=True, exist_ok=True)
+    rows = []
+    for path in sorted(CUSTOM_DIR.glob("*.json")):
+        d = _load_json(path) or {}
+        if not d:
+            continue
+        if status and d.get("status") != status:
+            continue
+        rows.append({
+            "id": d.get("id"),
+            "query": d.get("query"),
+            "status": d.get("status"),
+            "created_at": d.get("created_at"),
+            "catalog_count": len((d.get("catalog") or {}).get("products") or []),
+            "chatgpt_count": len(((d.get("chatgpt") or {}).get("products") or [])) if d.get("chatgpt") else 0,
+        })
+    rows.sort(key=lambda r: r.get("created_at") or 0)
+    return {"total": len(rows), "queue": rows}
+
+
+@app.get("/api/queue/{cid}")
+async def get_queue_item(cid: str):
+    path = CUSTOM_DIR / f"{cid}.json"
+    d = _load_json(path)
+    if not d:
+        raise HTTPException(404, "not found")
+    return d
+
+
+@app.delete("/api/queue/{cid}")
+async def delete_queue_item(cid: str):
+    path = CUSTOM_DIR / f"{cid}.json"
+    if path.exists():
+        path.unlink()
+    return {"id": cid, "deleted": True}
 
 
 @app.delete("/api/baseline/{idx}")

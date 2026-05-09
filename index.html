@@ -145,6 +145,7 @@
     <div class="tabs">
       <button data-tab="browse" class="active">Browse 40</button>
       <button data-tab="baseline">Baseline capture</button>
+      <button data-tab="custom">My queries</button>
       <button data-tab="compare">Compare your own</button>
       <button data-tab="community">Community</button>
     </div>
@@ -237,6 +238,26 @@
     </div>
   </section>
 
+  <!-- CUSTOM QUERIES PANE -->
+  <section id="view-custom" class="pane hidden">
+    <h2>My queries</h2>
+    <p class="lede">Add your own queries (one per line). The Catalog API runs immediately; the ChatGPT side fills in when you capture it via the snippet or the userscript.</p>
+
+    <div class="step">
+      <h3>Add queries</h3>
+      <form id="custom-add-form" class="paste-form">
+        <textarea id="custom-queries" placeholder="One query per line, e.g.:&#10;wireless earbuds under $100&#10;running shoes for flat feet&#10;vintage leather jacket size M" style="min-height: 110px;"></textarea>
+        <button type="submit">Add to queue</button>
+      </form>
+    </div>
+
+    <div class="step">
+      <h3>Queue <span id="custom-progress" style="color: var(--muted); font-weight: normal;"></span></h3>
+      <p style="font-size: 13px; color: var(--muted); margin-top: 4px;">Auto-refreshes every 5 seconds. Click <strong>Compare</strong> to view the side-by-side once both sides are populated.</p>
+      <div id="custom-list" style="margin-top: 14px;"></div>
+    </div>
+  </section>
+
   <!-- COMMUNITY PANE -->
   <section id="view-community" class="pane hidden">
     <h2>Community submissions</h2>
@@ -256,11 +277,13 @@ function show(tab) {
   document.getElementById('view-compare').classList.toggle('hidden', tab !== 'compare');
   document.getElementById('view-community').classList.toggle('hidden', tab !== 'community');
   document.getElementById('view-baseline').classList.toggle('hidden', tab !== 'baseline');
+  document.getElementById('view-custom').classList.toggle('hidden', tab !== 'custom');
   document.getElementById('browse-controls').classList.toggle('hidden', tab !== 'browse');
 
   if (tab === 'compare') initCompareTab();
   if (tab === 'community') loadCommunity();
   if (tab === 'baseline') startBaselineRefresh(); else stopBaselineRefresh();
+  if (tab === 'custom') startCustomRefresh(); else stopCustomRefresh();
 }
 
 document.querySelectorAll('.tabs button').forEach(b => {
@@ -278,22 +301,27 @@ function fmtPrice(p) {
   return p.amount || null;
 }
 
+function linkWrap(url, inner) {
+  if (!url) return inner;
+  return `<a href="${escapeHtml(url)}" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">${inner}</a>`;
+}
+
 function renderCatalogCard(p, i) {
   const price = priceRange(p);
   const seller = p.seller_name || '';
-  const url = p.url ? `<a href="${p.url}" target="_blank">open ↗</a>` : '';
+  const sellerUrl = p.seller_url || '';
   const rating = p.rating ? `★ ${p.rating.toFixed(1)} (${p.rating_count || 0})` : '';
+  const imgEl = p.image_url ? `<img src="${escapeHtml(p.image_url)}" loading="lazy" referrerpolicy="no-referrer">` : '<div class="placeholder">📦</div>';
   return `
     <div class="card">
-      <div class="img">${p.image_url ? `<img src="${p.image_url}" loading="lazy" referrerpolicy="no-referrer">` : '<div class="placeholder">📦</div>'}</div>
+      <div class="img">${linkWrap(p.url, imgEl)}</div>
       <div class="body">
         <div class="pos">#${i+1}</div>
-        <div class="title">${escapeHtml(p.title || '(no title)')}</div>
+        <div class="title">${linkWrap(p.url, escapeHtml(p.title || '(no title)'))}</div>
         <div class="row">
           ${price ? `<span class="price">${price}</span>` : ''}
-          ${seller ? `<span class="seller">${escapeHtml(seller)}</span>` : ''}
+          ${seller ? `<span class="seller">${linkWrap(sellerUrl, escapeHtml(seller))}</span>` : ''}
           ${rating ? `<span>${rating}</span>` : ''}
-          ${url}
         </div>
         ${p.variant_count > 1 ? `<div class="extra">${p.variant_count} sellers/variants</div>` : ''}
       </div>
@@ -301,17 +329,20 @@ function renderCatalogCard(p, i) {
 }
 
 function renderChatCard(p, i) {
-  const price = fmtPrice(p.parsed_price) || extractPriceFromText(p.text_full);
-  const url = p.url ? `<a href="${p.url}" target="_blank">open ↗</a>` : '';
+  const price = p.price_text || fmtPrice(p.parsed_price) || extractPriceFromText(p.text_full);
+  const imgEl = p.image_url ? `<img src="${escapeHtml(p.image_url)}" loading="lazy" referrerpolicy="no-referrer">` : '<div class="placeholder">📦</div>';
+  // For ChatGPT links, show the host as an inline source label
+  let host = '';
+  try { host = p.url ? new URL(p.url).hostname.replace(/^www\./, '') : ''; } catch (_) {}
   return `
     <div class="card">
-      <div class="img">${p.image_url ? `<img src="${p.image_url}" loading="lazy" referrerpolicy="no-referrer">` : '<div class="placeholder">📦</div>'}</div>
+      <div class="img">${linkWrap(p.url, imgEl)}</div>
       <div class="body">
         <div class="pos">#${i+1}</div>
-        <div class="title">${escapeHtml(p.title || '(no title)')}</div>
+        <div class="title">${linkWrap(p.url, escapeHtml(p.title || '(no title)'))}</div>
         <div class="row">
-          ${price ? `<span class="price">${price}</span>` : ''}
-          ${url}
+          ${price ? `<span class="price">${escapeHtml(price)}</span>` : ''}
+          ${host ? `<span class="seller">${linkWrap(p.url, escapeHtml(host))}</span>` : ''}
         </div>
         ${p.text_full ? `<div class="extra">${escapeHtml(p.text_full)}</div>` : ''}
       </div>
@@ -616,6 +647,93 @@ async function handleCaptureParam(captureRaw) {
       </div>`;
   }
 }
+
+// ── Custom queries (queue) mode ─────────────────────────────────────
+let customTimer = null;
+async function renderCustom() {
+  const r = await fetch('/api/queue');
+  const d = await r.json();
+  const total = d.total;
+  const complete = d.queue.filter(q => q.status === 'complete').length;
+  document.getElementById('custom-progress').textContent = total ? `— ${complete} / ${total} complete` : '— empty';
+
+  const el = document.getElementById('custom-list');
+  if (total === 0) {
+    el.innerHTML = '<div class="empty">No custom queries yet. Add some above.</div>';
+    return;
+  }
+  el.innerHTML = d.queue.map(q => {
+    const done = q.status === 'complete';
+    const status = done
+      ? `<span style="color:var(--green); font-weight:600;">✓ ${q.chatgpt_count} prods</span>`
+      : `<span style="color:var(--muted);">⏳ awaiting ChatGPT</span>`;
+    return `
+      <div style="display:flex; gap:8px; align-items:center; background:#fff; border:1px solid var(--border); border-radius:6px; padding:10px 14px; margin-bottom:6px;">
+        <span style="flex:1; ${done ? '' : 'font-weight:500;'}">${escapeHtml(q.query)}</span>
+        <span style="color:var(--muted); font-size:12px;">cat: ${q.catalog_count}</span>
+        <button class="custom-copy-btn" data-q="${escapeHtml(q.query)}" style="padding:4px 10px; border:1px solid var(--border); background:#fff; border-radius:5px; font-size:12px;">Copy</button>
+        ${done ? `<button class="custom-view-btn" data-id="${q.id}" style="padding:4px 10px; border:1px solid var(--border); background:#fff; border-radius:5px; font-size:12px;">Compare</button>` : ''}
+        <button class="custom-del-btn" data-id="${q.id}" style="padding:4px 8px; border:1px solid var(--border); background:#fff; border-radius:5px; font-size:12px; color:var(--muted);" title="Remove">✕</button>
+        ${status}
+      </div>`;
+  }).join('');
+  el.querySelectorAll('.custom-copy-btn').forEach(b => {
+    b.addEventListener('click', async () => {
+      try { await navigator.clipboard.writeText(b.dataset.q); const old = b.textContent; b.textContent = 'Copied ✓'; setTimeout(() => b.textContent = old, 1200); } catch (e) { alert(e.message); }
+    });
+  });
+  el.querySelectorAll('.custom-view-btn').forEach(b => {
+    b.addEventListener('click', () => loadCustomComparison(b.dataset.id));
+  });
+  el.querySelectorAll('.custom-del-btn').forEach(b => {
+    b.addEventListener('click', async () => {
+      if (!confirm('Remove this query?')) return;
+      await fetch(`/api/queue/${b.dataset.id}`, { method: 'DELETE' });
+      renderCustom();
+    });
+  });
+}
+async function loadCustomComparison(id) {
+  const r = await fetch(`/api/queue/${id}`);
+  if (!r.ok) { alert('Not found'); return; }
+  const d = await r.json();
+  show('submission');
+  renderResult({
+    query: d.query,
+    label: 'Custom query',
+    submeta: `added ${new Date(d.created_at * 1000).toLocaleString()}`,
+    total: null, idx: null,
+    catalog: d.catalog || { products: [] },
+    chatgpt: (d.chatgpt) ? d.chatgpt : { products: [], reply_text: '' },
+  });
+}
+function startCustomRefresh() { renderCustom(); if (customTimer) clearInterval(customTimer); customTimer = setInterval(renderCustom, 5000); }
+function stopCustomRefresh() { if (customTimer) { clearInterval(customTimer); customTimer = null; } }
+
+document.getElementById('custom-add-form').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const text = document.getElementById('custom-queries').value;
+  const queries = text.split('\n').map(s => s.trim()).filter(Boolean);
+  if (queries.length === 0) return;
+  const btn = e.target.querySelector('button');
+  btn.disabled = true;
+  btn.textContent = `Fetching catalog for ${queries.length}...`;
+  try {
+    const r = await fetch('/api/queue', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({ queries }),
+    });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    document.getElementById('custom-queries').value = '';
+    await renderCustom();
+  } catch (err) {
+    alert('Add failed: ' + err.message);
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Add to queue';
+  }
+});
 
 // ── Boot ────────────────────────────────────────────────────────────
 (async () => {
