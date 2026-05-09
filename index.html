@@ -544,10 +544,59 @@ function stopBaselineRefresh() {
   if (baselineTimer) { clearInterval(baselineTimer); baselineTimer = null; }
 }
 
+// ── Capture handoff (?capture=… is JSON from the ChatGPT-side snippet) ──
+async function handleCaptureParam(captureRaw) {
+  document.body.innerHTML = `
+    <div style="padding: 60px; text-align: center; font-family: 'Inter', system-ui, sans-serif;">
+      <h2 style="color:#1a1a2e;">Saving capture...</h2>
+      <p id="capture-status" style="color:#6b7280;"></p>
+    </div>`;
+  const status = document.getElementById('capture-status');
+  try {
+    const payload = JSON.parse(decodeURIComponent(captureRaw));
+    status.textContent = `Query: "${payload.query}" — ${payload.chatgpt?.products?.length || 0} products`;
+    const r = await fetch('/api/submit', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify(payload),
+    });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const data = await r.json();
+    const baselineNote = data.matched_baseline_idx != null
+      ? `<p style="color:#2e7d32; font-weight:600;">✓ Matched baseline #${data.matched_baseline_idx}</p>`
+      : `<p style="color:#5c6ac4;">Saved as community submission (no baseline match).</p>`;
+    document.body.innerHTML = `
+      <div style="padding: 60px; text-align: center; font-family: 'Inter', system-ui, sans-serif; max-width: 600px; margin: 0 auto;">
+        <h1 style="color:#2e7d32;">✓ Captured</h1>
+        <p style="color:#1a1a2e; font-size: 18px;"><strong>${payload.query}</strong></p>
+        <p style="color:#6b7280;">${payload.chatgpt?.products?.length || 0} products captured</p>
+        ${baselineNote}
+        <p style="margin-top: 30px;">
+          <a href="/?view=baseline" style="background:#5c6ac4; color:#fff; padding:10px 20px; border-radius:6px; text-decoration:none; font-weight:600;">Back to baseline list</a>
+          &nbsp;
+          <a href="/?view=community&id=${data.id}" style="color:#5c6ac4;">View comparison →</a>
+        </p>
+        <p style="color:#999; font-size: 12px; margin-top: 40px;">You can close this tab.</p>
+      </div>`;
+  } catch (e) {
+    document.body.innerHTML = `
+      <div style="padding: 60px; text-align: center; font-family: 'Inter', system-ui, sans-serif;">
+        <h2 style="color:#b91c1c;">Capture failed</h2>
+        <p>${escapeHtml(e.message || String(e))}</p>
+        <p><a href="/?view=baseline">Back to baseline</a></p>
+      </div>`;
+  }
+}
+
 // ── Boot ────────────────────────────────────────────────────────────
 (async () => {
-  // Honor URL: ?view=community&id=… opens a specific submission directly
+  // Honor URL: ?capture=<json> from the ChatGPT-side snippet (mixed-content workaround)
   const params = new URLSearchParams(window.location.search);
+  const capture = params.get('capture');
+  if (capture) {
+    return handleCaptureParam(capture);
+  }
+  // Honor URL: ?view=community&id=… opens a specific submission directly
   const view = params.get('view');
   const id = params.get('id');
   await loadQueryList();
