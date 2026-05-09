@@ -234,6 +234,11 @@
     <div class="step">
       <h3>Progress <span id="baseline-progress" style="color: var(--muted); font-weight: normal;"></span></h3>
       <p style="font-size: 13px; color: var(--muted); margin-top: 4px;">For each pending query: <strong>Copy</strong> → paste into ChatGPT → wait for response → click bookmarklet. Page auto-refreshes every 5 seconds.</p>
+      <p style="font-size: 13px; color: var(--muted); margin-top: 10px;"><strong>Or:</strong> auto-fill the ChatGPT side via OpenAI's API (uses web_search; faster but slightly different from consumer UI):</p>
+      <div style="display:flex; gap:8px; margin-bottom:14px;">
+        <button id="baseline-fill-api" style="padding:6px 14px; background:var(--indigo); color:#fff; border:0; border-radius:6px; font-weight:600;">Auto-fill pending via API</button>
+        <button id="baseline-fill-api-all" style="padding:6px 14px; background:#fff; color:var(--indigo); border:1px solid var(--indigo); border-radius:6px;">Re-fill all (overwrite)</button>
+      </div>
       <div id="baseline-list" style="margin-top: 14px;"></div>
     </div>
   </section>
@@ -331,9 +336,11 @@ function renderCatalogCard(p, i) {
 function renderChatCard(p, i) {
   const price = p.price_text || fmtPrice(p.parsed_price) || extractPriceFromText(p.text_full);
   const imgEl = p.image_url ? `<img src="${escapeHtml(p.image_url)}" loading="lazy" referrerpolicy="no-referrer">` : '<div class="placeholder">📦</div>';
-  // For ChatGPT links, show the host as an inline source label
-  let host = '';
-  try { host = p.url ? new URL(p.url).hostname.replace(/^www\./, '') : ''; } catch (_) {}
+  // Prefer explicit merchant (API response); fall back to URL host
+  let merchant = p.merchant || '';
+  if (!merchant && p.url) {
+    try { merchant = new URL(p.url).hostname.replace(/^www\./, ''); } catch (_) {}
+  }
   return `
     <div class="card">
       <div class="img">${linkWrap(p.url, imgEl)}</div>
@@ -342,9 +349,9 @@ function renderChatCard(p, i) {
         <div class="title">${linkWrap(p.url, escapeHtml(p.title || '(no title)'))}</div>
         <div class="row">
           ${price ? `<span class="price">${escapeHtml(price)}</span>` : ''}
-          ${host ? `<span class="seller">${linkWrap(p.url, escapeHtml(host))}</span>` : ''}
+          ${merchant ? `<span class="seller">${linkWrap(p.url, escapeHtml(merchant))}</span>` : ''}
         </div>
-        ${p.text_full ? `<div class="extra">${escapeHtml(p.text_full)}</div>` : ''}
+        ${p.text_full && p.text_full !== `${p.title || ''} | ${merchant} | ${price}` ? `<div class="extra">${escapeHtml(p.text_full)}</div>` : ''}
       </div>
     </div>`;
 }
@@ -383,18 +390,23 @@ function renderResult(d) {
   const chatEl = document.getElementById('chatgpt-results');
   const chatMeta = document.getElementById('meta-chatgpt');
   const chat = d.chatgpt || {};
+  // Detect source: bookmarklet/manual = consumer UI; openai-api = API
+  const firstProductSource = (chat.products && chat.products[0] && chat.products[0].source) || '';
+  const isApi = chat.source === 'openai-api' || firstProductSource === 'openai-api';
+  const sourceLabel = isApi ? 'OpenAI API · web_search' : (chat.source || firstProductSource ? 'ChatGPT consumer UI' : '');
+
   if (chat.error) {
     chatEl.innerHTML = `<div class="err">Error: ${escapeHtml(chat.error)}</div>`;
-    chatMeta.textContent = '';
+    chatMeta.textContent = sourceLabel;
   } else if (!chat.products || chat.products.length === 0) {
-    chatEl.innerHTML = `<div class="empty">No ChatGPT product cards captured.</div>`;
+    chatEl.innerHTML = `<div class="empty">No ChatGPT results yet.</div>`;
     chatMeta.textContent = '';
     if (chat.reply_text) {
       chatEl.innerHTML += `<details class="reply-toggle"><summary>Show ChatGPT reply text</summary><pre>${escapeHtml(chat.reply_text)}</pre></details>`;
     }
   } else {
     chatEl.innerHTML = chat.products.map((p, i) => renderChatCard(p, i)).join('');
-    chatMeta.textContent = `${chat.products.length} results`;
+    chatMeta.textContent = `${chat.products.length} results · ${sourceLabel}`;
     if (chat.reply_text) {
       chatEl.innerHTML += `<details class="reply-toggle"><summary>Show full ChatGPT reply</summary><pre>${escapeHtml(chat.reply_text)}</pre></details>`;
     }
@@ -603,6 +615,35 @@ function startBaselineRefresh() {
 function stopBaselineRefresh() {
   if (baselineTimer) { clearInterval(baselineTimer); baselineTimer = null; }
 }
+
+async function triggerBaselineFill(overwrite) {
+  const btnId = overwrite ? 'baseline-fill-api-all' : 'baseline-fill-api';
+  const btn = document.getElementById(btnId);
+  const old = btn.textContent;
+  btn.textContent = 'Queuing...';
+  btn.disabled = true;
+  try {
+    const r = await fetch('/api/baselines/fill-via-api', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({ overwrite }),
+    });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const d = await r.json();
+    btn.textContent = `Queued ${d.queued} — running...`;
+    setTimeout(renderBaseline, 1500);
+    setTimeout(() => { btn.textContent = old; btn.disabled = false; }, 4000);
+  } catch (e) {
+    alert('Fill failed: ' + e.message);
+    btn.textContent = old;
+    btn.disabled = false;
+  }
+}
+document.getElementById('baseline-fill-api').addEventListener('click', () => triggerBaselineFill(false));
+document.getElementById('baseline-fill-api-all').addEventListener('click', () => {
+  if (!confirm('Re-fill ALL 40 baselines via OpenAI API? This overwrites any existing captures.')) return;
+  triggerBaselineFill(true);
+});
 
 // ── Capture handoff (?capture=… is JSON from the ChatGPT-side snippet) ──
 async function handleCaptureParam(captureRaw) {

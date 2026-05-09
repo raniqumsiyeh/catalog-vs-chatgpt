@@ -1,5 +1,5 @@
 # /// script
-# dependencies = ["fastapi[standard]", "uvicorn[standard]", "httpx"]
+# dependencies = ["fastapi[standard]", "uvicorn[standard]", "httpx", "openai>=1.40"]
 # ///
 """
 FastAPI server: side-by-side comparison of Shopify Catalog Search vs ChatGPT.
@@ -19,14 +19,18 @@ Routes:
 Run locally:  uv run server.py    (port 3458)
 """
 
+import asyncio
 import hashlib
 import json
 import os
+import re
+import subprocess
 import time
 from pathlib import Path
 from typing import Any, Optional
 
 import httpx
+import openai
 import uvicorn
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
@@ -138,6 +142,137 @@ async def call_catalog_api(query: str, limit: int = 10) -> dict:
         "products": [_normalize_catalog_product(p) for p in raw_products[:limit]],
         "raw_count": len(raw_products),
     }
+
+
+# ─────────────────────────────────────────────────────────────────────
+# OpenAI integration (via Shopify LLM gateway)
+# ─────────────────────────────────────────────────────────────────────
+
+_openai_client: Optional[openai.AsyncOpenAI] = None
+
+
+def _get_openai_client() -> Optional[openai.AsyncOpenAI]:
+    """Lazily-built async OpenAI client. Prefers Shopify LLM gateway via
+    `devx llm-gateway print-token`; falls back to OPENAI_API_KEY env var."""
+    global _openai_client
+    if _openai_client is not None:
+        return _openai_client
+
+    api_key = os.environ.get("OPENAI_API_KEY")
+    base_url = os.environ.get("OPENAI_BASE_URL")
+
+    if not api_key:
+        try:
+            r = subprocess.run(
+                ["/opt/dev/bin/user/devx", "llm-gateway", "print-token", "--key"],
+                capture_output=True, text=True, timeout=10,
+            )
+            if r.returncode == 0 and r.stdout.strip():
+                api_key = r.stdout.strip()
+                if not base_url:
+                    base_url = "https://proxy.shopify.ai/vendors/openai/v1"
+        except Exception:
+            pass
+
+    if not api_key:
+        return None
+
+    kwargs = {"api_key": api_key}
+    if base_url:
+        kwargs["base_url"] = base_url
+    _openai_client = openai.AsyncOpenAI(**kwargs)
+    return _openai_client
+
+
+_OAI_PROMPT = """You are a shopping research assistant. For the user query: "{query}"
+
+Use web search to find {limit} real products from real online merchants. Prioritize:
+- Real product pages from real stores (not editorial or review articles)
+- Diverse merchants
+- Products that match the query's intent (price range, brand, condition, etc.)
+
+Return ONLY valid JSON, no preamble, no markdown fences. Shape:
+{{
+  "products": [
+    {{
+      "title": "<product name as shown on the merchant page>",
+      "merchant": "<store name, e.g. 'Best Buy', 'Etsy seller name'>",
+      "url": "<full product page URL>",
+      "price": "<price as shown, e.g. '$49.99' or '€32.00'>",
+      "image_url": "<full product image URL or empty string>"
+    }}
+  ]
+}}
+
+Return at least 5, up to {limit}. Each product must have a real URL. Keep titles concise.
+"""
+
+
+async def call_openai_shopping(query: str, limit: int = 10) -> dict:
+    client = _get_openai_client()
+    if client is None:
+        return {
+            "products": [],
+            "error": "No OpenAI access. Run via Shopify LLM gateway, or set OPENAI_API_KEY (and optionally OPENAI_BASE_URL).",
+        }
+
+    prompt = _OAI_PROMPT.format(query=query, limit=limit)
+    text = ""
+    last_err = None
+
+    # Try Responses API with web_search_preview first
+    try:
+        resp = await client.responses.create(
+            model="gpt-4o",
+            input=prompt,
+            tools=[{"type": "web_search_preview"}],
+        )
+        text = (getattr(resp, "output_text", "") or "").strip()
+    except Exception as e:
+        last_err = f"responses api failed: {e}"
+
+    # Fallback: Chat Completions with structured-output prompt (no web search)
+    if not text:
+        try:
+            resp = await client.chat.completions.create(
+                model="gpt-4o",
+                messages=[{"role": "user", "content": prompt + "\n\nNote: web search unavailable in this fallback path; use your training-data knowledge of real products and merchants."}],
+                response_format={"type": "json_object"},
+            )
+            text = (resp.choices[0].message.content or "").strip()
+        except Exception as e:
+            return {"products": [], "error": f"{last_err or ''} | chat completions also failed: {e}"}
+
+    if not text:
+        return {"products": [], "error": last_err or "Empty response"}
+
+    # Strip markdown fences if any slipped through
+    if text.startswith("```"):
+        text = re.sub(r"^```(?:json)?\s*", "", text)
+        text = re.sub(r"\s*```\s*$", "", text)
+
+    try:
+        data = json.loads(text)
+        raw_products = data.get("products", []) or []
+    except Exception as e:
+        return {"products": [], "error": f"Could not parse JSON: {e}", "raw": text[:600]}
+
+    normalized = []
+    for p in raw_products[:limit]:
+        title = (p.get("title") or "").strip()
+        merchant = (p.get("merchant") or "").strip()
+        price = (p.get("price") or "").strip()
+        normalized.append({
+            "title": title,
+            "url": (p.get("url") or "").strip(),
+            "image_url": (p.get("image_url") or "").strip(),
+            "price_text": price,
+            "merchant": merchant,
+            "text_full": " | ".join(filter(None, [title, merchant, price])),
+            "source": "openai-api",
+        })
+
+    return {"products": normalized, "model": "gpt-4o", "tool": "web_search_preview"}
 
 
 def _submission_id(query: str, ts: float) -> str:
@@ -355,10 +490,36 @@ class QueueReq(BaseModel):
     queries: list[str]
 
 
+async def _fill_openai_for_custom(cid: str, query: str):
+    """Background task: call OpenAI shopping search and update the queue record."""
+    try:
+        result = await call_openai_shopping(query, limit=10)
+    except Exception as e:
+        result = {"products": [], "error": str(e)}
+
+    path = CUSTOM_DIR / f"{cid}.json"
+    if not path.exists():
+        return
+    try:
+        record = json.loads(path.read_text())
+    except Exception:
+        return
+    record["chatgpt"] = {
+        "products": result.get("products", []),
+        "error": result.get("error"),
+        "model": result.get("model"),
+        "source": "openai-api",
+        "completed_at": time.time(),
+    }
+    record["status"] = "complete" if not result.get("error") else "error"
+    path.write_text(json.dumps(record, indent=2))
+
+
 @app.post("/api/queue")
 async def queue_custom_queries(req: QueueReq):
-    """Add one or more user queries to the queue. For each, fetch the catalog
-    side immediately so the comparison is half-done before ChatGPT capture."""
+    """Add one or more user queries. Catalog API runs immediately (sync ~1s);
+    OpenAI shopping search is kicked off in the background and fills in as it
+    completes (~3-15s per query). Frontend polls /api/queue to show progress."""
     cleaned = [q.strip() for q in req.queries if q.strip()]
     if not cleaned:
         raise HTTPException(400, "no queries")
@@ -383,7 +544,23 @@ async def queue_custom_queries(req: QueueReq):
         }
         (CUSTOM_DIR / f"{cid}.json").write_text(json.dumps(record, indent=2))
         out.append({"id": cid, "query": q, "status": record["status"]})
+        # Fire-and-forget: OpenAI call updates the file when done
+        asyncio.create_task(_fill_openai_for_custom(cid, q))
     return {"added": out}
+
+
+@app.post("/api/queue/{cid}/retry")
+async def retry_openai_for_custom(cid: str):
+    """Re-run the OpenAI call for a queued item (e.g. after an error)."""
+    path = CUSTOM_DIR / f"{cid}.json"
+    record = _load_json(path)
+    if not record:
+        raise HTTPException(404, "not found")
+    record["status"] = "pending_chatgpt"
+    record["chatgpt"] = None
+    path.write_text(json.dumps(record, indent=2))
+    asyncio.create_task(_fill_openai_for_custom(cid, record["query"]))
+    return {"id": cid, "status": "pending_chatgpt"}
 
 
 @app.get("/api/queue")
@@ -436,6 +613,45 @@ async def reset_baseline(idx: int):
     if path.exists():
         path.unlink()
     return {"idx": idx, "cleared": True}
+
+
+async def _fill_baseline_via_api(idx: int, query: str):
+    """Background: call OpenAI for a baseline query and write data/chatgpt/{idx}.json."""
+    result = await call_openai_shopping(query, limit=10)
+    if result.get("error"):
+        return  # Don't write a bad baseline
+    CHATGPT_DIR.mkdir(parents=True, exist_ok=True)
+    record = {
+        "query": query,
+        "scraped_at": time.time(),
+        "source": "openai-api",
+        "model": result.get("model"),
+        "count": len(result["products"]),
+        "products": result["products"],
+        "reply_text": "",
+    }
+    (CHATGPT_DIR / f"{idx}.json").write_text(json.dumps(record, indent=2))
+
+
+class FillBaselinesReq(BaseModel):
+    overwrite: bool = False
+
+
+@app.post("/api/baselines/fill-via-api")
+async def fill_baselines_via_api(req: FillBaselinesReq):
+    """Auto-fill any pending baseline ChatGPT slots via OpenAI API.
+    With overwrite=true, also re-runs ones already captured."""
+    queries = json.loads(QUERIES_FILE.read_text())
+    targets = []
+    for idx, q in enumerate(queries):
+        path = CHATGPT_DIR / f"{idx}.json"
+        if path.exists() and not req.overwrite:
+            continue
+        targets.append((idx, q))
+
+    for idx, q in targets:
+        asyncio.create_task(_fill_baseline_via_api(idx, q))
+    return {"queued": len(targets), "total": len(queries)}
 
 
 @app.get("/api/submissions/{sid}")
